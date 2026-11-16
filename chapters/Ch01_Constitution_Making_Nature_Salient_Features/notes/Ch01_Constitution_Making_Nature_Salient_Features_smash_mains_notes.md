@@ -23,7 +23,7 @@
 > **On the nature of the Constitution:** "So long as you do not achieve social justice, whatever freedom is provided by the law to you will be of no avail" — B.R. Ambedkar
 
 
-
+<br>
 
 > **On Constitutional Morality and constitutionalism:** "However good a Constitution may be, if those who are implementing it are not good, it will prove to be bad. However bad a Constitution may be, if those implementing it are good, it will prove to be good" — B.R. Ambedkar
 
