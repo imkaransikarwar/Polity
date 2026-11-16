@@ -74,7 +74,7 @@ The Constitution serves as the foundational law on which other laws are construc
 
   - **a.** The secularism in the Indian Constitution is influenced by 'sarva dharma sambhav'
 
-  - **b.** Equality principles under =Article 14 to 18 are inspired from Rig Veda= that emphasizes the idea of the unity of all beings and the absence of discrimination based on caste or birth.
+  - **b.** Equality principles under == Article 14 to 18 are inspired from Rig Veda == that emphasizes the idea of the unity of all beings and the absence of discrimination based on caste or birth.
 
   - **c.** The Arthashastra calls individual liberties and property rights as essential components of good governance
 
