@@ -156,7 +156,7 @@ Constitutionalism is a political philosophy centered on limiting government powe
 
 ### Constitutional Morality
 
-"Constitutional morality is not a natural sentiment. It has to be cultivated". - Ambedkar 
+*"Constitutional morality is not a natural sentiment. It has to be cultivated". - Ambedkar *
 
 
 British Classicist George Grote described it as a "paramount reverence for the forms of the Constitution" of the land. Constitutional morality refers to an overarching set of principles that guides the interpretation of the Constitution, particularly when addressing complex legal questions. It is derived from the spirit and fundamental values enshrined in the Constitution, such as justice, liberty, human dignity, equality, fraternity. However, its scope is not confined to these explicitly stated values but extends beyond the literal text of the Constitution as well. It differs from popular morality, which is determined by popular perceptions, sentiments, and common notions prevalent in society. Constitutional Morality provides a "unifying constitutional ethic" that reflects the shared values and aspirations of a society. It actively promotes a pluralistic and inclusive society. It compels society to allow for conditions which respect diversity, promote inclusion and pursuit tolerance. Recent News
