@@ -26,7 +26,9 @@ environmental problems by the Supreme Court." Discuss this statement with the he
 Explain the doctrine of 'Constitutional Morality' with the help of relevant judicial decisions. (10)
 
 ### Quotes
- **On the significance of the Constitution:**
+ **On the significance of the Constitution:**/n
+
+
 "Constitution is not a mere lawyers' document, it is a vehicle of Life, and
  its spirit is always the spirit of Age." — B.R. Ambedkar 
  **On the nature of the Constitution:** 
