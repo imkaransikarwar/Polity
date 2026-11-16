@@ -11,6 +11,9 @@
     "Article 249",
     "Article 254"
   ],
+  "subtopic_json": "subtopics/Ch04_Sub01_Nature_of_Indian_Federalism_Cooperative_Competitive.json",
+  "prelims_notes_md": "notes/subtopics/Ch04_Sub01_Nature_of_Indian_Federalism_Cooperative_Competitive_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch04_Sub01_Nature_of_Indian_Federalism_Cooperative_Competitive_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_035.pdf",
     "pages/prelims/prelims_page_036.pdf",
@@ -33,7 +36,7 @@
       "question_id": "PRE_P036_Q1",
       "question_number": "Q1",
       "year": 2021,
-      "question_text": "Which one of the following in Indian polity is an essential feature that indicates that it is federal in character? [2021]",
+      "question_text": "Which one of the following in Indian polity is an essential feature that indicates that it is federal in character?",
       "options": {
         "a": "The independence of the judiciary is safeguarded.",
         "b": "The Union Legislature has elected representatives from constituent units.",
@@ -44,14 +47,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 36,
-      "source_page_image": "pages/prelims/prelims_page_036.pdf",
-      "markdown_formatted": "**Q1 (2021)**: Which one of the following in Indian polity is an essential feature that indicates that it is federal in character? [2021]\n- (a) The independence of the judiciary is safeguarded.\n- (b) The Union Legislature has elected representatives from constituent units.\n- (c) The Union Cabinet can have elected representatives from regional parties.\n- (d) The Fundamental Rights are enforceable by Courts of Law.\n- **Answer**: `(a)` ([View Source Page 36](pages/prelims/prelims_page_036.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_036.pdf",
+      "source_page_md": "notes/pages/prelims_page_036.md"
     },
     {
       "question_id": "PRE_P036_Q2",
       "question_number": "Q2",
       "year": 2017,
-      "question_text": "Which one of the following is not a feature of Indian federalism ? [2017]",
+      "question_text": "Which one of the following is not a feature of Indian federalism ?",
       "options": {
         "a": "There is an independent judiciary in India.",
         "b": "Powers have been clearly divided between the Centre and the States.",
@@ -59,21 +62,11 @@
         "d": "It is the result of an agreement among the federating units."
       },
       "correct_option": "d",
-      "related_articles": [
-        "Article 1",
-        "Article 13",
-        "Article 131",
-        "Article 155",
-        "Article 200",
-        "Article 312",
-        "Article 356",
-        "Article 368",
-        "Article 5"
-      ],
+      "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 36,
-      "source_page_image": "pages/prelims/prelims_page_036.pdf",
-      "markdown_formatted": "**Q2 (2017)**: Which one of the following is not a feature of Indian federalism ? [2017]\n- (a) There is an independent judiciary in India.\n- (b) Powers have been clearly divided between the Centre and the States.\n- (c) The federating units have been given unequal representation in the Rajya Sabha.\n- (d) It is the result of an agreement among the federating units.\n- **Answer**: `(d)` ([View Source Page 36](pages/prelims/prelims_page_036.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_036.pdf",
+      "source_page_md": "notes/pages/prelims_page_036.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -85,8 +78,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 82,
-      "source_page_image": "pages/mains/mains_page_082.pdf",
-      "markdown_formatted": "- **[2026]** How far has the Indian federal framework been successful in accommodating regional and cultural diversities? Highlight the role of asymmetric federalism and suggest measures to make dispute resolution mechanisms more effective. (15) ([View Mains Source Page 82](pages/mains/mains_page_082.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_082.pdf",
+      "source_page_md": "notes/pages/mains_page_082.md"
     },
     {
       "question_id": "MAINS_P082_Q3",
@@ -96,8 +89,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 82,
-      "source_page_image": "pages/mains/mains_page_082.pdf",
-      "markdown_formatted": "- **[2025]** Discuss the nature of Jammu and Kashmir Legislative Assembly after the Jammu and Kashmir Reorganization Act, 2019. Briefly describe the powers and functions of the Assembly of the Union Territory of Jammu and Kashmir. (10) ([View Mains Source Page 82](pages/mains/mains_page_082.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_082.pdf",
+      "source_page_md": "notes/pages/mains_page_082.md"
     },
     {
       "question_id": "MAINS_P082_Q4",
@@ -107,19 +100,19 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 82,
-      "source_page_image": "pages/mains/mains_page_082.pdf",
-      "markdown_formatted": "- **[2025]** Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India? (15) ([View Mains Source Page 82](pages/mains/mains_page_082.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_082.pdf",
+      "source_page_md": "notes/pages/mains_page_082.md"
     },
     {
       "question_id": "MAINS_P082_Q5",
       "year": 2024,
       "marks": 15.0,
-      "question_text": "What changes has the Union Government recently introduced in the domain of Centre-Stare relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism. (15)",
+      "question_text": "What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism. (15)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 82,
-      "source_page_image": "pages/mains/mains_page_082.pdf",
-      "markdown_formatted": "- **[2024]** What changes has the Union Government recently introduced in the domain of Centre-Stare relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism. (15) ([View Mains Source Page 82](pages/mains/mains_page_082.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_082.pdf",
+      "source_page_md": "notes/pages/mains_page_082.md"
     },
     {
       "question_id": "MAINS_P082_Q9",
@@ -129,8 +122,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 82,
-      "source_page_image": "pages/mains/mains_page_082.pdf",
-      "markdown_formatted": "- **[2020]** How far do you think cooperation, competition and confrontation have shaped the nature of federation in India? Cite some recent examples to validate your answer (10) ([View Mains Source Page 82](pages/mains/mains_page_082.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_082.pdf",
+      "source_page_md": "notes/pages/mains_page_082.md"
     },
     {
       "question_id": "MAINS_P082_Q10",
@@ -140,8 +133,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 82,
-      "source_page_image": "pages/mains/mains_page_082.pdf",
-      "markdown_formatted": "- **[2020]** Indian constitution exhibits centralising tendencies to maintain unity and integrity of the nation. Elucidate in the perspective of the Epidemic Diseases Act, 1897; The Disaster Management Act, 2005 and recently passed Farm Acts. (15) ([View Mains Source Page 82](pages/mains/mains_page_082.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_082.pdf",
+      "source_page_md": "notes/pages/mains_page_082.md"
     },
     {
       "question_id": "MAINS_P082_Q11",
@@ -151,10 +144,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 82,
-      "source_page_image": "pages/mains/mains_page_082.pdf",
-      "markdown_formatted": "- **[2019]** From the resolution of contentious issues regarding distribution of legislative powers by the courts, 'Principle of Federal Supremacy' and 'Harmonious Construction' have emerged. Explain. (10) ([View Mains Source Page 82](pages/mains/mains_page_082.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_082.pdf",
+      "source_page_md": "notes/pages/mains_page_082.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch04_Sub01_Nature_of_Indian_Federalism_Cooperative_Competitive.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch04_Sub01_Nature_of_Indian_Federalism_Cooperative_Competitive.mains.md"
+  ]
 }

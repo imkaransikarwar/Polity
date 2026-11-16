@@ -5,6 +5,9 @@
   "article_tags": [
     "Article 51A"
   ],
+  "subtopic_json": "subtopics/Ch06_Sub02_Fundamental_Duties_Article_51A.json",
+  "prelims_notes_md": "notes/subtopics/Ch06_Sub02_Fundamental_Duties_Article_51A_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch06_Sub02_Fundamental_Duties_Article_51A_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_058.pdf",
     "pages/prelims/prelims_page_059.pdf",
@@ -22,7 +25,7 @@
       "question_id": "PRE_P059_Q1",
       "question_number": "Q1",
       "year": 2025,
-      "question_text": "Consider the following pairs: [2025] Provision in the Constitution of India : Stated under I. Separation of Judiciary from the Executive in the public services of the State : The Directive Principles of State Policy II. Valuing and preserving of the rich heritage of our composite culture : The Fundamental Duties III. Prohibition of employment of children below the age of 14 years in factories : The Fundamental Rights How many of the above pairs are correctly matched?",
+      "question_text": "Consider the following pairs: Provision in the Constitution of India : Stated under I. Separation of Judiciary from the Executive in the public services of the State : The Directive Principles of State Policy II. Valuing and preserving of the rich heritage of our composite culture : The Fundamental Duties III. Prohibition of employment of children below the age of 14 years in factories : The Fundamental Rights How many of the above pairs are correctly matched?",
       "options": {
         "a": "Only one",
         "b": "Only two",
@@ -35,14 +38,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 59,
-      "source_page_image": "pages/prelims/prelims_page_059.pdf",
-      "markdown_formatted": "**Q1 (2025)**: Consider the following pairs: [2025] Provision in the Constitution of India : Stated under I. Separation of Judiciary from the Executive in the public services of the State : The Directive Principles of State Policy II. Valuing and preserving of the rich heritage of our composite culture : The Fundamental Duties III. Prohibition of employment of children below the age of 14 years in factories : The Fundamental Rights How many of the above pairs are correctly matched?\n- (a) Only one\n- (b) Only two\n- (c) All the three\n- (d) None\n- **Answer**: `(c)` ([View Source Page 59](pages/prelims/prelims_page_059.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_059.pdf",
+      "source_page_md": "notes/pages/prelims_page_059.md"
     },
     {
       "question_id": "PRE_P059_Q4",
       "question_number": "Q4",
       "year": 2020,
-      "question_text": "With reference to the provisions contained in Part IV of the Constitution of India, which of the following statements is/are correct? [2020] 1. They shall be enforceable by courts. 2. They shall not be enforceable by any court. 3. The principles laid down in this part are to influence the making of laws by the State. Select the correct answer using the code given below:",
+      "question_text": "With reference to the provisions contained in Part IV of the Constitution of India, which of the following statements is/are correct? 1. They shall be enforceable by courts. 2. They shall not be enforceable by any court. 3. The principles laid down in this part are to influence the making of laws by the State. Select the correct answer using the code given below:",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -53,14 +56,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 59,
-      "source_page_image": "pages/prelims/prelims_page_059.pdf",
-      "markdown_formatted": "**Q4 (2020)**: With reference to the provisions contained in Part IV of the Constitution of India, which of the following statements is/are correct? [2020] 1. They shall be enforceable by courts. 2. They shall not be enforceable by any court. 3. The principles laid down in this part are to influence the making of laws by the State. Select the correct answer using the code given below:\n- (a) 1 only\n- (b) 2 only\n- (c) 1 and 3 only\n- (d) 2 and 3 only\n- **Answer**: `(d)` ([View Source Page 59](pages/prelims/prelims_page_059.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_059.pdf",
+      "source_page_md": "notes/pages/prelims_page_059.md"
     },
     {
       "question_id": "PRE_P059_Q5",
       "question_number": "Q5",
       "year": 2020,
-      "question_text": "In India, separation of judiciary from the executive is enjoined by [2020]",
+      "question_text": "In India, separation of judiciary from the executive is enjoined by",
       "options": {
         "a": "the Preamble of the Constitution",
         "b": "a Directive Principle of State Policy",
@@ -71,14 +74,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 59,
-      "source_page_image": "pages/prelims/prelims_page_059.pdf",
-      "markdown_formatted": "**Q5 (2020)**: In India, separation of judiciary from the executive is enjoined by [2020]\n- (a) the Preamble of the Constitution\n- (b) a Directive Principle of State Policy\n- (c) the Seventh Schedule\n- (d) the conventional practice\n- **Answer**: `(b)` ([View Source Page 59](pages/prelims/prelims_page_059.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_059.pdf",
+      "source_page_md": "notes/pages/prelims_page_059.md"
     },
     {
       "question_id": "PRE_P059_Q8",
       "question_number": "Q8",
       "year": 2017,
-      "question_text": "Which of the following statements is/are true of the Fundamental Duties of an Indian citizen? [2017] 1. A legislative process has been provided to enforce these duties. 2. They are correlative to legal duties. Select the correct answer using the code given below:",
+      "question_text": "Which of the following statements is/are true of the Fundamental Duties of an Indian citizen? 1. A legislative process has been provided to enforce these duties. 2. They are correlative to legal duties. Select the correct answer using the code given below:",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -91,14 +94,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 59,
-      "source_page_image": "pages/prelims/prelims_page_059.pdf",
-      "markdown_formatted": "**Q8 (2017)**: Which of the following statements is/are true of the Fundamental Duties of an Indian citizen? [2017] 1. A legislative process has been provided to enforce these duties. 2. They are correlative to legal duties. Select the correct answer using the code given below:\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 59](pages/prelims/prelims_page_059.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_059.pdf",
+      "source_page_md": "notes/pages/prelims_page_059.md"
     },
     {
       "question_id": "PRE_P060_Q12",
       "question_number": "Q12",
       "year": 2015,
-      "question_text": "To uphold and protect the Sovereignty, Unity and Integrity of India is a provision made in the [2015]",
+      "question_text": "To uphold and protect the Sovereignty, Unity and Integrity of India is a provision made in the",
       "options": {
         "a": "Preamble of the Constitution",
         "b": "Directive Principles of State Policy",
@@ -112,14 +115,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 60,
-      "source_page_image": "pages/prelims/prelims_page_060.pdf",
-      "markdown_formatted": "**Q12 (2015)**: To uphold and protect the Sovereignty, Unity and Integrity of India is a provision made in the [2015]\n- (a) Preamble of the Constitution\n- (b) Directive Principles of State Policy\n- (c) Fundamental Rights\n- (d) Fundamental Duties\n- **Answer**: `(d)` ([View Source Page 60](pages/prelims/prelims_page_060.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_060.pdf",
+      "source_page_md": "notes/pages/prelims_page_060.md"
     },
     {
       "question_id": "PRE_P060_Q13",
       "question_number": "Q13",
       "year": 2014,
-      "question_text": "In the Constitution of India, promotion of international peace and security is included in the [2014]",
+      "question_text": "In the Constitution of India, promotion of international peace and security is included in the",
       "options": {
         "a": "Preamble to the Constitution",
         "b": "Directive Principles of State Policy",
@@ -134,14 +137,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 60,
-      "source_page_image": "pages/prelims/prelims_page_060.pdf",
-      "markdown_formatted": "**Q13 (2014)**: In the Constitution of India, promotion of international peace and security is included in the [2014]\n- (a) Preamble to the Constitution\n- (b) Directive Principles of State Policy\n- (c) Fundamental Duties\n- (d) Ninth Schedule\n- **Answer**: `(b)` ([View Source Page 60](pages/prelims/prelims_page_060.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_060.pdf",
+      "source_page_md": "notes/pages/prelims_page_060.md"
     },
     {
       "question_id": "PRE_P060_Q14",
       "question_number": "Q14",
       "year": 2013,
-      "question_text": "According to the Constitution of India, which of the following are fundamental for the governance of the country? [2013]",
+      "question_text": "According to the Constitution of India, which of the following are fundamental for the governance of the country?",
       "options": {
         "a": "Fundamental Rights",
         "b": "Fundamental Duties",
@@ -155,14 +158,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 60,
-      "source_page_image": "pages/prelims/prelims_page_060.pdf",
-      "markdown_formatted": "**Q14 (2013)**: According to the Constitution of India, which of the following are fundamental for the governance of the country? [2013]\n- (a) Fundamental Rights\n- (b) Fundamental Duties\n- (c) Directive Principles of State Policy\n- (d) Fundamental Rights and Fundamental Duties\n- **Answer**: `(c)` ([View Source Page 60](pages/prelims/prelims_page_060.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_060.pdf",
+      "source_page_md": "notes/pages/prelims_page_060.md"
     },
     {
       "question_id": "PRE_P061_Q18",
       "question_number": "Q18",
       "year": 2011,
-      "question_text": "Under the Constitution of India, which one of the following is not a Fundamental Duty? [2011]",
+      "question_text": "Under the Constitution of India, which one of the following is not a Fundamental Duty?",
       "options": {
         "a": "To vote in public elections",
         "b": "To develop the scientific temper",
@@ -173,14 +176,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 61,
-      "source_page_image": "pages/prelims/prelims_page_061.pdf",
-      "markdown_formatted": "**Q18 (2011)**: Under the Constitution of India, which one of the following is not a Fundamental Duty? [2011]\n- (a) To vote in public elections\n- (b) To develop the scientific temper\n- (c) To safeguard public property\n- (d) To abide by the Constitution and respect its ideals\n- **Answer**: `(a)` ([View Source Page 61](pages/prelims/prelims_page_061.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_061.pdf",
+      "source_page_md": "notes/pages/prelims_page_061.md"
     },
     {
       "question_id": "PRE_P061_Q19",
       "question_number": "Q19",
       "year": 2010,
-      "question_text": "With reference to the Constitution of India, consider the following: [2010] 1. Fundamental Rights 2. Fundamental Duties 3. Directive Principles of State Policy Which of the above provisions of the Constitution of India is/are fulfilled by the National Social Assistance Programme launched by the Government of India?",
+      "question_text": "With reference to the Constitution of India, consider the following: 1. Fundamental Rights 2. Fundamental Duties 3. Directive Principles of State Policy Which of the above provisions of the Constitution of India is/are fulfilled by the National Social Assistance Programme launched by the Government of India?",
       "options": {
         "a": "1 only",
         "b": "3 only",
@@ -194,14 +197,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 61,
-      "source_page_image": "pages/prelims/prelims_page_061.pdf",
-      "markdown_formatted": "**Q19 (2010)**: With reference to the Constitution of India, consider the following: [2010] 1. Fundamental Rights 2. Fundamental Duties 3. Directive Principles of State Policy Which of the above provisions of the Constitution of India is/are fulfilled by the National Social Assistance Programme launched by the Government of India?\n- (a) 1 only\n- (b) 3 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(b)` ([View Source Page 61](pages/prelims/prelims_page_061.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_061.pdf",
+      "source_page_md": "notes/pages/prelims_page_061.md"
     },
     {
       "question_id": "PRE_P061_Q20",
       "question_number": "Q20",
       "year": 2008,
-      "question_text": "Which of the following is/are included in the Directive Principles of State Policy? [2008] 1. Prohibition of traffic in human beings and forced labour 2. Prohibition of consumption except for medicinal purposes of intoxicating drinks and of other drugs which are injurious to health Select the correct answer using the code given below:",
+      "question_text": "Which of the following is/are included in the Directive Principles of State Policy? 1. Prohibition of traffic in human beings and forced labour 2. Prohibition of consumption except for medicinal purposes of intoxicating drinks and of other drugs which are injurious to health Select the correct answer using the code given below:",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -209,36 +212,27 @@
         "d": "Neither 1 nor 2"
       },
       "correct_option": "b",
-      "related_articles": [
-        "Article 12",
-        "Article 21",
-        "Article 36",
-        "Article 42",
-        "Article 51A",
-        "NCW"
-      ],
+      "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 61,
-      "source_page_image": "pages/prelims/prelims_page_061.pdf",
-      "markdown_formatted": "**Q20 (2008)**: Which of the following is/are included in the Directive Principles of State Policy? [2008] 1. Prohibition of traffic in human beings and forced labour 2. Prohibition of consumption except for medicinal purposes of intoxicating drinks and of other drugs which are injurious to health Select the correct answer using the code given below:\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 61](pages/prelims/prelims_page_061.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_061.pdf",
+      "source_page_md": "notes/pages/prelims_page_061.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
       "question_id": "MAINS_P075_Q1",
       "year": 2015,
-      "marks": null,
-      "question_text": "Discuss the possible factors that inhibit India from enacting for its citizens a uniform civil code as provided for in the Directive Principles of State Policy. (2015)",
+      "marks": 12.5,
+      "question_text": "Discuss the possible factors that inhibit India from enacting for its citizens a uniform civil code as provided for in the Directive Principles of State Policy.",
       "related_articles": [
         "Article 36",
         "Article 44"
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 75,
-      "source_page_image": "pages/mains/mains_page_075.pdf",
-      "markdown_formatted": "- **[2015]** Discuss the possible factors that inhibit India from enacting for its citizens a uniform civil code as provided for in the Directive Principles of State Policy. (2015) ([View Mains Source Page 75](pages/mains/mains_page_075.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_075.pdf",
+      "source_page_md": "notes/pages/mains_page_075.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch06_Sub02_Fundamental_Duties_Article_51A.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch06_Sub02_Fundamental_Duties_Article_51A.mains.md"
+  ]
 }

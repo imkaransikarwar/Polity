@@ -12,6 +12,9 @@
     "Article 243ZD",
     "Article 243ZE"
   ],
+  "subtopic_json": "subtopics/Ch10_Sub02_Urban_Local_Bodies_74th_Amendment_Municipal_Finances.json",
+  "prelims_notes_md": "notes/subtopics/Ch10_Sub02_Urban_Local_Bodies_74th_Amendment_Municipal_Finances_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch10_Sub02_Urban_Local_Bodies_74th_Amendment_Municipal_Finances_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_142.pdf",
     "pages/prelims/prelims_page_145.pdf",
@@ -39,6 +42,7 @@
       "title": "Panchayati Raj & Municipalities: Three Tiers vs Three Categories & Who Elects Whom",
       "source_type": "prelims",
       "source_page_number": 142,
+      "source_page_pdf": "pages/prelims/prelims_page_142.pdf",
       "source_page_image": "pages/prelims/prelims_page_142.pdf",
       "diagram_image_path": "diagrams/pre_diag_pri_tiers_elections_p142.png",
       "markdown_link": "![Panchayati Raj & Municipalities: Three Tiers vs Three Categories & Who Elects Whom](diagrams/pre_diag_pri_tiers_elections_p142.png)",
@@ -54,6 +58,7 @@
       "title": "Money Flow to Local Bodies: Central & State Finance Commissions",
       "source_type": "prelims",
       "source_page_number": 145,
+      "source_page_pdf": "pages/prelims/prelims_page_145.pdf",
       "source_page_image": "pages/prelims/prelims_page_145.pdf",
       "diagram_image_path": "diagrams/pre_diag_local_bodies_money_flow_p145.png",
       "markdown_link": "![Money Flow to Local Bodies: Central & State Finance Commissions](diagrams/pre_diag_local_bodies_money_flow_p145.png)",
@@ -68,6 +73,7 @@
       "title": "A Bigger Share for Urban Local Governments (Finance Commission Grants)",
       "source_type": "mains",
       "source_page_number": 204,
+      "source_page_pdf": "pages/mains/mains_page_204.pdf",
       "source_page_image": "pages/mains/mains_page_204.pdf",
       "diagram_image_path": "diagrams/mains_diag_ulb_grants_share_p204.png",
       "markdown_link": "![A Bigger Share for Urban Local Governments (Finance Commission Grants)](diagrams/mains_diag_ulb_grants_share_p204.png)",
@@ -81,6 +87,7 @@
       "title": "Finance Commission Grants to Local Bodies (11th to 15th FC in Rs Lakh Crore)",
       "source_type": "mains",
       "source_page_number": 205,
+      "source_page_pdf": "pages/mains/mains_page_205.pdf",
       "source_page_image": "pages/mains/mains_page_205.pdf",
       "diagram_image_path": "diagrams/mains_diag_fc_grants_local_bodies_p205.png",
       "markdown_link": "![Finance Commission Grants to Local Bodies (11th to 15th FC in Rs Lakh Crore)](diagrams/mains_diag_fc_grants_local_bodies_p205.png)",
@@ -95,6 +102,7 @@
       "title": "Chart III.2: Municipal Bond Financing Architecture for an Urban Local Body (ULB)",
       "source_type": "mains",
       "source_page_number": 219,
+      "source_page_pdf": "pages/mains/mains_page_219.pdf",
       "source_page_image": "pages/mains/mains_page_219.pdf",
       "diagram_image_path": "diagrams/mains_diag_ulb_bond_financing_p219.png",
       "markdown_link": "![Chart III.2: Municipal Bond Financing Architecture for an Urban Local Body (ULB)](diagrams/mains_diag_ulb_bond_financing_p219.png)",
@@ -109,7 +117,7 @@
       "question_id": "PRE_P138_Q1",
       "question_number": "Q1",
       "year": 2026,
-      "question_text": "Consider the following statements about provisions pertaining to SC/STs in India: [2026] 1. Provisions for Tribal Areas in Assam, Meghalaya, Tripura and Mizoram are in the Fifth Schedule. 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes. 3. The Constitution provides for reservation of seats in Panchayats for women belonging to SCs and STs.",
+      "question_text": "Consider the following statements about provisions pertaining to SC/STs in India: 1. Provisions for Tribal Areas in Assam, Meghalaya, Tripura and Mizoram are in the Fifth Schedule. 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes. 3. The Constitution provides for reservation of seats in Panchayats for women belonging to SCs and STs.",
       "options": {
         "a": "There are two correct statements, that include statement 2",
         "b": "There are two correct statements, that are statements 1 and 3",
@@ -123,14 +131,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 138,
-      "source_page_image": "pages/prelims/prelims_page_138.pdf",
-      "markdown_formatted": "**Q1 (2026)**: Consider the following statements about provisions pertaining to SC/STs in India: [2026] 1. Provisions for Tribal Areas in Assam, Meghalaya, Tripura and Mizoram are in the Fifth Schedule. 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes. 3. The Constitution provides for reservation of seats in Panchayats for women belonging to SCs and STs.\n- (a) There are two correct statements, that include statement 2\n- (b) There are two correct statements, that are statements 1 and 3\n- (c) There is only one correct statement\n- (d) All three statements are correct\n- **Answer**: `(a)` ([View Source Page 138](pages/prelims/prelims_page_138.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_138.pdf",
+      "source_page_md": "notes/pages/prelims_page_138.md"
     },
     {
       "question_id": "PRE_P138_Q2",
       "question_number": "Q2",
       "year": 2025,
-      "question_text": "Consider the following statements: [2025] I. Panchayats at the intermediate level exist in all States. II. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years. III. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level. Which of the statements given above are not correct?",
+      "question_text": "Consider the following statements: I. Panchayats at the intermediate level exist in all States. II. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years. III. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level. Which of the statements given above are not correct?",
       "options": {
         "a": "I and II only",
         "b": "II and III only",
@@ -143,14 +151,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 138,
-      "source_page_image": "pages/prelims/prelims_page_138.pdf",
-      "markdown_formatted": "**Q2 (2025)**: Consider the following statements: [2025] I. Panchayats at the intermediate level exist in all States. II. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years. III. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level. Which of the statements given above are not correct?\n- (a) I and II only\n- (b) II and III only\n- (c) I and III only\n- (d) I, II and III\n- **Answer**: `(d)` ([View Source Page 138](pages/prelims/prelims_page_138.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_138.pdf",
+      "source_page_md": "notes/pages/prelims_page_138.md"
     },
     {
       "question_id": "PRE_P138_Q3",
       "question_number": "Q3",
       "year": 2025,
-      "question_text": "Consider the following statements: [2025] With reference to the Constitution of India, if an area in a State is declared as Scheduled Area under the Fifth Schedule: I. The State Government loses its executive power in such areas and a local body assumes total administration. II. The Union Government can take over the total administration of such areas under certain circumstances on the recommendations of the Governor. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: With reference to the Constitution of India, if an area in a State is declared as Scheduled Area under the Fifth Schedule: I. The State Government loses its executive power in such areas and a local body assumes total administration. II. The Union Government can take over the total administration of such areas under certain circumstances on the recommendations of the Governor. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -163,14 +171,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 138,
-      "source_page_image": "pages/prelims/prelims_page_138.pdf",
-      "markdown_formatted": "**Q3 (2025)**: Consider the following statements: [2025] With reference to the Constitution of India, if an area in a State is declared as Scheduled Area under the Fifth Schedule: I. The State Government loses its executive power in such areas and a local body assumes total administration. II. The Union Government can take over the total administration of such areas under certain circumstances on the recommendations of the Governor. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 138](pages/prelims/prelims_page_138.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_138.pdf",
+      "source_page_md": "notes/pages/prelims_page_138.md"
     },
     {
       "question_id": "PRE_P138_Q4",
       "question_number": "Q4",
       "year": 2024,
-      "question_text": "Consider the following statements: [2024] 1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe. 2. A community declared as a Scheduled Tribe in a State need not be so in another State. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe. 2. A community declared as a Scheduled Tribe in a State need not be so in another State. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -183,14 +191,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 138,
-      "source_page_image": "pages/prelims/prelims_page_138.pdf",
-      "markdown_formatted": "**Q4 (2024)**: Consider the following statements: [2024] 1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe. 2. A community declared as a Scheduled Tribe in a State need not be so in another State. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 138](pages/prelims/prelims_page_138.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_138.pdf",
+      "source_page_md": "notes/pages/prelims_page_138.md"
     },
     {
       "question_id": "PRE_P138_Q5",
       "question_number": "Q5",
       "year": 2023,
-      "question_text": "With reference to 'Scheduled Areas' in India, consider the following statements : [2023] 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President. 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block. 3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States. How many of the above statements are correct?",
+      "question_text": "With reference to 'Scheduled Areas' in India, consider the following statements : 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President. 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block. 3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States. How many of the above statements are correct?",
       "options": {
         "a": "Only one",
         "b": "Only two",
@@ -201,26 +209,67 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 138,
-      "source_page_image": "pages/prelims/prelims_page_138.pdf",
-      "markdown_formatted": "**Q5 (2023)**: With reference to 'Scheduled Areas' in India, consider the following statements : [2023] 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President. 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block. 3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States. How many of the above statements are correct?\n- (a) Only one\n- (b) Only two\n- (c) All three\n- (d) None\n- **Answer**: `(b)` ([View Source Page 138](pages/prelims/prelims_page_138.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_138.pdf",
+      "source_page_md": "notes/pages/prelims_page_138.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
-      "question_id": "MAINS_P204_Q8",
+      "question_id": "MAINS_P203_Q1",
       "year": 2026,
-      "marks": null,
-      "question_text": "2031, an 84% increase over the previous cycle. Own Source Revenue OSR contributes less than 5% of total revenue for most Panchayats. Tied vs. Untied Grants 60% of Finance Commission grants are Tied Direct Transfer Nearly 92% of Gram Panchayats now receive funds directly into bank accounts through the eGramSwaraj-PFMS interface. Infrastructure Over 80% of Gram Panchayats have dedicated office buildings. Development Plans 96.3% of Gram Panchayats (2.54 lakh) uploaded their GPDP on the eGramSwaraj portal for 2025-26. Connectivity Under BharatNet, approximately 2.15 lakh Gram Panchayats provided with high-speed broadband service. Staff Shortfall 1 Panchayat Secretary manages 1.5 to 2 Gram Panchayats on average. Capacity Building Under Rashtriya Gram Swaraj Abhiyan (RGSA), over 11.8 lakh representatives and functionaries were trained in 2025-26. Extent of Devolution According to the 2025 Devolution Index, actual transfer of 29 subjects under the 11th Schedule stands at roughly 44%. Important Case Studies 1. Mudradi (Karnataka): Ranked 1st in the 2025 Panchayat Satat Vikas Puraskar for \"Poverty Free\" status; achieved 100% social security saturation. 2. Madamakki (Karnataka): achieved 100% Functional Household Tap Connections (FHTC) and integrated greywater management. 206",
+      "marks": 10.0,
+      "question_text": "“Women as a class neither belong to a minority group nor are they regarded as forming a backward class.” In the light of this statement, discuss the evolution of women's reservation from local bodies to Parliament. (10)",
       "related_articles": [
-        "Article 243",
-        "Article 280"
+        "NCW"
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 204,
-      "source_page_image": "pages/mains/mains_page_204.pdf",
-      "markdown_formatted": "- **[2026]** 2031, an 84% increase over the previous cycle. Own Source Revenue OSR contributes less than 5% of total revenue for most Panchayats. Tied vs. Untied Grants 60% of Finance Commission grants are Tied Direct Transfer Nearly 92% of Gram Panchayats now receive funds directly into bank accounts through the eGramSwaraj-PFMS interface. Infrastructure Over 80% of Gram Panchayats have dedicated office buildings. Development Plans 96.3% of Gram Panchayats (2.54 lakh) uploaded their GPDP on the eGramSwaraj portal for 2025-26. Connectivity Under BharatNet, approximately 2.15 lakh Gram Panchayats provided with high-speed broadband service. Staff Shortfall 1 Panchayat Secretary manages 1.5 to 2 Gram Panchayats on average. Capacity Building Under Rashtriya Gram Swaraj Abhiyan (RGSA), over 11.8 lakh representatives and functionaries were trained in 2025-26. Extent of Devolution According to the 2025 Devolution Index, actual transfer of 29 subjects under the 11th Schedule stands at roughly 44%. Important Case Studies 1. Mudradi (Karnataka): Ranked 1st in the 2025 Panchayat Satat Vikas Puraskar for \"Poverty Free\" status; achieved 100% social security saturation. 2. Madamakki (Karnataka): achieved 100% Functional Household Tap Connections (FHTC) and integrated greywater management. 206 ([View Mains Source Page 204](pages/mains/mains_page_204.pdf))"
+      "source_page_number": 203,
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
+    },
+    {
+      "question_id": "MAINS_P203_Q2",
+      "year": 2024,
+      "marks": 10.0,
+      "question_text": "Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons of merging the rural local bodies with the urban local bodies. (10)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 203,
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
+    },
+    {
+      "question_id": "MAINS_P203_Q3",
+      "year": 2023,
+      "marks": 10.0,
+      "question_text": "\"The states in India seem reluctant to empower urban local bodies both functionally as well as financially.\" Comment. 10",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 203,
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
+    },
+    {
+      "question_id": "MAINS_P203_Q4",
+      "year": 2022,
+      "marks": 10.0,
+      "question_text": "To what extent, in your opinion, has the decentralisation of power in India changed the governance landscape at the grassroots? (10)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 203,
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
+    },
+    {
+      "question_id": "MAINS_P203_Q5",
+      "year": 2020,
+      "marks": 15.0,
+      "question_text": "The strength of local institutions in India has shifted from their formative phase of 'Functions, Functionaries and Funds' to the contemporary stage of 'Functionality'. Highlight the critical challenges faced by local institutions in terms of their functionality in recent times. (15)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 203,
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch10_Sub02_Urban_Local_Bodies_74th_Amendment_Municipal_Finances.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch10_Sub02_Urban_Local_Bodies_74th_Amendment_Municipal_Finances.mains.md"
+  ]
 }

@@ -5,6 +5,9 @@
   "article_tags": [
     "Article 22"
   ],
+  "subtopic_json": "subtopics/Art_22_Safeguards_Against_Arrest_and_Preventive_Detention.json",
+  "prelims_notes_md": "notes/subtopics/Art_22_Safeguards_Against_Arrest_and_Preventive_Detention_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Art_22_Safeguards_Against_Arrest_and_Preventive_Detention_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_046.pdf",
     "pages/prelims/prelims_page_047.pdf",
@@ -21,6 +24,7 @@
       "title": "Article 21: Inferred Fundamental Rights, Right to Education (Art 21A) & Art 22 Safeguards",
       "source_type": "prelims",
       "source_page_number": 53,
+      "source_page_pdf": "pages/prelims/prelims_page_053.pdf",
       "source_page_image": "pages/prelims/prelims_page_053.pdf",
       "diagram_image_path": "diagrams/pre_diag_art21_inferred_rights_p053.png",
       "markdown_link": "![Article 21: Inferred Fundamental Rights, Right to Education (Art 21A) & Art 22 Safeguards](diagrams/pre_diag_art21_inferred_rights_p053.png)",
@@ -36,7 +40,7 @@
       "question_id": "PRE_P047_Q4",
       "question_number": "Q4",
       "year": 2023,
-      "question_text": "Consider the following statements: [2023] 1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances. 2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention. 3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence. How many of the above statements are correct?",
+      "question_text": "Consider the following statements: 1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances. 2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention. 3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence. How many of the above statements are correct?",
       "options": {
         "a": "Only one",
         "b": "Only two",
@@ -49,64 +53,21 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q4 (2023)**: Consider the following statements: [2023] 1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances. 2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention. 3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence. How many of the above statements are correct?\n- (a) Only one\n- (b) Only two\n- (c) All three\n- (d) None\n- **Answer**: `(b)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
-      "question_id": "MAINS_P034_Q1",
-      "year": 2026,
-      "marks": 10.0,
-      "question_text": "Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection of Rights) Act, 2019. (10M)",
-      "related_articles": [
-        "Article 21"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2026]** Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection of Rights) Act, 2019. (10M) ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
-    },
-    {
-      "question_id": "MAINS_P034_Q2",
-      "year": 2024,
-      "marks": null,
-      "question_text": "Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity.",
-      "related_articles": [
-        "Article 21"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2024]** Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
-    },
-    {
-      "question_id": "MAINS_P034_Q3",
-      "year": 2023,
-      "marks": null,
-      "question_text": "\"The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society\". Illustrate with special reference to the expanding horizons of the right to life and personal liberty.",
-      "related_articles": [
-        "Article 21"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2023]** \"The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society\". Illustrate with special reference to the expanding horizons of the right to life and personal liberty. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
-    },
-    {
       "question_id": "MAINS_P034_Q4",
       "year": 2022,
-      "marks": null,
-      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India.",
-      "related_articles": [
-        "Article 12"
-      ],
+      "marks": 10.0,
+      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M)",
+      "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2022]** Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Art_22_Safeguards_Against_Arrest_and_Preventive_Detention.prelims.md",
-  "smash_mains_notes_markdown_path": "Art_22_Safeguards_Against_Arrest_and_Preventive_Detention.mains.md"
+  ]
 }

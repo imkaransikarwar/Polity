@@ -6,6 +6,9 @@
     "Preamble",
     "42nd Amendment"
   ],
+  "subtopic_json": "subtopics/Ch02_Sub01_Preamble_Keywords_Justice_Liberty_Equality_Fraternity.json",
+  "prelims_notes_md": "notes/subtopics/Ch02_Sub01_Preamble_Keywords_Justice_Liberty_Equality_Fraternity_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch02_Sub01_Preamble_Keywords_Justice_Liberty_Equality_Fraternity_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_013.pdf",
     "pages/prelims/prelims_page_014.pdf",
@@ -17,14 +20,29 @@
     "pages/prelims/prelims_page_020.pdf",
     "pages/prelims/prelims_page_021.pdf"
   ],
-  "mains_source_pages": [],
+  "mains_source_pages": [
+    "pages/mains/mains_page_011.pdf",
+    "pages/mains/mains_page_012.pdf",
+    "pages/mains/mains_page_013.pdf",
+    "pages/mains/mains_page_014.pdf",
+    "pages/mains/mains_page_015.pdf",
+    "pages/mains/mains_page_016.pdf",
+    "pages/mains/mains_page_017.pdf",
+    "pages/mains/mains_page_018.pdf",
+    "pages/mains/mains_page_019.pdf",
+    "pages/mains/mains_page_020.pdf",
+    "pages/mains/mains_page_021.pdf",
+    "pages/mains/mains_page_022.pdf",
+    "pages/mains/mains_page_023.pdf",
+    "pages/mains/mains_page_024.pdf"
+  ],
   "diagrams": [],
   "relevant_prelims_pyqs": [
     {
       "question_id": "PRE_P014_Q1",
       "question_number": "Q1",
       "year": 2026,
-      "question_text": "Consider the following statements with reference to the Constitution of India: [2026] 1. There is no Article in the Constitution of India that specifies that the Constitution of India will be officially called the 'Constitution of India'. 2. There is no Article in the Constitution of India that specifies that the Indian Independence Act, 1947 and the Government of India Act, 1935 stand repealed. 3. There is no Article in the Constitution of India that mentions 26th January, 1950 as the date of the commencement of the Constitution of India. Which one of the following conclusions based on the above statements is correct?",
+      "question_text": "Consider the following statements with reference to the Constitution of India: 1. There is no Article in the Constitution of India that specifies that the Constitution of India will be officially called the 'Constitution of India'. 2. There is no Article in the Constitution of India that specifies that the Indian Independence Act, 1947 and the Government of India Act, 1935 stand repealed. 3. There is no Article in the Constitution of India that mentions 26th January, 1950 as the date of the commencement of the Constitution of India. Which one of the following conclusions based on the above statements is correct?",
       "options": {
         "a": "All three statements are correct",
         "b": "There is no correct statement",
@@ -35,14 +53,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 14,
-      "source_page_image": "pages/prelims/prelims_page_014.pdf",
-      "markdown_formatted": "**Q1 (2026)**: Consider the following statements with reference to the Constitution of India: [2026] 1. There is no Article in the Constitution of India that specifies that the Constitution of India will be officially called the 'Constitution of India'. 2. There is no Article in the Constitution of India that specifies that the Indian Independence Act, 1947 and the Government of India Act, 1935 stand repealed. 3. There is no Article in the Constitution of India that mentions 26th January, 1950 as the date of the commencement of the Constitution of India. Which one of the following conclusions based on the above statements is correct?\n- (a) All three statements are correct\n- (b) There is no correct statement\n- (c) There are two correct statements that include statement 3\n- (d) There is only one correct statement\n- **Answer**: `(b)` ([View Source Page 14](pages/prelims/prelims_page_014.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_014.pdf",
+      "source_page_md": "notes/pages/prelims_page_014.md"
     },
     {
       "question_id": "PRE_P014_Q3",
       "question_number": "Q3",
       "year": 2025,
-      "question_text": "Consider the following statements: [2025] I. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the 10th Schedule, the (President’s) decision in accordance with the opinion of the Council of Union Ministers shall be final. II. There is no mention of the word ‘political party’ in the Constitution of India. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: I. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the 10th Schedule, the (President’s) decision in accordance with the opinion of the Council of Union Ministers shall be final. II. There is no mention of the word ‘political party’ in the Constitution of India. Which of the statements given above is/are correct?",
       "options": {
         "a": "I only",
         "b": "II only",
@@ -53,14 +71,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 14,
-      "source_page_image": "pages/prelims/prelims_page_014.pdf",
-      "markdown_formatted": "**Q3 (2025)**: Consider the following statements: [2025] I. If any question arises as to whether a Member of the House of the People has become subject to disqualification under the 10th Schedule, the (President’s) decision in accordance with the opinion of the Council of Union Ministers shall be final. II. There is no mention of the word ‘political party’ in the Constitution of India. Which of the statements given above is/are correct?\n- (a) I only\n- (b) II only\n- (c) Both I and II\n- (d) Neither I nor II\n- **Answer**: `(d)` ([View Source Page 14](pages/prelims/prelims_page_014.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_014.pdf",
+      "source_page_md": "notes/pages/prelims_page_014.md"
     },
     {
       "question_id": "PRE_P014_Q4",
       "question_number": "Q4",
       "year": 2024,
-      "question_text": "Which of the following statements are correct about the Constitution of India? [2024] 1. Powers of the Municipalities are given in Part IX A of the Constitution. 2. Emergency provisions are given in Part XVIII of the Constitution. 3. Provisions related to the amendment of the Constitution are given in Part XX of the Constitution. SELECT THE ANSWER USING THE CODE GIVEN BELOW:",
+      "question_text": "Which of the following statements are correct about the Constitution of India? 1. Powers of the Municipalities are given in Part IX A of the Constitution. 2. Emergency provisions are given in Part XVIII of the Constitution. 3. Provisions related to the amendment of the Constitution are given in Part XX of the Constitution. SELECT THE ANSWER USING THE CODE GIVEN BELOW:",
       "options": {
         "a": "1 and 2 only",
         "b": "2 and 3 only",
@@ -71,14 +89,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 14,
-      "source_page_image": "pages/prelims/prelims_page_014.pdf",
-      "markdown_formatted": "**Q4 (2024)**: Which of the following statements are correct about the Constitution of India? [2024] 1. Powers of the Municipalities are given in Part IX A of the Constitution. 2. Emergency provisions are given in Part XVIII of the Constitution. 3. Provisions related to the amendment of the Constitution are given in Part XX of the Constitution. SELECT THE ANSWER USING THE CODE GIVEN BELOW:\n- (a) 1 and 2 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(d)` ([View Source Page 14](pages/prelims/prelims_page_014.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_014.pdf",
+      "source_page_md": "notes/pages/prelims_page_014.md"
     },
     {
       "question_id": "PRE_P014_Q5",
       "question_number": "Q5",
       "year": 2024,
-      "question_text": "Which one of the following statements is correct as per the Constitution of India? [2024]",
+      "question_text": "Which one of the following statements is correct as per the Constitution of India?",
       "options": {
         "a": "Inter-State trade and commerce is a State subject under the State List.",
         "b": "Inter-State migration is a State subject under the State List.",
@@ -89,14 +107,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 14,
-      "source_page_image": "pages/prelims/prelims_page_014.pdf",
-      "markdown_formatted": "**Q5 (2024)**: Which one of the following statements is correct as per the Constitution of India? [2024]\n- (a) Inter-State trade and commerce is a State subject under the State List.\n- (b) Inter-State migration is a State subject under the State List.\n- (c) Inter-State quarantine is a Union subject under the Union List.\n- (d) Corporation tax is a State subject under the State List.\n- **Answer**: `(c)` ([View Source Page 14](pages/prelims/prelims_page_014.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_014.pdf",
+      "source_page_md": "notes/pages/prelims_page_014.md"
     },
     {
       "question_id": "PRE_P014_Q6",
       "question_number": "Q6",
       "year": 2024,
-      "question_text": "The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages? [2024] 1. Konkani 2. Manipuri 3. Nepali 4. Maithili Select the correct answer using the code given below:",
+      "question_text": "The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages? 1. Konkani 2. Manipuri 3. Nepali 4. Maithili Select the correct answer using the code given below:",
       "options": {
         "a": "1, 2 and 3",
         "b": "1, 2 and 4",
@@ -107,14 +125,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 14,
-      "source_page_image": "pages/prelims/prelims_page_014.pdf",
-      "markdown_formatted": "**Q6 (2024)**: The Constitution (71st Amendment) Act, 1992 amends the Eighth Schedule to the Constitution to include which of the following languages? [2024] 1. Konkani 2. Manipuri 3. Nepali 4. Maithili Select the correct answer using the code given below:\n- (a) 1, 2 and 3\n- (b) 1, 2 and 4\n- (c) 1, 3 and 4\n- (d) 2, 3 and 4\n- **Answer**: `(a)` ([View Source Page 14](pages/prelims/prelims_page_014.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_014.pdf",
+      "source_page_md": "notes/pages/prelims_page_014.md"
     },
     {
       "question_id": "PRE_P015_Q7",
       "question_number": "Q7",
       "year": 2023,
-      "question_text": "Which one of the following statements best reflects the Chief purpose of the 'Constitution' of a country? [2023]",
+      "question_text": "Which one of the following statements best reflects the Chief purpose of the 'Constitution' of a country?",
       "options": {
         "a": "It determines the objective for the making of necessary laws.",
         "b": "It enables the creation of political offices and a government",
@@ -125,14 +143,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 15,
-      "source_page_image": "pages/prelims/prelims_page_015.pdf",
-      "markdown_formatted": "**Q7 (2023)**: Which one of the following statements best reflects the Chief purpose of the 'Constitution' of a country? [2023]\n- (a) It determines the objective for the making of necessary laws.\n- (b) It enables the creation of political offices and a government\n- (c) It defines and limits the powers of government.\n- (d) It secures social justice, social equality and social security\n- **Answer**: `(c)` ([View Source Page 15](pages/prelims/prelims_page_015.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_015.pdf",
+      "source_page_md": "notes/pages/prelims_page_015.md"
     },
     {
       "question_id": "PRE_P015_Q10",
       "question_number": "Q10",
       "year": 2021,
-      "question_text": "What was the exact constitutional status of India on 26th January, 1950? [2021]",
+      "question_text": "What was the exact constitutional status of India on 26th January, 1950?",
       "options": {
         "a": "A democratic Republic",
         "b": "A Sovereign Democratic Republic",
@@ -143,14 +161,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 15,
-      "source_page_image": "pages/prelims/prelims_page_015.pdf",
-      "markdown_formatted": "**Q10 (2021)**: What was the exact constitutional status of India on 26th January, 1950? [2021]\n- (a) A democratic Republic\n- (b) A Sovereign Democratic Republic\n- (c) A Sovereign Secular Democratic Republic\n- (d) A Sovereign Socialist Secular Democratic Republic\n- **Answer**: `(b)` ([View Source Page 15](pages/prelims/prelims_page_015.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_015.pdf",
+      "source_page_md": "notes/pages/prelims_page_015.md"
     },
     {
       "question_id": "PRE_P015_Q11",
       "question_number": "Q11",
       "year": 2021,
-      "question_text": "Constitutional government means: [2021]",
+      "question_text": "Constitutional government means:",
       "options": {
         "a": "a representative government of a nation with a federal structure",
         "b": "a government whose Head enjoys nominal powers",
@@ -161,14 +179,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 15,
-      "source_page_image": "pages/prelims/prelims_page_015.pdf",
-      "markdown_formatted": "**Q11 (2021)**: Constitutional government means: [2021]\n- (a) a representative government of a nation with a federal structure\n- (b) a government whose Head enjoys nominal powers\n- (c) a government whose Head enjoys real powers\n- (d) a government limited by the terms of the Constitution\n- **Answer**: `(d)` ([View Source Page 15](pages/prelims/prelims_page_015.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_015.pdf",
+      "source_page_md": "notes/pages/prelims_page_015.md"
     },
     {
       "question_id": "PRE_P015_Q12",
       "question_number": "Q12",
       "year": 2021,
-      "question_text": "Which one of the following best defines the term 'State'? [2021]",
+      "question_text": "Which one of the following best defines the term 'State'?",
       "options": {
         "a": "A community of persons permanently occupying a definite territory independent of external control and possessing an organized government.",
         "b": "A politically organized people of a definite territory and possessing an authority to govern them, maintain law and order, protect their natural rights, and safeguard their means of sustenance.",
@@ -179,14 +197,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 15,
-      "source_page_image": "pages/prelims/prelims_page_015.pdf",
-      "markdown_formatted": "**Q12 (2021)**: Which one of the following best defines the term 'State'? [2021]\n- (a) A community of persons permanently occupying a definite territory independent of external control and possessing an organized government.\n- (b) A politically organized people of a definite territory and possessing an authority to govern them, maintain law and order, protect their natural rights, and safeguard their means of sustenance.\n- (c) A number of persons who have been living in a definite territory for a very long time with their own culture, tradition, and government.\n- (d) A society permanently living in a definite territory with a central authority, an executive responsible to the central authority, and an independent judiciary.\n- **Answer**: `(a)` ([View Source Page 15](pages/prelims/prelims_page_015.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_015.pdf",
+      "source_page_md": "notes/pages/prelims_page_015.md"
     },
     {
       "question_id": "PRE_P015_Q13",
       "question_number": "Q13",
       "year": 2021,
-      "question_text": "Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy? [2021]",
+      "question_text": "Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy?",
       "options": {
         "a": "A committed judiciary",
         "b": "Centralization of powers",
@@ -197,14 +215,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 15,
-      "source_page_image": "pages/prelims/prelims_page_015.pdf",
-      "markdown_formatted": "**Q13 (2021)**: Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy? [2021]\n- (a) A committed judiciary\n- (b) Centralization of powers\n- (c) Elected government\n- (d) Separation of powers\n- **Answer**: `(d)` ([View Source Page 15](pages/prelims/prelims_page_015.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_015.pdf",
+      "source_page_md": "notes/pages/prelims_page_015.md"
     },
     {
       "question_id": "PRE_P015_Q15",
       "question_number": "Q15",
       "year": 2020,
-      "question_text": "The Preamble to the Constitution of India is [2020]",
+      "question_text": "The Preamble to the Constitution of India is",
       "options": {
         "a": "a part of the Constitution but has no legal effect",
         "b": "not a part of the Constitution and has no legal effect either",
@@ -215,14 +233,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 15,
-      "source_page_image": "pages/prelims/prelims_page_015.pdf",
-      "markdown_formatted": "**Q15 (2020)**: The Preamble to the Constitution of India is [2020]\n- (a) a part of the Constitution but has no legal effect\n- (b) not a part of the Constitution and has no legal effect either\n- (c) part of the Constitution and has the same legal effect as any other part\n- (d) a part of the Constitution but has no legal effect independently of other parts\n- **Answer**: `(d)` ([View Source Page 15](pages/prelims/prelims_page_015.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_015.pdf",
+      "source_page_md": "notes/pages/prelims_page_015.md"
     },
     {
       "question_id": "PRE_P016_Q16",
       "question_number": "Q16",
       "year": 2020,
-      "question_text": "A constitutional government by definition is a [2020]",
+      "question_text": "A constitutional government by definition is a",
       "options": {
         "a": "government by legislature",
         "b": "popular government",
@@ -233,14 +251,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q16 (2020)**: A constitutional government by definition is a [2020]\n- (a) government by legislature\n- (b) popular government\n- (c) multi-party government\n- (d) limited government\n- **Answer**: `(d)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q17",
       "question_number": "Q17",
       "year": 2020,
-      "question_text": "In the context of India, which one of the following is the characteristic appropriate for bureaucracy? [2020]",
+      "question_text": "In the context of India, which one of the following is the characteristic appropriate for bureaucracy?",
       "options": {
         "a": "An agency for widening the scope of parliamentary democracy",
         "b": "An agency for strengthening the structure of federalism",
@@ -251,14 +269,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q17 (2020)**: In the context of India, which one of the following is the characteristic appropriate for bureaucracy? [2020]\n- (a) An agency for widening the scope of parliamentary democracy\n- (b) An agency for strengthening the structure of federalism\n- (c) An agency for facilitating political stability and economic growth\n- (d) An agency for the implementation of public policy\n- **Answer**: `(d)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q19",
       "question_number": "Q19",
       "year": 2019,
-      "question_text": "In the context of any country, which one of the following would be considered as part of its social capital? [2019]",
+      "question_text": "In the context of any country, which one of the following would be considered as part of its social capital?",
       "options": {
         "a": "The proportion of literates in the population",
         "b": "The stock of its buildings, other infrastructure and machines",
@@ -269,14 +287,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q19 (2019)**: In the context of any country, which one of the following would be considered as part of its social capital? [2019]\n- (a) The proportion of literates in the population\n- (b) The stock of its buildings, other infrastructure and machines\n- (c) The size of population in the working age group\n- (d) The level of mutual trust and harmony in the society\n- **Answer**: `(d)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q20",
       "question_number": "Q20",
       "year": 2019,
-      "question_text": "In the context of polity, which one of the following would you accept as the most appropriate definition of liberty? [2019]",
+      "question_text": "In the context of polity, which one of the following would you accept as the most appropriate definition of liberty?",
       "options": {
         "a": "Protection against the tyranny of political rulers",
         "b": "Absence of restraint",
@@ -287,14 +305,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q20 (2019)**: In the context of polity, which one of the following would you accept as the most appropriate definition of liberty? [2019]\n- (a) Protection against the tyranny of political rulers\n- (b) Absence of restraint\n- (c) Opportunity to do whatever one likes\n- (d) Opportunity to develop oneself fully.\n- **Answer**: `(d)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q23",
       "question_number": "Q23",
       "year": 2018,
-      "question_text": "Which one of the following reflects the most appropriate relationship between law and liberty? [2018]",
+      "question_text": "Which one of the following reflects the most appropriate relationship between law and liberty?",
       "options": {
         "a": "If there are more laws, there is less liberty.",
         "b": "If there are no laws, there is no liberty.",
@@ -305,14 +323,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q23 (2018)**: Which one of the following reflects the most appropriate relationship between law and liberty? [2018]\n- (a) If there are more laws, there is less liberty.\n- (b) If there are no laws, there is no liberty.\n- (c) If there is liberty laws have to be made by the people.\n- (d) If laws are changed too often, liberty is in danger.\n- **Answer**: `(b)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q25",
       "question_number": "Q25",
       "year": 2017,
-      "question_text": "Which one of the following objectives is not embodied in the Preamble to the Constitution of India? [2017]",
+      "question_text": "Which one of the following objectives is not embodied in the Preamble to the Constitution of India?",
       "options": {
         "a": "Liberty of thought",
         "b": "Economic liberty",
@@ -323,14 +341,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q25 (2017)**: Which one of the following objectives is not embodied in the Preamble to the Constitution of India? [2017]\n- (a) Liberty of thought\n- (b) Economic liberty\n- (c) Liberty of expression\n- (d) Liberty of belief\n- **Answer**: `(b)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P017_Q27",
       "question_number": "Q27",
       "year": 2017,
-      "question_text": "Which one of the following statements is correct? [2017]",
+      "question_text": "Which one of the following statements is correct?",
       "options": {
         "a": "Right are claims of the State against the citizens.",
         "b": "Rights are privileges which are incorporated in the Constitution of a State.",
@@ -341,14 +359,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q27 (2017)**: Which one of the following statements is correct? [2017]\n- (a) Right are claims of the State against the citizens.\n- (b) Rights are privileges which are incorporated in the Constitution of a State.\n- (c) Rights are claims of the citizens against the State.\n- (d) Rights are privileges of a few citizens against the many\n- **Answer**: `(c)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q28",
       "question_number": "Q28",
       "year": 2017,
-      "question_text": "One of the implications of equality in society is the absence of [2017]",
+      "question_text": "One of the implications of equality in society is the absence of",
       "options": {
         "a": "Privileges",
         "b": "Restraints",
@@ -359,14 +377,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q28 (2017)**: One of the implications of equality in society is the absence of [2017]\n- (a) Privileges\n- (b) Restraints\n- (c) Competition\n- (d) Ideology\n- **Answer**: `(a)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q29",
       "question_number": "Q29",
       "year": 2015,
-      "question_text": "Which one of the following was given classical language status recently? [2015]",
+      "question_text": "Which one of the following was given classical language status recently?",
       "options": {
         "a": "Odia",
         "b": "Konkani",
@@ -377,14 +395,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q29 (2015)**: Which one of the following was given classical language status recently? [2015]\n- (a) Odia\n- (b) Konkani\n- (c) Bhojpuri\n- (d) Assamese\n- **Answer**: `(a)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q30",
       "question_number": "Q30",
       "year": 2014,
-      "question_text": "Consider the following languages: [2014] 1. Gujarati 2. Kannada 3. Telugu Which of the above has/have been declared as 'Classical Language / Languages' by the Government? SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW.:",
+      "question_text": "Consider the following languages: 1. Gujarati 2. Kannada 3. Telugu Which of the above has/have been declared as 'Classical Language / Languages' by the Government? SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW.:",
       "options": {
         "a": "1 and 2 only",
         "b": "3 only",
@@ -395,14 +413,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q30 (2014)**: Consider the following languages: [2014] 1. Gujarati 2. Kannada 3. Telugu Which of the above has/have been declared as 'Classical Language / Languages' by the Government? SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW.:\n- (a) 1 and 2 only\n- (b) 3 only\n- (c) 2 and 3 only\n- (d) 1, 2 and 3 only\n- **Answer**: `(c)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q32",
       "question_number": "Q32",
       "year": 2014,
-      "question_text": "Consider the following statements : [2014] A CONSTITUTIONAL GOVERNMENT IS ONE WHICH: 1. places effective restrictions on individual liberty in the interest of State Authority. 2. places effective restrictions on the Authority of the State in the interest of individual liberty. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements : A CONSTITUTIONAL GOVERNMENT IS ONE WHICH: 1. places effective restrictions on individual liberty in the interest of State Authority. 2. places effective restrictions on the Authority of the State in the interest of individual liberty. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -413,14 +431,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q32 (2014)**: Consider the following statements : [2014] A CONSTITUTIONAL GOVERNMENT IS ONE WHICH: 1. places effective restrictions on individual liberty in the interest of State Authority. 2. places effective restrictions on the Authority of the State in the interest of individual liberty. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q34",
       "question_number": "Q34",
       "year": 2008,
-      "question_text": "Under which one of the following Constitution Amendment Acts, four languages were added to the languages under the Eighth Schedule of the Constitution of India, thereby raising their number to 22? [2008]",
+      "question_text": "Under which one of the following Constitution Amendment Acts, four languages were added to the languages under the Eighth Schedule of the Constitution of India, thereby raising their number to 22?",
       "options": {
         "a": "Constitution (Ninetieth Amendment) Act",
         "b": "Constitution (Ninety-first Amendment) Act",
@@ -431,36 +449,21 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q34 (2008)**: Under which one of the following Constitution Amendment Acts, four languages were added to the languages under the Eighth Schedule of the Constitution of India, thereby raising their number to 22? [2008]\n- (a) Constitution (Ninetieth Amendment) Act\n- (b) Constitution (Ninety-first Amendment) Act\n- (c) Constitution (Ninety-second Amendment) Act\n- (d) Constitution (Ninety-third Amendment) Act\n- **Answer**: `(c)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
-      "question_id": "MAINS_P031_Q1",
-      "year": 2025,
-      "marks": 15.0,
-      "question_text": "Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. (15)",
+      "question_id": "MAINS_P011_Q1",
+      "year": 2019,
+      "marks": 10.0,
+      "question_text": "Do you think that the Constitution of India does not accept the principle of strict separation of powers rather it is based on the principle of 'checks and balances'? Explain. (10)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 31,
-      "source_page_image": "pages/mains/mains_page_031.pdf",
-      "markdown_formatted": "- **[2025]** Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. (15) ([View Mains Source Page 31](pages/mains/mains_page_031.pdf))"
-    },
-    {
-      "question_id": "MAINS_P031_Q2",
-      "year": 2019,
-      "marks": null,
-      "question_text": "\"Parliament's power to amend the Constitution is a limited power and it cannot be enlarged into absolute power.\" In the light of this statement explain whether Parliament under Article 368 of the Constitution can destroy the Basic Structure of the Constitution by expanding its amending power? (15) Under Article 368, the Parliament is granted the power to amend the Constitution by way of addition, variation, or repeal of any provision. Amendment Procedure in Detail",
-      "related_articles": [
-        "Article 368"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 31,
-      "source_page_image": "pages/mains/mains_page_031.pdf",
-      "markdown_formatted": "- **[2019]** \"Parliament's power to amend the Constitution is a limited power and it cannot be enlarged into absolute power.\" In the light of this statement explain whether Parliament under Article 368 of the Constitution can destroy the Basic Structure of the Constitution by expanding its amending power? (15) Under Article 368, the Parliament is granted the power to amend the Constitution by way of addition, variation, or repeal of any provision. Amendment Procedure in Detail ([View Mains Source Page 31](pages/mains/mains_page_031.pdf))"
+      "source_page_number": 11,
+      "source_page_pdf": "pages/mains/mains_page_011.pdf",
+      "source_page_md": "notes/pages/mains_page_011.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch02_Sub01_Preamble_Keywords_Justice_Liberty_Equality_Fraternity.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch02_Sub01_Preamble_Keywords_Justice_Liberty_Equality_Fraternity.mains.md"
+  ]
 }

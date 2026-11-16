@@ -10,6 +10,9 @@
     "Article 18",
     "Article 335"
   ],
+  "subtopic_json": "subtopics/Art_14_to_18_Right_to_Equality_Reservation_Caste_Census.json",
+  "prelims_notes_md": "notes/subtopics/Art_14_to_18_Right_to_Equality_Reservation_Caste_Census_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Art_14_to_18_Right_to_Equality_Reservation_Caste_Census_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_046.pdf",
     "pages/prelims/prelims_page_047.pdf",
@@ -37,6 +40,7 @@
       "title": "Article 21: Protection of Life and Personal Liberty & Landmark Cases",
       "source_type": "prelims",
       "source_page_number": 52,
+      "source_page_pdf": "pages/prelims/prelims_page_052.pdf",
       "source_page_image": "pages/prelims/prelims_page_052.pdf",
       "diagram_image_path": "diagrams/pre_diag_art21_rights_table_p052.png",
       "markdown_link": "![Article 21: Protection of Life and Personal Liberty & Landmark Cases](diagrams/pre_diag_art21_rights_table_p052.png)",
@@ -51,6 +55,7 @@
       "title": "Dimensions of Equality: Equal Share, Equal Respect, Equal Say",
       "source_type": "mains",
       "source_page_number": 37,
+      "source_page_pdf": "pages/mains/mains_page_037.pdf",
       "source_page_image": "pages/mains/mains_page_037.pdf",
       "diagram_image_path": "diagrams/mains_diag_equality_dimensions_p037.png",
       "markdown_link": "![Dimensions of Equality: Equal Share, Equal Respect, Equal Say](diagrams/mains_diag_equality_dimensions_p037.png)",
@@ -67,7 +72,7 @@
       "question_id": "PRE_P047_Q2",
       "question_number": "Q2",
       "year": 2024,
-      "question_text": "Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy? [2024]",
+      "question_text": "Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy?",
       "options": {
         "a": "Article 15",
         "b": "Article 16",
@@ -83,14 +88,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q2 (2024)**: Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy? [2024]\n- (a) Article 15\n- (b) Article 16\n- (c) Article 19\n- (d) Article 21\n- **Answer**: `(d)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P047_Q3",
       "question_number": "Q3",
       "year": 2023,
-      "question_text": "Consider the following statements: [2023] Statement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration. Statement-II: Article 335 of the Constitution of India defines the term 'efficiency of administration'. Which one of the following is correct in respect of the above statements?",
+      "question_text": "Consider the following statements: Statement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration. Statement-II: Article 335 of the Constitution of India defines the term 'efficiency of administration'. Which one of the following is correct in respect of the above statements?",
       "options": {
         "a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
         "b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
@@ -104,14 +109,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q3 (2023)**: Consider the following statements: [2023] Statement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration. Statement-II: Article 335 of the Constitution of India defines the term 'efficiency of administration'. Which one of the following is correct in respect of the above statements?\n- (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I\n- (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I\n- (c) Statement-I is correct but Statement-II is incorrect\n- (d) Statement-I is incorrect but Statement-II is correct\n- **Answer**: `(c)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P047_Q5",
       "question_number": "Q5",
       "year": 2021,
-      "question_text": "A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India? [2021]",
+      "question_text": "A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India?",
       "options": {
         "a": "Article 14",
         "b": "Article 28",
@@ -127,14 +132,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q5 (2021)**: A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India? [2021]\n- (a) Article 14\n- (b) Article 28\n- (c) Article 32\n- (d) Article 44\n- **Answer**: `(a)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P047_Q7",
       "question_number": "Q7",
       "year": 2021,
-      "question_text": "'Right to Privacy' is protected under which Article of the Constitution of India? [2021]",
+      "question_text": "'Right to Privacy' is protected under which Article of the Constitution of India?",
       "options": {
         "a": "Article 15",
         "b": "Article 19",
@@ -150,14 +155,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q7 (2021)**: 'Right to Privacy' is protected under which Article of the Constitution of India? [2021]\n- (a) Article 15\n- (b) Article 19\n- (c) Article 21\n- (d) Article 29\n- **Answer**: `(c)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P048_Q8",
       "question_number": "Q8",
       "year": 2020,
-      "question_text": "Which one of the following categories of 'Fundamental Rights' incorporates protection against untouchability as a form of discrimination? [2020]",
+      "question_text": "Which one of the following categories of 'Fundamental Rights' incorporates protection against untouchability as a form of discrimination?",
       "options": {
         "a": "Right against Exploitation",
         "b": "Right to Freedom",
@@ -170,14 +175,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q8 (2020)**: Which one of the following categories of 'Fundamental Rights' incorporates protection against untouchability as a form of discrimination? [2020]\n- (a) Right against Exploitation\n- (b) Right to Freedom\n- (c) Right to Constitutional Remedies\n- (d) Right to Equality\n- **Answer**: `(d)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     },
     {
       "question_id": "PRE_P048_Q11",
       "question_number": "Q11",
       "year": 2018,
-      "question_text": "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement? [2018]",
+      "question_text": "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement?",
       "options": {
         "a": "Article 14 and the provisions under the 42nd Amendment to the Constitution",
         "b": "Article 17 and the Directive Principles of State Policy in Part IV",
@@ -194,14 +199,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q11 (2018)**: Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement? [2018]\n- (a) Article 14 and the provisions under the 42nd Amendment to the Constitution\n- (b) Article 17 and the Directive Principles of State Policy in Part IV\n- (c) Article 21 and the freedoms guaranteed in Part III\n- (d) Article 24 and the provisions under the 44th Amendment to the Constitution\n- **Answer**: `(c)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     },
     {
       "question_id": "PRE_P048_Q12",
       "question_number": "Q12",
       "year": 2017,
-      "question_text": "Which of the following are envisaged by the Right against Exploitation in the Constitution of India? [2017] 1. Prohibition of traffic in human beings and forced labour 2. Abolition of untouchability 3. Protection of the interests of minorities 4. Prohibition of employment of children in factories and mines Select the correct answer using the code given below:",
+      "question_text": "Which of the following are envisaged by the Right against Exploitation in the Constitution of India? 1. Prohibition of traffic in human beings and forced labour 2. Abolition of untouchability 3. Protection of the interests of minorities 4. Prohibition of employment of children in factories and mines Select the correct answer using the code given below:",
       "options": {
         "a": "1, 2 and 4 only",
         "b": "2, 3 and 4 only",
@@ -214,14 +219,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q12 (2017)**: Which of the following are envisaged by the Right against Exploitation in the Constitution of India? [2017] 1. Prohibition of traffic in human beings and forced labour 2. Abolition of untouchability 3. Protection of the interests of minorities 4. Prohibition of employment of children in factories and mines Select the correct answer using the code given below:\n- (a) 1, 2 and 4 only\n- (b) 2, 3 and 4 only\n- (c) 1 and 4 only\n- (d) 1, 2, 3 and 4\n- **Answer**: `(c)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     },
     {
       "question_id": "PRE_P048_Q13",
       "question_number": "Q13",
       "year": 2011,
-      "question_text": "In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to? [2011] 1. It can establish and administer exclusive educational institutions. 2. The President of India automatically nominates a representative of the community to Lok Sabha. 3. It can derive benefits from the Prime Minister's 15-Point Programme. Which of the statements given above is/are correct?",
+      "question_text": "In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to? 1. It can establish and administer exclusive educational institutions. 2. The President of India automatically nominates a representative of the community to Lok Sabha. 3. It can derive benefits from the Prime Minister's 15-Point Programme. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 and 3 only",
@@ -232,64 +237,21 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q13 (2011)**: In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to? [2011] 1. It can establish and administer exclusive educational institutions. 2. The President of India automatically nominates a representative of the community to Lok Sabha. 3. It can derive benefits from the Prime Minister's 15-Point Programme. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(c)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
-      "question_id": "MAINS_P034_Q1",
-      "year": 2026,
-      "marks": 10.0,
-      "question_text": "Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection of Rights) Act, 2019. (10M)",
-      "related_articles": [
-        "Article 21"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2026]** Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection of Rights) Act, 2019. (10M) ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
-    },
-    {
-      "question_id": "MAINS_P034_Q2",
-      "year": 2024,
-      "marks": null,
-      "question_text": "Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity.",
-      "related_articles": [
-        "Article 21"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2024]** Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
-    },
-    {
-      "question_id": "MAINS_P034_Q3",
-      "year": 2023,
-      "marks": null,
-      "question_text": "\"The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society\". Illustrate with special reference to the expanding horizons of the right to life and personal liberty.",
-      "related_articles": [
-        "Article 21"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2023]** \"The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society\". Illustrate with special reference to the expanding horizons of the right to life and personal liberty. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
-    },
-    {
       "question_id": "MAINS_P034_Q4",
       "year": 2022,
-      "marks": null,
-      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India.",
-      "related_articles": [
-        "Article 12"
-      ],
+      "marks": 10.0,
+      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M)",
+      "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2022]** Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Art_14_to_18_Right_to_Equality_Reservation_Caste_Census.prelims.md",
-  "smash_mains_notes_markdown_path": "Art_14_to_18_Right_to_Equality_Reservation_Caste_Census.mains.md"
+  ]
 }

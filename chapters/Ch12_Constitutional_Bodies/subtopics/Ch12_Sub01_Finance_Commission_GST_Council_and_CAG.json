@@ -10,6 +10,9 @@
     "Article 279A",
     "Article 280"
   ],
+  "subtopic_json": "subtopics/Ch12_Sub01_Finance_Commission_GST_Council_and_CAG.json",
+  "prelims_notes_md": "notes/subtopics/Ch12_Sub01_Finance_Commission_GST_Council_and_CAG_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch12_Sub01_Finance_Commission_GST_Council_and_CAG_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_165.pdf",
     "pages/prelims/prelims_page_166.pdf",
@@ -41,6 +44,7 @@
       "title": "Finance Commission: How Taxes Are Shared (Vertical & Horizontal Devolution)",
       "source_type": "prelims",
       "source_page_number": 172,
+      "source_page_pdf": "pages/prelims/prelims_page_172.pdf",
       "source_page_image": "pages/prelims/prelims_page_172.pdf",
       "diagram_image_path": "diagrams/pre_diag_finance_commission_tax_sharing_p172.png",
       "markdown_link": "![Finance Commission: How Taxes Are Shared (Vertical & Horizontal Devolution)](diagrams/pre_diag_finance_commission_tax_sharing_p172.png)",
@@ -55,6 +59,7 @@
       "title": "India's Gross GST Collection Trend & Fiscal Impact (Article 279A)",
       "source_type": "mains",
       "source_page_number": 226,
+      "source_page_pdf": "pages/mains/mains_page_226.pdf",
       "source_page_image": "pages/mains/mains_page_226.pdf",
       "diagram_image_path": "diagrams/mains_diag_gst_collection_trend_p226.png",
       "markdown_link": "![India's Gross GST Collection Trend & Fiscal Impact (Article 279A)](diagrams/mains_diag_gst_collection_trend_p226.png)",
@@ -68,7 +73,7 @@
       "question_id": "PRE_P166_Q1",
       "question_number": "Q1",
       "year": 2025,
-      "question_text": "Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct? [2025] I. It has recommended grants of ₹4,800 crores from the year 2022–23 to 2025–26 for incentivizing States to enhance educational outcomes. II. 45% of the net proceeds of Union taxes are to be shared with States. III. ₹45,000 crores are to be kept as performance-based incentive for all States for carrying out agricultural reforms. IV. It reintroduced tax effort criteria to reward fiscal performance. SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW:",
+      "question_text": "Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct? I. It has recommended grants of ₹4,800 crores from the year 2022–23 to 2025–26 for incentivizing States to enhance educational outcomes. II. 45% of the net proceeds of Union taxes are to be shared with States. III. ₹45,000 crores are to be kept as performance-based incentive for all States for carrying out agricultural reforms. IV. It reintroduced tax effort criteria to reward fiscal performance. SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW:",
       "options": {
         "a": "I, II and III",
         "b": "I, II and IV",
@@ -81,14 +86,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 166,
-      "source_page_image": "pages/prelims/prelims_page_166.pdf",
-      "markdown_formatted": "**Q1 (2025)**: Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct? [2025] I. It has recommended grants of ₹4,800 crores from the year 2022–23 to 2025–26 for incentivizing States to enhance educational outcomes. II. 45% of the net proceeds of Union taxes are to be shared with States. III. ₹45,000 crores are to be kept as performance-based incentive for all States for carrying out agricultural reforms. IV. It reintroduced tax effort criteria to reward fiscal performance. SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW:\n- (a) I, II and III\n- (b) I, II and IV\n- (c) I, III and IV\n- (d) II, III and IV\n- **Answer**: `(c)` ([View Source Page 166](pages/prelims/prelims_page_166.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_166.pdf",
+      "source_page_md": "notes/pages/prelims_page_166.md"
     },
     {
       "question_id": "PRE_P166_Q2",
       "question_number": "Q2",
       "year": 2023,
-      "question_text": "Consider the following : [2023] 1. Demographic performance 2. Forest and ecology 3. Governance reforms 4. Stable government 5. Tax and fiscal efforts For the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population area and income distance?",
+      "question_text": "Consider the following : 1. Demographic performance 2. Forest and ecology 3. Governance reforms 4. Stable government 5. Tax and fiscal efforts For the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population area and income distance?",
       "options": {
         "a": "Only two",
         "b": "Only three",
@@ -101,14 +106,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 166,
-      "source_page_image": "pages/prelims/prelims_page_166.pdf",
-      "markdown_formatted": "**Q2 (2023)**: Consider the following : [2023] 1. Demographic performance 2. Forest and ecology 3. Governance reforms 4. Stable government 5. Tax and fiscal efforts For the horizontal tax devolution, the Fifteenth Finance Commission used how many of the above as criteria other than population area and income distance?\n- (a) Only two\n- (b) Only three\n- (c) only four\n- (d) All five\n- **Answer**: `(b)` ([View Source Page 166](pages/prelims/prelims_page_166.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_166.pdf",
+      "source_page_md": "notes/pages/prelims_page_166.md"
     },
     {
       "question_id": "PRE_P166_Q4",
       "question_number": "Q4",
       "year": 2015,
-      "question_text": "With reference to the Fourteenth Finance Commission, which of the following statements is/are correct? [2015] (1) It has increased the share of States in the central divisible pool from 32 percent to 42 percent (2) It has made recommendations concerning sector-specific grants Select the correct answer using the code given below.",
+      "question_text": "With reference to the Fourteenth Finance Commission, which of the following statements is/are correct? (1) It has increased the share of States in the central divisible pool from 32 percent to 42 percent (2) It has made recommendations concerning sector-specific grants Select the correct answer using the code given below.",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -119,14 +124,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 166,
-      "source_page_image": "pages/prelims/prelims_page_166.pdf",
-      "markdown_formatted": "**Q4 (2015)**: With reference to the Fourteenth Finance Commission, which of the following statements is/are correct? [2015] (1) It has increased the share of States in the central divisible pool from 32 percent to 42 percent (2) It has made recommendations concerning sector-specific grants Select the correct answer using the code given below.\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(a)` ([View Source Page 166](pages/prelims/prelims_page_166.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_166.pdf",
+      "source_page_md": "notes/pages/prelims_page_166.md"
     },
     {
       "question_id": "PRE_P166_Q5",
       "question_number": "Q5",
       "year": 2012,
-      "question_text": "In India, other than ensuring that public funds are used efficiently and for intended purpose, what is the importance of the office of the Comptroller and Auditor General (CAG)? [2012] 1. CAG exercises exchequer control on behalf of the Parliament when the President of India declares national emergency/financial emergency. 2. CAG reports on the execution of projects or programmes by the ministries are discussed by the Public Accounts Committee. 3. Information from CAG reports can be used by investigating agencies to press charges against those who have violated the law while managing public finances. 4. While dealing with the audit and accounting of government companies, CAG has certain judicial powers for prosecuting those who violate the law. Which of the statements given above is/are correct?",
+      "question_text": "In India, other than ensuring that public funds are used efficiently and for intended purpose, what is the importance of the office of the Comptroller and Auditor General (CAG)? 1. CAG exercises exchequer control on behalf of the Parliament when the President of India declares national emergency/financial emergency. 2. CAG reports on the execution of projects or programmes by the ministries are discussed by the Public Accounts Committee. 3. Information from CAG reports can be used by investigating agencies to press charges against those who have violated the law while managing public finances. 4. While dealing with the audit and accounting of government companies, CAG has certain judicial powers for prosecuting those who violate the law. Which of the statements given above is/are correct?",
       "options": {
         "a": "1, 3 and 4 only",
         "b": "2 only",
@@ -140,14 +145,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 166,
-      "source_page_image": "pages/prelims/prelims_page_166.pdf",
-      "markdown_formatted": "**Q5 (2012)**: In India, other than ensuring that public funds are used efficiently and for intended purpose, what is the importance of the office of the Comptroller and Auditor General (CAG)? [2012] 1. CAG exercises exchequer control on behalf of the Parliament when the President of India declares national emergency/financial emergency. 2. CAG reports on the execution of projects or programmes by the ministries are discussed by the Public Accounts Committee. 3. Information from CAG reports can be used by investigating agencies to press charges against those who have violated the law while managing public finances. 4. While dealing with the audit and accounting of government companies, CAG has certain judicial powers for prosecuting those who violate the law. Which of the statements given above is/are correct?\n- (a) 1, 3 and 4 only\n- (b) 2 only\n- (c) 2 and 3 only\n- (d) 1, 2, 3 and 4\n- **Answer**: `(c)` ([View Source Page 166](pages/prelims/prelims_page_166.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_166.pdf",
+      "source_page_md": "notes/pages/prelims_page_166.md"
     },
     {
       "question_id": "PRE_P167_Q6",
       "question_number": "Q6",
       "year": 2012,
-      "question_text": "Which of the following is /are among the noticeable features of the recommendations of the Thirteenth Finance Commission? [2012] 1. A design for the Goods and Services Tax, and a compensation package linked to adherence to the proposed design. 2. A design for the creation of lakhs of jobs in the next ten years in consonance with India’s demographic dividend. 3. Devolution of a specified share of central taxes to local bodies as grants. SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW:",
+      "question_text": "Which of the following is /are among the noticeable features of the recommendations of the Thirteenth Finance Commission? 1. A design for the Goods and Services Tax, and a compensation package linked to adherence to the proposed design. 2. A design for the creation of lakhs of jobs in the next ten years in consonance with India’s demographic dividend. 3. Devolution of a specified share of central taxes to local bodies as grants. SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW:",
       "options": {
         "a": "1 only",
         "b": "2 and 3 only",
@@ -160,19 +165,19 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 167,
-      "source_page_image": "pages/prelims/prelims_page_167.pdf",
-      "markdown_formatted": "**Q6 (2012)**: Which of the following is /are among the noticeable features of the recommendations of the Thirteenth Finance Commission? [2012] 1. A design for the Goods and Services Tax, and a compensation package linked to adherence to the proposed design. 2. A design for the creation of lakhs of jobs in the next ten years in consonance with India’s demographic dividend. 3. Devolution of a specified share of central taxes to local bodies as grants. SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW:\n- (a) 1 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(c)` ([View Source Page 167](pages/prelims/prelims_page_167.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_167.pdf",
+      "source_page_md": "notes/pages/prelims_page_167.md"
     },
     {
       "question_id": "PRE_P167_Q7",
       "question_number": "Q7",
       "year": 2011,
-      "question_text": "With reference to the Finance Commission of India, which of the following statements is correct? [2011]",
+      "question_text": "With reference to the Finance Commission of India, which of the following statements is correct?",
       "options": {
         "a": "It encourages the inflow of foreign capital for infrastructure development",
-        "b": "It facilitates the proper distribution of finances among the Public Sector Undertakings",
-        "c": "It ensures transparency in financial administration",
-        "d": "None of the statements (a), (b) and (c) given above is correct in this context"
+        "b": "and",
+        "c": "given above is correct in this context",
+        "d": "None of the statements (a),"
       },
       "correct_option": "d",
       "related_articles": [
@@ -180,50 +185,37 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 167,
-      "source_page_image": "pages/prelims/prelims_page_167.pdf",
-      "markdown_formatted": "**Q7 (2011)**: With reference to the Finance Commission of India, which of the following statements is correct? [2011]\n- (a) It encourages the inflow of foreign capital for infrastructure development\n- (b) It facilitates the proper distribution of finances among the Public Sector Undertakings\n- (c) It ensures transparency in financial administration\n- (d) None of the statements (a), (b) and (c) given above is correct in this context\n- **Answer**: `(d)` ([View Source Page 167](pages/prelims/prelims_page_167.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_167.pdf",
+      "source_page_md": "notes/pages/prelims_page_167.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
       "question_id": "MAINS_P225_Q1",
-      "year": 2026,
-      "marks": 10.0,
-      "question_text": "[2024] \"The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.\" Comment.(10)",
-      "related_articles": [
-        "Article 148"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 225,
-      "source_page_image": "pages/mains/mains_page_225.pdf",
-      "markdown_formatted": "- **[2026]** [2024] \"The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.\" Comment.(10) ([View Mains Source Page 225](pages/mains/mains_page_225.pdf))"
-    },
-    {
-      "question_id": "MAINS_P225_Q3",
       "year": 2024,
       "marks": 10.0,
-      "question_text": "\"The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.\" Comment. (10)",
+      "question_text": "\"The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.\" Comment.(10)",
       "related_articles": [
         "Article 148"
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 225,
-      "source_page_image": "pages/mains/mains_page_225.pdf",
-      "markdown_formatted": "- **[2024]** \"The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.\" Comment. (10) ([View Mains Source Page 225](pages/mains/mains_page_225.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_225.pdf",
+      "source_page_md": "notes/pages/mains_page_225.md"
     },
     {
-      "question_id": "MAINS_P225_Q10",
+      "question_id": "MAINS_P225_Q9",
       "year": 2018,
       "marks": 10.0,
       "question_text": "Whether the National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. (10)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 225,
-      "source_page_image": "pages/mains/mains_page_225.pdf",
-      "markdown_formatted": "- **[2018]** Whether the National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. (10) ([View Mains Source Page 225](pages/mains/mains_page_225.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_225.pdf",
+      "source_page_md": "notes/pages/mains_page_225.md"
     },
     {
-      "question_id": "MAINS_P225_Q11",
+      "question_id": "MAINS_P225_Q10",
       "year": 2018,
       "marks": 10.0,
       "question_text": "\"The Comptroller and Auditor General (CAG) has a very vital role to play.\" Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. (10)",
@@ -232,11 +224,11 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 225,
-      "source_page_image": "pages/mains/mains_page_225.pdf",
-      "markdown_formatted": "- **[2018]** \"The Comptroller and Auditor General (CAG) has a very vital role to play.\" Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. (10) ([View Mains Source Page 225](pages/mains/mains_page_225.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_225.pdf",
+      "source_page_md": "notes/pages/mains_page_225.md"
     },
     {
-      "question_id": "MAINS_P225_Q12",
+      "question_id": "MAINS_P225_Q11",
       "year": 2018,
       "marks": 15.0,
       "question_text": "How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. (15)",
@@ -245,13 +237,13 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 225,
-      "source_page_image": "pages/mains/mains_page_225.pdf",
-      "markdown_formatted": "- **[2018]** How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. (15) ([View Mains Source Page 225](pages/mains/mains_page_225.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_225.pdf",
+      "source_page_md": "notes/pages/mains_page_225.md"
     },
     {
-      "question_id": "MAINS_P225_Q13",
+      "question_id": "MAINS_P225_Q12",
       "year": 2016,
-      "marks": null,
+      "marks": 12.5,
       "question_text": "Exercise of CAG's powers in relation to the accounts of the Union and the States is derived from Article 149 of the Indian Constitution. Discuss whether audit of the Government's policy implementation could amount to overstepping its own (CAG) jurisdiction. [12.5 Marks]",
       "related_articles": [
         "Article 148",
@@ -259,10 +251,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 225,
-      "source_page_image": "pages/mains/mains_page_225.pdf",
-      "markdown_formatted": "- **[2016]** Exercise of CAG's powers in relation to the accounts of the Union and the States is derived from Article 149 of the Indian Constitution. Discuss whether audit of the Government's policy implementation could amount to overstepping its own (CAG) jurisdiction. [12.5 Marks] ([View Mains Source Page 225](pages/mains/mains_page_225.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_225.pdf",
+      "source_page_md": "notes/pages/mains_page_225.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch12_Sub01_Finance_Commission_GST_Council_and_CAG.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch12_Sub01_Finance_Commission_GST_Council_and_CAG.mains.md"
+  ]
 }

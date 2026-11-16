@@ -9,6 +9,9 @@
     "Ninth Schedule",
     "Basic Structure"
   ],
+  "subtopic_json": "subtopics/Ch02_Sub02_Basic_Structure_Doctrine_and_Article_368.json",
+  "prelims_notes_md": "notes/subtopics/Ch02_Sub02_Basic_Structure_Doctrine_and_Article_368_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch02_Sub02_Basic_Structure_Doctrine_and_Article_368_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_016.pdf",
     "pages/prelims/prelims_page_017.pdf",
@@ -32,6 +35,7 @@
       "title": "Basic Structure: Strike and Strike Back Timeline (1951–1980)",
       "source_type": "prelims",
       "source_page_number": 22,
+      "source_page_pdf": "pages/prelims/prelims_page_022.pdf",
       "source_page_image": "pages/prelims/prelims_page_022.pdf",
       "diagram_image_path": "diagrams/pre_diag_basic_structure_p022.png",
       "markdown_link": "![Basic Structure: Strike and Strike Back Timeline (1951–1980)](diagrams/pre_diag_basic_structure_p022.png)",
@@ -49,6 +53,7 @@
       "title": "Constitutional Amendment Process: Under Article 368 vs Outside Article 368",
       "source_type": "mains",
       "source_page_number": 31,
+      "source_page_pdf": "pages/mains/mains_page_031.pdf",
       "source_page_image": "pages/mains/mains_page_031.pdf",
       "diagram_image_path": "diagrams/mains_diag_amendment_art368_flowchart_p031.png",
       "markdown_link": "![Constitutional Amendment Process: Under Article 368 vs Outside Article 368](diagrams/mains_diag_amendment_art368_flowchart_p031.png)",
@@ -64,7 +69,7 @@
       "question_id": "PRE_P014_Q2",
       "question_number": "Q2",
       "year": 2025,
-      "question_text": "Consider the following subjects under the Constitution of India: [2025] I. List I – Union List, in the Seventh Schedule II. Extent of the executive power of a State III. Conditions of the Governor’s office For a constitutional amendment with respect to which of the above, ratification by the Legislatures of not less than one-half of the States is required before presenting the bill to the President of India for assent?",
+      "question_text": "Consider the following subjects under the Constitution of India: I. List I – Union List, in the Seventh Schedule II. Extent of the executive power of a State III. Conditions of the Governor’s office For a constitutional amendment with respect to which of the above, ratification by the Legislatures of not less than one-half of the States is required before presenting the bill to the President of India for assent?",
       "options": {
         "a": "I and II only",
         "b": "II and III only",
@@ -78,14 +83,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 14,
-      "source_page_image": "pages/prelims/prelims_page_014.pdf",
-      "markdown_formatted": "**Q2 (2025)**: Consider the following subjects under the Constitution of India: [2025] I. List I – Union List, in the Seventh Schedule II. Extent of the executive power of a State III. Conditions of the Governor’s office For a constitutional amendment with respect to which of the above, ratification by the Legislatures of not less than one-half of the States is required before presenting the bill to the President of India for assent?\n- (a) I and II only\n- (b) II and III only\n- (c) I and III only\n- (d) I, II and III\n- **Answer**: `(a)` ([View Source Page 14](pages/prelims/prelims_page_014.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_014.pdf",
+      "source_page_md": "notes/pages/prelims_page_014.md"
     },
     {
       "question_id": "PRE_P016_Q16",
       "question_number": "Q16",
       "year": 2020,
-      "question_text": "A constitutional government by definition is a [2020]",
+      "question_text": "A constitutional government by definition is a",
       "options": {
         "a": "government by legislature",
         "b": "popular government",
@@ -96,14 +101,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q16 (2020)**: A constitutional government by definition is a [2020]\n- (a) government by legislature\n- (b) popular government\n- (c) multi-party government\n- (d) limited government\n- **Answer**: `(d)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q17",
       "question_number": "Q17",
       "year": 2020,
-      "question_text": "In the context of India, which one of the following is the characteristic appropriate for bureaucracy? [2020]",
+      "question_text": "In the context of India, which one of the following is the characteristic appropriate for bureaucracy?",
       "options": {
         "a": "An agency for widening the scope of parliamentary democracy",
         "b": "An agency for strengthening the structure of federalism",
@@ -114,14 +119,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q17 (2020)**: In the context of India, which one of the following is the characteristic appropriate for bureaucracy? [2020]\n- (a) An agency for widening the scope of parliamentary democracy\n- (b) An agency for strengthening the structure of federalism\n- (c) An agency for facilitating political stability and economic growth\n- (d) An agency for the implementation of public policy\n- **Answer**: `(d)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q18",
       "question_number": "Q18",
       "year": 2019,
-      "question_text": "The Ninth Schedule was introduced in the Constitution of India during the prime ministership of [2019]",
+      "question_text": "The Ninth Schedule was introduced in the Constitution of India during the prime ministership of",
       "options": {
         "a": "Jawaharlal Nehru",
         "b": "Lal Bahadur Shastri",
@@ -134,14 +139,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q18 (2019)**: The Ninth Schedule was introduced in the Constitution of India during the prime ministership of [2019]\n- (a) Jawaharlal Nehru\n- (b) Lal Bahadur Shastri\n- (c) Indira Gandhi\n- (d) Morarji Desai\n- **Answer**: `(a)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q19",
       "question_number": "Q19",
       "year": 2019,
-      "question_text": "In the context of any country, which one of the following would be considered as part of its social capital? [2019]",
+      "question_text": "In the context of any country, which one of the following would be considered as part of its social capital?",
       "options": {
         "a": "The proportion of literates in the population",
         "b": "The stock of its buildings, other infrastructure and machines",
@@ -152,14 +157,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q19 (2019)**: In the context of any country, which one of the following would be considered as part of its social capital? [2019]\n- (a) The proportion of literates in the population\n- (b) The stock of its buildings, other infrastructure and machines\n- (c) The size of population in the working age group\n- (d) The level of mutual trust and harmony in the society\n- **Answer**: `(d)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q20",
       "question_number": "Q20",
       "year": 2019,
-      "question_text": "In the context of polity, which one of the following would you accept as the most appropriate definition of liberty? [2019]",
+      "question_text": "In the context of polity, which one of the following would you accept as the most appropriate definition of liberty?",
       "options": {
         "a": "Protection against the tyranny of political rulers",
         "b": "Absence of restraint",
@@ -170,14 +175,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q20 (2019)**: In the context of polity, which one of the following would you accept as the most appropriate definition of liberty? [2019]\n- (a) Protection against the tyranny of political rulers\n- (b) Absence of restraint\n- (c) Opportunity to do whatever one likes\n- (d) Opportunity to develop oneself fully.\n- **Answer**: `(d)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q21",
       "question_number": "Q21",
       "year": 2018,
-      "question_text": "Consider the following statements: [2018] 1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India. 2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it. Which of the statements given above is/are correct ?",
+      "question_text": "Consider the following statements: 1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India. 2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it. Which of the statements given above is/are correct ?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -190,14 +195,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q21 (2018)**: Consider the following statements: [2018] 1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India. 2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it. Which of the statements given above is/are correct ?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(a)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q23",
       "question_number": "Q23",
       "year": 2018,
-      "question_text": "Which one of the following reflects the most appropriate relationship between law and liberty? [2018]",
+      "question_text": "Which one of the following reflects the most appropriate relationship between law and liberty?",
       "options": {
         "a": "If there are more laws, there is less liberty.",
         "b": "If there are no laws, there is no liberty.",
@@ -208,14 +213,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q23 (2018)**: Which one of the following reflects the most appropriate relationship between law and liberty? [2018]\n- (a) If there are more laws, there is less liberty.\n- (b) If there are no laws, there is no liberty.\n- (c) If there is liberty laws have to be made by the people.\n- (d) If laws are changed too often, liberty is in danger.\n- **Answer**: `(b)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P016_Q25",
       "question_number": "Q25",
       "year": 2017,
-      "question_text": "Which one of the following objectives is not embodied in the Preamble to the Constitution of India? [2017]",
+      "question_text": "Which one of the following objectives is not embodied in the Preamble to the Constitution of India?",
       "options": {
         "a": "Liberty of thought",
         "b": "Economic liberty",
@@ -226,14 +231,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 16,
-      "source_page_image": "pages/prelims/prelims_page_016.pdf",
-      "markdown_formatted": "**Q25 (2017)**: Which one of the following objectives is not embodied in the Preamble to the Constitution of India? [2017]\n- (a) Liberty of thought\n- (b) Economic liberty\n- (c) Liberty of expression\n- (d) Liberty of belief\n- **Answer**: `(b)` ([View Source Page 16](pages/prelims/prelims_page_016.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_016.pdf",
+      "source_page_md": "notes/pages/prelims_page_016.md"
     },
     {
       "question_id": "PRE_P017_Q27",
       "question_number": "Q27",
       "year": 2017,
-      "question_text": "Which one of the following statements is correct? [2017]",
+      "question_text": "Which one of the following statements is correct?",
       "options": {
         "a": "Right are claims of the State against the citizens.",
         "b": "Rights are privileges which are incorporated in the Constitution of a State.",
@@ -244,14 +249,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q27 (2017)**: Which one of the following statements is correct? [2017]\n- (a) Right are claims of the State against the citizens.\n- (b) Rights are privileges which are incorporated in the Constitution of a State.\n- (c) Rights are claims of the citizens against the State.\n- (d) Rights are privileges of a few citizens against the many\n- **Answer**: `(c)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q28",
       "question_number": "Q28",
       "year": 2017,
-      "question_text": "One of the implications of equality in society is the absence of [2017]",
+      "question_text": "One of the implications of equality in society is the absence of",
       "options": {
         "a": "Privileges",
         "b": "Restraints",
@@ -262,14 +267,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q28 (2017)**: One of the implications of equality in society is the absence of [2017]\n- (a) Privileges\n- (b) Restraints\n- (c) Competition\n- (d) Ideology\n- **Answer**: `(a)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q29",
       "question_number": "Q29",
       "year": 2015,
-      "question_text": "Which one of the following was given classical language status recently? [2015]",
+      "question_text": "Which one of the following was given classical language status recently?",
       "options": {
         "a": "Odia",
         "b": "Konkani",
@@ -280,14 +285,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q29 (2015)**: Which one of the following was given classical language status recently? [2015]\n- (a) Odia\n- (b) Konkani\n- (c) Bhojpuri\n- (d) Assamese\n- **Answer**: `(a)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q30",
       "question_number": "Q30",
       "year": 2014,
-      "question_text": "Consider the following languages: [2014] 1. Gujarati 2. Kannada 3. Telugu Which of the above has/have been declared as 'Classical Language / Languages' by the Government? SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW.:",
+      "question_text": "Consider the following languages: 1. Gujarati 2. Kannada 3. Telugu Which of the above has/have been declared as 'Classical Language / Languages' by the Government? SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW.:",
       "options": {
         "a": "1 and 2 only",
         "b": "3 only",
@@ -298,14 +303,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q30 (2014)**: Consider the following languages: [2014] 1. Gujarati 2. Kannada 3. Telugu Which of the above has/have been declared as 'Classical Language / Languages' by the Government? SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW.:\n- (a) 1 and 2 only\n- (b) 3 only\n- (c) 2 and 3 only\n- (d) 1, 2 and 3 only\n- **Answer**: `(c)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q32",
       "question_number": "Q32",
       "year": 2014,
-      "question_text": "Consider the following statements : [2014] A CONSTITUTIONAL GOVERNMENT IS ONE WHICH: 1. places effective restrictions on individual liberty in the interest of State Authority. 2. places effective restrictions on the Authority of the State in the interest of individual liberty. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements : A CONSTITUTIONAL GOVERNMENT IS ONE WHICH: 1. places effective restrictions on individual liberty in the interest of State Authority. 2. places effective restrictions on the Authority of the State in the interest of individual liberty. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -316,14 +321,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q32 (2014)**: Consider the following statements : [2014] A CONSTITUTIONAL GOVERNMENT IS ONE WHICH: 1. places effective restrictions on individual liberty in the interest of State Authority. 2. places effective restrictions on the Authority of the State in the interest of individual liberty. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P017_Q34",
       "question_number": "Q34",
       "year": 2008,
-      "question_text": "Under which one of the following Constitution Amendment Acts, four languages were added to the languages under the Eighth Schedule of the Constitution of India, thereby raising their number to 22? [2008]",
+      "question_text": "Under which one of the following Constitution Amendment Acts, four languages were added to the languages under the Eighth Schedule of the Constitution of India, thereby raising their number to 22?",
       "options": {
         "a": "Constitution (Ninetieth Amendment) Act",
         "b": "Constitution (Ninety-first Amendment) Act",
@@ -334,14 +339,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 17,
-      "source_page_image": "pages/prelims/prelims_page_017.pdf",
-      "markdown_formatted": "**Q34 (2008)**: Under which one of the following Constitution Amendment Acts, four languages were added to the languages under the Eighth Schedule of the Constitution of India, thereby raising their number to 22? [2008]\n- (a) Constitution (Ninetieth Amendment) Act\n- (b) Constitution (Ninety-first Amendment) Act\n- (c) Constitution (Ninety-second Amendment) Act\n- (d) Constitution (Ninety-third Amendment) Act\n- **Answer**: `(c)` ([View Source Page 17](pages/prelims/prelims_page_017.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
     },
     {
       "question_id": "PRE_P215_Q1",
       "question_number": "Q1",
       "year": 2024,
-      "question_text": "As per Article 368 of the Constitution of India, the Parliament may amend any provision of the Constitution by way of: [2024] 1. Addition 2. Variation 3. Repeal Select the correct answer using the code given below:",
+      "question_text": "As per Article 368 of the Constitution of India, the Parliament may amend any provision of the Constitution by way of: 1. Addition 2. Variation 3. Repeal Select the correct answer using the code given below:",
       "options": {
         "a": "1 and 2 only",
         "b": "2 and 3 only",
@@ -354,14 +359,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 215,
-      "source_page_image": "pages/prelims/prelims_page_215.pdf",
-      "markdown_formatted": "**Q1 (2024)**: As per Article 368 of the Constitution of India, the Parliament may amend any provision of the Constitution by way of: [2024] 1. Addition 2. Variation 3. Repeal Select the correct answer using the code given below:\n- (a) 1 and 2 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(d)` ([View Source Page 215](pages/prelims/prelims_page_215.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_215.pdf",
+      "source_page_md": "notes/pages/prelims_page_215.md"
     },
     {
       "question_id": "PRE_P215_Q2",
       "question_number": "Q2",
       "year": 2023,
-      "question_text": "In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome the judicial interpretations of Fundamental Rights? [2023]",
+      "question_text": "In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome the judicial interpretations of Fundamental Rights?",
       "options": {
         "a": "1st Amendment",
         "b": "42nd Amendment",
@@ -372,14 +377,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 215,
-      "source_page_image": "pages/prelims/prelims_page_215.pdf",
-      "markdown_formatted": "**Q2 (2023)**: In India, which one of the following Constitutional Amendments was widely believed to be enacted to overcome the judicial interpretations of Fundamental Rights? [2023]\n- (a) 1st Amendment\n- (b) 42nd Amendment\n- (c) 44th Amendment\n- (d) 86th Amendment\n- **Answer**: `(a)` ([View Source Page 215](pages/prelims/prelims_page_215.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_215.pdf",
+      "source_page_md": "notes/pages/prelims_page_215.md"
     },
     {
       "question_id": "PRE_P216_Q3",
       "question_number": "Q3",
       "year": 2022,
-      "question_text": "Consider the following statements : [2022] 1. A Bill amending the Constitution requires a prior recommendation of the President of India. 2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent. 3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting. Which of the statements given above are correct?",
+      "question_text": "Consider the following statements : 1. A Bill amending the Constitution requires a prior recommendation of the President of India. 2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent. 3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting. Which of the statements given above are correct?",
       "options": {
         "a": "1 and 2 only",
         "b": "2 and 3 only",
@@ -390,14 +395,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 216,
-      "source_page_image": "pages/prelims/prelims_page_216.pdf",
-      "markdown_formatted": "**Q3 (2022)**: Consider the following statements : [2022] 1. A Bill amending the Constitution requires a prior recommendation of the President of India. 2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent. 3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting. Which of the statements given above are correct?\n- (a) 1 and 2 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1,2 and 3\n- **Answer**: `(b)` ([View Source Page 216](pages/prelims/prelims_page_216.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_216.pdf",
+      "source_page_md": "notes/pages/prelims_page_216.md"
     },
     {
       "question_id": "PRE_P216_Q4",
       "question_number": "Q4",
       "year": 2019,
-      "question_text": "Consider the following statements: [2019] 1. The 44th Amendment to the Constitution of India introduced an Article placing the election of the Prime Minister beyond judicial review. 2. The Supreme Court of India struck down the 99th Amendment to the Constitution of India as being violative of the independence of judiciary. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. The 44th Amendment to the Constitution of India introduced an Article placing the election of the Prime Minister beyond judicial review. 2. The Supreme Court of India struck down the 99th Amendment to the Constitution of India as being violative of the independence of judiciary. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -410,14 +415,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 216,
-      "source_page_image": "pages/prelims/prelims_page_216.pdf",
-      "markdown_formatted": "**Q4 (2019)**: Consider the following statements: [2019] 1. The 44th Amendment to the Constitution of India introduced an Article placing the election of the Prime Minister beyond judicial review. 2. The Supreme Court of India struck down the 99th Amendment to the Constitution of India as being violative of the independence of judiciary. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 216](pages/prelims/prelims_page_216.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_216.pdf",
+      "source_page_md": "notes/pages/prelims_page_216.md"
     },
     {
       "question_id": "PRE_P216_Q5",
       "question_number": "Q5",
       "year": 2013,
-      "question_text": "Consider the following statements : [2013] (1) . An amendment to the Constitution of India can be initiated by an introduction of a bill in the Lok Sabha only. (2) . If such an amendment seeks to make changes in the federal character of the Constitution, the amendment also requires to be ratified by the legislature of all the States of India. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements : (1) . An amendment to the Constitution of India can be initiated by an introduction of a bill in the Lok Sabha only. (2) . If such an amendment seeks to make changes in the federal character of the Constitution, the amendment also requires to be ratified by the legislature of all the States of India. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -428,14 +433,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 216,
-      "source_page_image": "pages/prelims/prelims_page_216.pdf",
-      "markdown_formatted": "**Q5 (2013)**: Consider the following statements : [2013] (1) . An amendment to the Constitution of India can be initiated by an introduction of a bill in the Lok Sabha only. (2) . If such an amendment seeks to make changes in the federal character of the Constitution, the amendment also requires to be ratified by the legislature of all the States of India. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 216](pages/prelims/prelims_page_216.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_216.pdf",
+      "source_page_md": "notes/pages/prelims_page_216.md"
     },
     {
       "question_id": "PRE_P216_Q6",
       "question_number": "Q6",
       "year": 2009,
-      "question_text": "Which one of the following Constitutional Amendments states that the total number of Ministers, including the Prime Minister, in the Council of Ministers shall not exceed fifteen percent of the total number of [2009]",
+      "question_text": "Which one of the following Constitutional Amendments states that the total number of Ministers, including the Prime Minister, in the Council of Ministers shall not exceed fifteen percent of the total number of",
       "options": {
         "a": "90th",
         "b": "91st",
@@ -443,15 +448,11 @@
         "d": "93rd"
       },
       "correct_option": "b",
-      "related_articles": [
-        "Article 241",
-        "Article 279A",
-        "Article 368"
-      ],
+      "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 216,
-      "source_page_image": "pages/prelims/prelims_page_216.pdf",
-      "markdown_formatted": "**Q6 (2009)**: Which one of the following Constitutional Amendments states that the total number of Ministers, including the Prime Minister, in the Council of Ministers shall not exceed fifteen percent of the total number of [2009]\n- (a) 90th\n- (b) 91st\n- (c) 92nd\n- (d) 93rd\n- **Answer**: `(b)` ([View Source Page 216](pages/prelims/prelims_page_216.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_216.pdf",
+      "source_page_md": "notes/pages/prelims_page_216.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -463,23 +464,21 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 31,
-      "source_page_image": "pages/mains/mains_page_031.pdf",
-      "markdown_formatted": "- **[2025]** Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. (15) ([View Mains Source Page 31](pages/mains/mains_page_031.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_031.pdf",
+      "source_page_md": "notes/pages/mains_page_031.md"
     },
     {
       "question_id": "MAINS_P031_Q2",
       "year": 2019,
-      "marks": null,
-      "question_text": "\"Parliament's power to amend the Constitution is a limited power and it cannot be enlarged into absolute power.\" In the light of this statement explain whether Parliament under Article 368 of the Constitution can destroy the Basic Structure of the Constitution by expanding its amending power? (15) Under Article 368, the Parliament is granted the power to amend the Constitution by way of addition, variation, or repeal of any provision. Amendment Procedure in Detail",
+      "marks": 15.0,
+      "question_text": "\"Parliament's power to amend the Constitution is a limited power and it cannot be enlarged into absolute power.\" In the light of this statement explain whether Parliament under Article 368 of the Constitution can destroy the Basic Structure of the Constitution by expanding its amending power? (15)",
       "related_articles": [
         "Article 368"
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 31,
-      "source_page_image": "pages/mains/mains_page_031.pdf",
-      "markdown_formatted": "- **[2019]** \"Parliament's power to amend the Constitution is a limited power and it cannot be enlarged into absolute power.\" In the light of this statement explain whether Parliament under Article 368 of the Constitution can destroy the Basic Structure of the Constitution by expanding its amending power? (15) Under Article 368, the Parliament is granted the power to amend the Constitution by way of addition, variation, or repeal of any provision. Amendment Procedure in Detail ([View Mains Source Page 31](pages/mains/mains_page_031.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_031.pdf",
+      "source_page_md": "notes/pages/mains_page_031.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch02_Sub02_Basic_Structure_Doctrine_and_Article_368.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch02_Sub02_Basic_Structure_Doctrine_and_Article_368.mains.md"
+  ]
 }

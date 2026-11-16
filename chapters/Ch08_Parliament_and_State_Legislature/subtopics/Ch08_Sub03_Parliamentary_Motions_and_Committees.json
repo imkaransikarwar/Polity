@@ -8,6 +8,9 @@
     "Estimates Committee",
     "DRSCs"
   ],
+  "subtopic_json": "subtopics/Ch08_Sub03_Parliamentary_Motions_and_Committees.json",
+  "prelims_notes_md": "notes/subtopics/Ch08_Sub03_Parliamentary_Motions_and_Committees_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch08_Sub03_Parliamentary_Motions_and_Committees_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_108.pdf",
     "pages/prelims/prelims_page_109.pdf",
@@ -24,15 +27,31 @@
     "pages/prelims/prelims_page_120.pdf"
   ],
   "mains_source_pages": [
+    "pages/mains/mains_page_026.pdf",
     "pages/mains/mains_page_130.pdf",
     "pages/mains/mains_page_131.pdf"
   ],
   "diagrams": [
     {
+      "diagram_id": "mains_diag_bills_referred_committees_p026",
+      "title": "Percentage of Bills Referred to Parliamentary Committees (14th–17th Lok Sabha)",
+      "source_type": "mains",
+      "source_page_number": 26,
+      "source_page_pdf": "pages/mains/mains_page_026.pdf",
+      "source_page_image": "pages/mains/mains_page_026.pdf",
+      "diagram_image_path": "diagrams/mains_diag_bills_referred_committees_p026.png",
+      "markdown_link": "![Percentage of Bills Referred to Parliamentary Committees (14th–17th Lok Sabha)](diagrams/mains_diag_bills_referred_committees_p026.png)",
+      "related_articles": [
+        "Article 105",
+        "Article 118"
+      ]
+    },
+    {
       "diagram_id": "mains_diag_parliament_decline_metrics_p117",
       "title": "Parliamentary Functioning Metrics: Sitting Days, Committee Referrals & Passage Time",
       "source_type": "mains",
       "source_page_number": 117,
+      "source_page_pdf": "pages/mains/mains_page_117.pdf",
       "source_page_image": "pages/mains/mains_page_117.pdf",
       "diagram_image_path": "diagrams/mains_diag_parliament_decline_metrics_p117.png",
       "markdown_link": "![Parliamentary Functioning Metrics: Sitting Days, Committee Referrals & Passage Time](diagrams/mains_diag_parliament_decline_metrics_p117.png)",
@@ -47,6 +66,7 @@
       "title": "Number of Bills Referred to Parliamentary Committees Across Lok Sabhas",
       "source_type": "mains",
       "source_page_number": 131,
+      "source_page_pdf": "pages/mains/mains_page_131.pdf",
       "source_page_image": "pages/mains/mains_page_131.pdf",
       "diagram_image_path": "diagrams/mains_diag_committee_referrals_chart_p131.png",
       "markdown_link": "![Number of Bills Referred to Parliamentary Committees Across Lok Sabhas](diagrams/mains_diag_committee_referrals_chart_p131.png)",
@@ -61,7 +81,7 @@
       "question_id": "PRE_P109_Q1",
       "question_number": "Q1",
       "year": 2026,
-      "question_text": "Consider the following statements in respect of questions asked by the Members in the Parliament of India: [2026] 1. Unstarred questions are those to which a Member desires an oral answer in the House. 2. Starred questions are those to which a Member desires a written answer. 3. No supplementary question can be asked on an unstarred question. Which one of the following conclusions based on the above statements is correct?",
+      "question_text": "Consider the following statements in respect of questions asked by the Members in the Parliament of India: 1. Unstarred questions are those to which a Member desires an oral answer in the House. 2. Starred questions are those to which a Member desires a written answer. 3. No supplementary question can be asked on an unstarred question. Which one of the following conclusions based on the above statements is correct?",
       "options": {
         "a": "All the three statements are correct",
         "b": "There are two correct statements, that include statement 2",
@@ -72,14 +92,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 109,
-      "source_page_image": "pages/prelims/prelims_page_109.pdf",
-      "markdown_formatted": "**Q1 (2026)**: Consider the following statements in respect of questions asked by the Members in the Parliament of India: [2026] 1. Unstarred questions are those to which a Member desires an oral answer in the House. 2. Starred questions are those to which a Member desires a written answer. 3. No supplementary question can be asked on an unstarred question. Which one of the following conclusions based on the above statements is correct?\n- (a) All the three statements are correct\n- (b) There are two correct statements, that include statement 2\n- (c) There is only one correct statement\n- (d) There is no correct statement\n- **Answer**: `(c)` ([View Source Page 109](pages/prelims/prelims_page_109.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_109.pdf",
+      "source_page_md": "notes/pages/prelims_page_109.md"
     },
     {
       "question_id": "PRE_P109_Q2",
       "question_number": "Q2",
       "year": 2022,
-      "question_text": "Which of the following is/are the exclusive power(s) of Lok Sabha? [2022] 1. To ratify the declaration of Emergency 2. To pass a motion of no-confidence against the Council of Ministers 3. To impeach the President of India Select the correct answer using the code given below:",
+      "question_text": "Which of the following is/are the exclusive power(s) of Lok Sabha? 1. To ratify the declaration of Emergency 2. To pass a motion of no-confidence against the Council of Ministers 3. To impeach the President of India Select the correct answer using the code given below:",
       "options": {
         "a": "1 and 2",
         "b": "2 only",
@@ -90,14 +110,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 109,
-      "source_page_image": "pages/prelims/prelims_page_109.pdf",
-      "markdown_formatted": "**Q2 (2022)**: Which of the following is/are the exclusive power(s) of Lok Sabha? [2022] 1. To ratify the declaration of Emergency 2. To pass a motion of no-confidence against the Council of Ministers 3. To impeach the President of India Select the correct answer using the code given below:\n- (a) 1 and 2\n- (b) 2 only\n- (c) 1 and 3\n- (d) 3 only\n- **Answer**: `(b)` ([View Source Page 109](pages/prelims/prelims_page_109.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_109.pdf",
+      "source_page_md": "notes/pages/prelims_page_109.md"
     },
     {
       "question_id": "PRE_P109_Q3",
       "question_number": "Q3",
       "year": 2020,
-      "question_text": "Rajya Sabha has equal powers with Lok Sabha in [2020]",
+      "question_text": "Rajya Sabha has equal powers with Lok Sabha in",
       "options": {
         "a": "the matter of creating new All India Services",
         "b": "amending the Constitution",
@@ -108,14 +128,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 109,
-      "source_page_image": "pages/prelims/prelims_page_109.pdf",
-      "markdown_formatted": "**Q3 (2020)**: Rajya Sabha has equal powers with Lok Sabha in [2020]\n- (a) the matter of creating new All India Services\n- (b) amending the Constitution\n- (c) the removal of the government\n- (d) making cut motions\n- **Answer**: `(b)` ([View Source Page 109](pages/prelims/prelims_page_109.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_109.pdf",
+      "source_page_md": "notes/pages/prelims_page_109.md"
     },
     {
       "question_id": "PRE_P109_Q4",
       "question_number": "Q4",
       "year": 2018,
-      "question_text": "With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation? [2018]",
+      "question_text": "With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation?",
       "options": {
         "a": "Committee on Government Assurances",
         "b": "Committee on Subordinate Legislation",
@@ -126,14 +146,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 109,
-      "source_page_image": "pages/prelims/prelims_page_109.pdf",
-      "markdown_formatted": "**Q4 (2018)**: With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation? [2018]\n- (a) Committee on Government Assurances\n- (b) Committee on Subordinate Legislation\n- (c) Rules Committee\n- (d) Business Advisory Committee\n- **Answer**: `(b)` ([View Source Page 109](pages/prelims/prelims_page_109.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_109.pdf",
+      "source_page_md": "notes/pages/prelims_page_109.md"
     },
     {
       "question_id": "PRE_P109_Q5",
       "question_number": "Q5",
       "year": 2017,
-      "question_text": "The Parliament of India exercises control over the functions of the Council of Ministers through [2017] 1. Adjournment motion 2. Question hour 3. Supplementary questions Select the correct answer using the code given below:",
+      "question_text": "The Parliament of India exercises control over the functions of the Council of Ministers through 1. Adjournment motion 2. Question hour 3. Supplementary questions Select the correct answer using the code given below:",
       "options": {
         "a": "1 only",
         "b": "2 and 3 only",
@@ -144,14 +164,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 109,
-      "source_page_image": "pages/prelims/prelims_page_109.pdf",
-      "markdown_formatted": "**Q5 (2017)**: The Parliament of India exercises control over the functions of the Council of Ministers through [2017] 1. Adjournment motion 2. Question hour 3. Supplementary questions Select the correct answer using the code given below:\n- (a) 1 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(d)` ([View Source Page 109](pages/prelims/prelims_page_109.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_109.pdf",
+      "source_page_md": "notes/pages/prelims_page_109.md"
     },
     {
       "question_id": "PRE_P109_Q6",
       "question_number": "Q6",
       "year": 2014,
-      "question_text": "Consider the following statements regarding a No-Confidence Motion in India: [2014] 1. There is no mention of a No-Confidence Motion in the Constitution of India. 2. A motion of No-Confidence can be introduced in the Lok Sabha only. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements regarding a No-Confidence Motion in India: 1. There is no mention of a No-Confidence Motion in the Constitution of India. 2. A motion of No-Confidence can be introduced in the Lok Sabha only. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -162,14 +182,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 109,
-      "source_page_image": "pages/prelims/prelims_page_109.pdf",
-      "markdown_formatted": "**Q6 (2014)**: Consider the following statements regarding a No-Confidence Motion in India: [2014] 1. There is no mention of a No-Confidence Motion in the Constitution of India. 2. A motion of No-Confidence can be introduced in the Lok Sabha only. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(c)` ([View Source Page 109](pages/prelims/prelims_page_109.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_109.pdf",
+      "source_page_md": "notes/pages/prelims_page_109.md"
     },
     {
       "question_id": "PRE_P109_Q7",
       "question_number": "Q7",
       "year": 2013,
-      "question_text": "Consider the following statements: [2013] 1. The Council of Ministers in the centre shall be collectively responsible to the Parliament. 2. The Union Ministers shall hold the office during the pleasure of the President of India. 3. The Prime Minister shall communicate to the President about the proposals for legislation Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. The Council of Ministers in the centre shall be collectively responsible to the Parliament. 2. The Union Ministers shall hold the office during the pleasure of the President of India. 3. The Prime Minister shall communicate to the President about the proposals for legislation Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 and 3 only",
@@ -180,14 +200,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 109,
-      "source_page_image": "pages/prelims/prelims_page_109.pdf",
-      "markdown_formatted": "**Q7 (2013)**: Consider the following statements: [2013] 1. The Council of Ministers in the centre shall be collectively responsible to the Parliament. 2. The Union Ministers shall hold the office during the pleasure of the President of India. 3. The Prime Minister shall communicate to the President about the proposals for legislation Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(b)` ([View Source Page 109](pages/prelims/prelims_page_109.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_109.pdf",
+      "source_page_md": "notes/pages/prelims_page_109.md"
     },
     {
       "question_id": "PRE_P109_Q8",
       "question_number": "Q8",
       "year": 2012,
-      "question_text": "In the Parliament of India, the purpose of an Adjournment Motion is [2012]",
+      "question_text": "In the Parliament of India, the purpose of an Adjournment Motion is",
       "options": {
         "a": "to allow a discussion on a definite matter of urgent public importance",
         "b": "to let opposition members collect information from the ministers",
@@ -198,14 +218,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 109,
-      "source_page_image": "pages/prelims/prelims_page_109.pdf",
-      "markdown_formatted": "**Q8 (2012)**: In the Parliament of India, the purpose of an Adjournment Motion is [2012]\n- (a) to allow a discussion on a definite matter of urgent public importance\n- (b) to let opposition members collect information from the ministers\n- (c) to allow a reduction of specific amount in demand for grant\n- (d) to postpone the proceedings to check the inappropriate or violent behaviour on the part of some members\n- **Answer**: `(a)` ([View Source Page 109](pages/prelims/prelims_page_109.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_109.pdf",
+      "source_page_md": "notes/pages/prelims_page_109.md"
     },
     {
       "question_id": "PRE_P115_Q1",
       "question_number": "Q1",
       "year": 2026,
-      "question_text": "Consider the following statements about the Committee on the Welfare of Scheduled Castes and Scheduled Tribes of the Parliament of India: [2026] 1. Although members of this Committee are elected from both Houses of Parliament, the Chairperson of this Committee is appointed by the Chairman of the Rajya Sabha. 2. Twenty members are elected by the Rajya Sabha and ten members by the Lok Sabha. 3. No Minister, except for the Union Minister of Social Justice and Empowerment, is eligible to be a member of this Committee. 4. Members are elected for a fixed term of two years from the date they enter their office. Which one of the following conclusions based on the above statements is correct?",
+      "question_text": "Consider the following statements about the Committee on the Welfare of Scheduled Castes and Scheduled Tribes of the Parliament of India: 1. Although members of this Committee are elected from both Houses of Parliament, the Chairperson of this Committee is appointed by the Chairman of the Rajya Sabha. 2. Twenty members are elected by the Rajya Sabha and ten members by the Lok Sabha. 3. No Minister, except for the Union Minister of Social Justice and Empowerment, is eligible to be a member of this Committee. 4. Members are elected for a fixed term of two years from the date they enter their office. Which one of the following conclusions based on the above statements is correct?",
       "options": {
         "a": "There are four correct statements",
         "b": "There is only one correct statement, that is statement 2",
@@ -216,32 +236,32 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/prelims/prelims_page_115.pdf",
-      "markdown_formatted": "**Q1 (2026)**: Consider the following statements about the Committee on the Welfare of Scheduled Castes and Scheduled Tribes of the Parliament of India: [2026] 1. Although members of this Committee are elected from both Houses of Parliament, the Chairperson of this Committee is appointed by the Chairman of the Rajya Sabha. 2. Twenty members are elected by the Rajya Sabha and ten members by the Lok Sabha. 3. No Minister, except for the Union Minister of Social Justice and Empowerment, is eligible to be a member of this Committee. 4. Members are elected for a fixed term of two years from the date they enter their office. Which one of the following conclusions based on the above statements is correct?\n- (a) There are four correct statements\n- (b) There is only one correct statement, that is statement 2\n- (c) There are two correct statements, that include statement 1\n- (d) There is no correct statement\n- **Answer**: `(d)` ([View Source Page 115](pages/prelims/prelims_page_115.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_115.pdf",
+      "source_page_md": "notes/pages/prelims_page_115.md"
     },
     {
       "question_id": "PRE_P115_Q2",
       "question_number": "Q2",
       "year": 2024,
-      "question_text": "Which of the following statements about the Ethics Committee in the Lok Sabha are correct? [2024] 1. Initially, it was an ad-hoc Committee. 2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha. 3. This Committee cannot take up any matter which is sub-judice. SELECT THE ANSWER USING THE CODE GIVEN BELOW:",
+      "question_text": "Which of the following statements about the Ethics Committee in the Lok Sabha are correct? 1. Initially, it was an ad-hoc Committee. 2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha. 3. This Committee cannot take up any matter which is sub-judice. SELECT THE ANSWER USING THE CODE GIVEN BELOW:",
       "options": {
         "a": "1 and 2 only",
         "b": "2 and 3 only",
         "c": "1 and 3 only",
-        "d": "1,2,3 ANSWER (c"
+        "d": "1,2,3"
       },
-      "correct_option": null,
+      "correct_option": "c",
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/prelims/prelims_page_115.pdf",
-      "markdown_formatted": "**Q2 (2024)**: Which of the following statements about the Ethics Committee in the Lok Sabha are correct? [2024] 1. Initially, it was an ad-hoc Committee. 2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha. 3. This Committee cannot take up any matter which is sub-judice. SELECT THE ANSWER USING THE CODE GIVEN BELOW:\n- (a) 1 and 2 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1,2,3 ANSWER (c ([View Source Page 115](pages/prelims/prelims_page_115.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_115.pdf",
+      "source_page_md": "notes/pages/prelims_page_115.md"
     },
     {
       "question_id": "PRE_P115_Q3",
       "question_number": "Q3",
       "year": 2018,
-      "question_text": "With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws etc. conferred by the constitution of delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation ? [2018]",
+      "question_text": "With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws etc. conferred by the constitution of delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation ?",
       "options": {
         "a": "Committee on Government Assurances",
         "b": "Committee on Subordinate Legislation",
@@ -252,14 +272,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/prelims/prelims_page_115.pdf",
-      "markdown_formatted": "**Q3 (2018)**: With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws etc. conferred by the constitution of delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation ? [2018]\n- (a) Committee on Government Assurances\n- (b) Committee on Subordinate Legislation\n- (c) Rules Committee\n- (d) Business Advisory Committee\n- **Answer**: `(b)` ([View Source Page 115](pages/prelims/prelims_page_115.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_115.pdf",
+      "source_page_md": "notes/pages/prelims_page_115.md"
     },
     {
       "question_id": "PRE_P115_Q4",
       "question_number": "Q4",
       "year": 2014,
-      "question_text": "Which one of the following is the largest Committee of the Parliament? [2014]",
+      "question_text": "Which one of the following is the largest Committee of the Parliament?",
       "options": {
         "a": "The committee on Public Accounts.",
         "b": "The committee on Estimates",
@@ -270,14 +290,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/prelims/prelims_page_115.pdf",
-      "markdown_formatted": "**Q4 (2014)**: Which one of the following is the largest Committee of the Parliament? [2014]\n- (a) The committee on Public Accounts.\n- (b) The committee on Estimates\n- (c) The Committee on Public Undertakings\n- (d) The committee on Petition\n- **Answer**: `(b)` ([View Source Page 115](pages/prelims/prelims_page_115.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_115.pdf",
+      "source_page_md": "notes/pages/prelims_page_115.md"
     },
     {
       "question_id": "PRE_P115_Q5",
       "question_number": "Q5",
       "year": 2013,
-      "question_text": "Consider the following statements : The Parliamentary Committee on Public Accounts [2013] 1. Consists of not more than 25 members of the Lok Sabha 2. Scrutinizes appropriation and finance accounts of the Government 3. examines the report of the Comptroller and Auditor General of India Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements : The Parliamentary Committee on Public Accounts 1. Consists of not more than 25 members of the Lok Sabha 2. Scrutinizes appropriation and finance accounts of the Government 3. examines the report of the Comptroller and Auditor General of India Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 and 3 only",
@@ -285,15 +305,11 @@
         "d": "1, 2 and 3"
       },
       "correct_option": "b",
-      "related_articles": [
-        "Article 105",
-        "Article 118",
-        "Article 194"
-      ],
+      "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/prelims/prelims_page_115.pdf",
-      "markdown_formatted": "**Q5 (2013)**: Consider the following statements : The Parliamentary Committee on Public Accounts [2013] 1. Consists of not more than 25 members of the Lok Sabha 2. Scrutinizes appropriation and finance accounts of the Government 3. examines the report of the Comptroller and Auditor General of India Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 and 3 only\n- (c) 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(b)` ([View Source Page 115](pages/prelims/prelims_page_115.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_115.pdf",
+      "source_page_md": "notes/pages/prelims_page_115.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -307,8 +323,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2026]** Examine whether the constitutional office of the Lok Sabha Speaker has become vulnerable to partisan politics under the current anti-defection regime. What institutional changes are required to ensure the neutrality of the Lok Sabha Speaker in managing a polarised House? (10) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q2",
@@ -318,8 +334,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2025]** Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. (15) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q3",
@@ -329,8 +345,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2023]** Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalization of Indian Parliament? (15) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q4",
@@ -340,8 +356,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2023]** Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices. (10) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q5",
@@ -351,10 +367,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2022]** Discuss the role of the Vice -Presidents of India as the chairman of the Rajyasabha (10) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch08_Sub03_Parliamentary_Motions_and_Committees.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch08_Sub03_Parliamentary_Motions_and_Committees.mains.md"
+  ]
 }

@@ -13,6 +13,9 @@
     "Article 171",
     "Article 194"
   ],
+  "subtopic_json": "subtopics/Ch08_Sub01_Parliament_State_Legislature_Speaker_Rajya_Sabha_Privileges.json",
+  "prelims_notes_md": "notes/subtopics/Ch08_Sub01_Parliament_State_Legislature_Speaker_Rajya_Sabha_Privileges_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch08_Sub01_Parliament_State_Legislature_Speaker_Rajya_Sabha_Privileges_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_079.pdf",
     "pages/prelims/prelims_page_080.pdf",
@@ -53,10 +56,25 @@
   ],
   "diagrams": [
     {
+      "diagram_id": "mains_diag_bills_referred_committees_p026",
+      "title": "Percentage of Bills Referred to Parliamentary Committees (14th–17th Lok Sabha)",
+      "source_type": "mains",
+      "source_page_number": 26,
+      "source_page_pdf": "pages/mains/mains_page_026.pdf",
+      "source_page_image": "pages/mains/mains_page_026.pdf",
+      "diagram_image_path": "diagrams/mains_diag_bills_referred_committees_p026.png",
+      "markdown_link": "![Percentage of Bills Referred to Parliamentary Committees (14th–17th Lok Sabha)](diagrams/mains_diag_bills_referred_committees_p026.png)",
+      "related_articles": [
+        "Article 105",
+        "Article 118"
+      ]
+    },
+    {
       "diagram_id": "mains_diag_parliamentary_accountability_p116",
       "title": "Legislature-Executive Accountability & Parliamentary Oversight Framework",
       "source_type": "mains",
       "source_page_number": 116,
+      "source_page_pdf": "pages/mains/mains_page_116.pdf",
       "source_page_image": "pages/mains/mains_page_116.pdf",
       "diagram_image_path": "diagrams/mains_diag_parliamentary_accountability_p116.png",
       "markdown_link": "![Legislature-Executive Accountability & Parliamentary Oversight Framework](diagrams/mains_diag_parliamentary_accountability_p116.png)",
@@ -70,6 +88,7 @@
       "title": "Parliamentary Functioning Metrics: Sitting Days, Committee Referrals & Passage Time",
       "source_type": "mains",
       "source_page_number": 117,
+      "source_page_pdf": "pages/mains/mains_page_117.pdf",
       "source_page_image": "pages/mains/mains_page_117.pdf",
       "diagram_image_path": "diagrams/mains_diag_parliament_decline_metrics_p117.png",
       "markdown_link": "![Parliamentary Functioning Metrics: Sitting Days, Committee Referrals & Passage Time](diagrams/mains_diag_parliament_decline_metrics_p117.png)",
@@ -84,6 +103,7 @@
       "title": "Number of Bills Referred to Parliamentary Committees Across Lok Sabhas",
       "source_type": "mains",
       "source_page_number": 131,
+      "source_page_pdf": "pages/mains/mains_page_131.pdf",
       "source_page_image": "pages/mains/mains_page_131.pdf",
       "diagram_image_path": "diagrams/mains_diag_committee_referrals_chart_p131.png",
       "markdown_link": "![Number of Bills Referred to Parliamentary Committees Across Lok Sabhas](diagrams/mains_diag_committee_referrals_chart_p131.png)",
@@ -98,7 +118,7 @@
       "question_id": "PRE_P079_Q1",
       "question_number": "Q1",
       "year": 2025,
-      "question_text": "Consider the following statements: [2025] I. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution. II. According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately. III. The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People passed by a majority of all the (then) Members of the House, provided that no resolution shall be moved unless at least fourteen days’ notice has been given of the intention to move the resolution. Which of the statements given above are correct?",
+      "question_text": "Consider the following statements: I. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution. II. According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately. III. The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People passed by a majority of all the (then) Members of the House, provided that no resolution shall be moved unless at least fourteen days’ notice has been given of the intention to move the resolution. Which of the statements given above are correct?",
       "options": {
         "a": "I and II only",
         "b": "II and III only",
@@ -109,14 +129,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 79,
-      "source_page_image": "pages/prelims/prelims_page_079.pdf",
-      "markdown_formatted": "**Q1 (2025)**: Consider the following statements: [2025] I. On the dissolution of the House of the People, the Speaker shall not vacate his/her office until immediately before the first meeting of the House of the People after the dissolution. II. According to the provisions of the Constitution of India, a Member of the House of the People on being elected as Speaker shall resign from his/her political party immediately. III. The Speaker of the House of the People may be removed from his/her office by a resolution of the House of the People passed by a majority of all the (then) Members of the House, provided that no resolution shall be moved unless at least fourteen days’ notice has been given of the intention to move the resolution. Which of the statements given above are correct?\n- (a) I and II only\n- (b) II and III only\n- (c) I and III only\n- (d) I, II and III\n- **Answer**: `(c)` ([View Source Page 79](pages/prelims/prelims_page_079.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_079.pdf",
+      "source_page_md": "notes/pages/prelims_page_079.md"
     },
     {
       "question_id": "PRE_P080_Q2",
       "question_number": "Q2",
       "year": 2024,
-      "question_text": "With reference to the Speaker of the Lok Sabha, consider the following statements: [2024] While any resolution for the removal of the Speaker of the Lok Sabha is under consideration: 1. He/She shall not preside. 2. He/She shall not have the right to speak. 3. He/She shall not be entitled to vote on the resolution in the first instance. Which of the statements given above is/are correct?",
+      "question_text": "With reference to the Speaker of the Lok Sabha, consider the following statements: While any resolution for the removal of the Speaker of the Lok Sabha is under consideration: 1. He/She shall not preside. 2. He/She shall not have the right to speak. 3. He/She shall not be entitled to vote on the resolution in the first instance. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "1 and 2 only",
@@ -127,14 +147,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 80,
-      "source_page_image": "pages/prelims/prelims_page_080.pdf",
-      "markdown_formatted": "**Q2 (2024)**: With reference to the Speaker of the Lok Sabha, consider the following statements: [2024] While any resolution for the removal of the Speaker of the Lok Sabha is under consideration: 1. He/She shall not preside. 2. He/She shall not have the right to speak. 3. He/She shall not be entitled to vote on the resolution in the first instance. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 1 and 2 only\n- (c) 2 and 3 only\n- (d) 1,2 and 3\n- **Answer**: `(a)` ([View Source Page 80](pages/prelims/prelims_page_080.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_080.pdf",
+      "source_page_md": "notes/pages/prelims_page_080.md"
     },
     {
       "question_id": "PRE_P080_Q3",
       "question_number": "Q3",
       "year": 2024,
-      "question_text": "With reference to the Parliament of India, consider the following statements: [2024] 1. Prorogation of a House by the President of India does not require the advice of the Council of Ministers. 2. Prorogation of a House is generally done after the House is adjourned sine die, but there is no bar to the President of India proroguing the House which is in session. 3. Dissolution of the Lok Sabha is done by the President of India who, save in exceptional circumstances, does so on the advice of the Council of Ministers. Which of the statements given above is/are correct?",
+      "question_text": "With reference to the Parliament of India, consider the following statements: 1. Prorogation of a House by the President of India does not require the advice of the Council of Ministers. 2. Prorogation of a House is generally done after the House is adjourned sine die, but there is no bar to the President of India proroguing the House which is in session. 3. Dissolution of the Lok Sabha is done by the President of India who, save in exceptional circumstances, does so on the advice of the Council of Ministers. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "1 and 2",
@@ -145,14 +165,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 80,
-      "source_page_image": "pages/prelims/prelims_page_080.pdf",
-      "markdown_formatted": "**Q3 (2024)**: With reference to the Parliament of India, consider the following statements: [2024] 1. Prorogation of a House by the President of India does not require the advice of the Council of Ministers. 2. Prorogation of a House is generally done after the House is adjourned sine die, but there is no bar to the President of India proroguing the House which is in session. 3. Dissolution of the Lok Sabha is done by the President of India who, save in exceptional circumstances, does so on the advice of the Council of Ministers. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 1 and 2\n- (c) 2 and 3\n- (d) 3 only\n- **Answer**: `(c)` ([View Source Page 80](pages/prelims/prelims_page_080.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_080.pdf",
+      "source_page_md": "notes/pages/prelims_page_080.md"
     },
     {
       "question_id": "PRE_P080_Q4",
       "question_number": "Q4",
       "year": 2022,
-      "question_text": "With reference to Deputy Speaker of Lok Sabha, consider the following statements : [2022] 1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix. 2. There is a mandatory provision that the election of a candidate as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party. 3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings. 4. The well established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister. Which of the statements given above are correct ?",
+      "question_text": "With reference to Deputy Speaker of Lok Sabha, consider the following statements : 1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix. 2. There is a mandatory provision that the election of a candidate as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party. 3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings. 4. The well established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister. Which of the statements given above are correct ?",
       "options": {
         "a": "1 and 3 only",
         "b": "1, 2 and 3",
@@ -163,14 +183,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 80,
-      "source_page_image": "pages/prelims/prelims_page_080.pdf",
-      "markdown_formatted": "**Q4 (2022)**: With reference to Deputy Speaker of Lok Sabha, consider the following statements : [2022] 1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix. 2. There is a mandatory provision that the election of a candidate as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party. 3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings. 4. The well established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister. Which of the statements given above are correct ?\n- (a) 1 and 3 only\n- (b) 1, 2 and 3\n- (c) 3 and 4 only\n- (d) 2 and 4 only\n- **Answer**: `(a)` ([View Source Page 80](pages/prelims/prelims_page_080.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_080.pdf",
+      "source_page_md": "notes/pages/prelims_page_080.md"
     },
     {
       "question_id": "PRE_P080_Q5",
       "question_number": "Q5",
       "year": 2022,
-      "question_text": "Which of the following is/are the exclusive power(s) of Lok Sabha ? [2022] 1. To ratify the declaration of Emergency 2. To pass a motion of no-confidence against the Council of Ministers 3. To impeach the President of India Select the correct answer using the code given below :",
+      "question_text": "Which of the following is/are the exclusive power(s) of Lok Sabha ? 1. To ratify the declaration of Emergency 2. To pass a motion of no-confidence against the Council of Ministers 3. To impeach the President of India Select the correct answer using the code given below :",
       "options": {
         "a": "1 and 2",
         "b": "2 only",
@@ -181,14 +201,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 80,
-      "source_page_image": "pages/prelims/prelims_page_080.pdf",
-      "markdown_formatted": "**Q5 (2022)**: Which of the following is/are the exclusive power(s) of Lok Sabha ? [2022] 1. To ratify the declaration of Emergency 2. To pass a motion of no-confidence against the Council of Ministers 3. To impeach the President of India Select the correct answer using the code given below :\n- (a) 1 and 2\n- (b) 2 only\n- (c) 1 and 3\n- (d) 3 only\n- **Answer**: `(b)` ([View Source Page 80](pages/prelims/prelims_page_080.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_080.pdf",
+      "source_page_md": "notes/pages/prelims_page_080.md"
     },
     {
       "question_id": "PRE_P080_Q6",
       "question_number": "Q6",
       "year": 2020,
-      "question_text": "Consider the following statements: [2020] 1. The President of India can summon a session of the Parliament at such place as he/she thinks fit. 2. The Constitution of India provides for three sessions of the Parliament in a year, but it is not mandatory to conduct all three sessions. 3. There is no minimum number of days that the Parliament is required to meet in a year. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. The President of India can summon a session of the Parliament at such place as he/she thinks fit. 2. The Constitution of India provides for three sessions of the Parliament in a year, but it is not mandatory to conduct all three sessions. 3. There is no minimum number of days that the Parliament is required to meet in a year. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -199,14 +219,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 80,
-      "source_page_image": "pages/prelims/prelims_page_080.pdf",
-      "markdown_formatted": "**Q6 (2020)**: Consider the following statements: [2020] 1. The President of India can summon a session of the Parliament at such place as he/she thinks fit. 2. The Constitution of India provides for three sessions of the Parliament in a year, but it is not mandatory to conduct all three sessions. 3. There is no minimum number of days that the Parliament is required to meet in a year. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) 1 and 3 only\n- (d) 2 and 3 only\n- **Answer**: `(c)` ([View Source Page 80](pages/prelims/prelims_page_080.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_080.pdf",
+      "source_page_md": "notes/pages/prelims_page_080.md"
     },
     {
       "question_id": "PRE_P081_Q8",
       "question_number": "Q8",
       "year": 2019,
-      "question_text": "Consider the following statements: [2019] 1. The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts from disqualification on the grounds of 'Office of Profit'. 2. The above-mentioned Act was amended five times. 3. The term 'Office of Profit' is well defined in the Constitution of India. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts from disqualification on the grounds of 'Office of Profit'. 2. The above-mentioned Act was amended five times. 3. The term 'Office of Profit' is well defined in the Constitution of India. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 and 2 only",
         "b": "3 only",
@@ -217,14 +237,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 81,
-      "source_page_image": "pages/prelims/prelims_page_081.pdf",
-      "markdown_formatted": "**Q8 (2019)**: Consider the following statements: [2019] 1. The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts from disqualification on the grounds of 'Office of Profit'. 2. The above-mentioned Act was amended five times. 3. The term 'Office of Profit' is well defined in the Constitution of India. Which of the statements given above is/are correct?\n- (a) 1 and 2 only\n- (b) 3 only\n- (c) 2 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(a)` ([View Source Page 81](pages/prelims/prelims_page_081.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_081.pdf",
+      "source_page_md": "notes/pages/prelims_page_081.md"
     },
     {
       "question_id": "PRE_P081_Q9",
       "question_number": "Q9",
       "year": 2018,
-      "question_text": "Consider the following statements: [2018] 1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the Assembly. 2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her office immediately. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the Assembly. 2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her office immediately. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -235,14 +255,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 81,
-      "source_page_image": "pages/prelims/prelims_page_081.pdf",
-      "markdown_formatted": "**Q9 (2018)**: Consider the following statements: [2018] 1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the Assembly. 2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her office immediately. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(a)` ([View Source Page 81](pages/prelims/prelims_page_081.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_081.pdf",
+      "source_page_md": "notes/pages/prelims_page_081.md"
     },
     {
       "question_id": "PRE_P081_Q10",
       "question_number": "Q10",
       "year": 2016,
-      "question_text": "The Parliament of India acquires the power to legislate on any item in the State List in the national interest if a resolution to that effect is passed by the [2016]",
+      "question_text": "The Parliament of India acquires the power to legislate on any item in the State List in the national interest if a resolution to that effect is passed by the",
       "options": {
         "a": "Lok Sabha by a simple majority of its total membership",
         "b": "Lok Sabha by a majority of not less than two-thirds of its total membership",
@@ -253,14 +273,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 81,
-      "source_page_image": "pages/prelims/prelims_page_081.pdf",
-      "markdown_formatted": "**Q10 (2016)**: The Parliament of India acquires the power to legislate on any item in the State List in the national interest if a resolution to that effect is passed by the [2016]\n- (a) Lok Sabha by a simple majority of its total membership\n- (b) Lok Sabha by a majority of not less than two-thirds of its total membership\n- (c) Rajya Sabha by a simple majority of its total membership\n- (d) Rajya Sabha by a majority of not less than two-thirds of its members present and voting\n- **Answer**: `(d)` ([View Source Page 81](pages/prelims/prelims_page_081.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_081.pdf",
+      "source_page_md": "notes/pages/prelims_page_081.md"
     },
     {
       "question_id": "PRE_P081_Q12",
       "question_number": "Q12",
       "year": 2013,
-      "question_text": "With reference to Parliament, consider the following statements; [2013] 1. The Chairman and the Deputy Chairman of the Rajya Sabha are not the members of that House. 2. While the nominated members of the two Houses of the Parliament have no voting right in the presidential election, they have the right to vote in the election of the Vice President. Which of the statements given above is/are correct?",
+      "question_text": "With reference to Parliament, consider the following statements; 1. The Chairman and the Deputy Chairman of the Rajya Sabha are not the members of that House. 2. While the nominated members of the two Houses of the Parliament have no voting right in the presidential election, they have the right to vote in the election of the Vice President. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -271,14 +291,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 81,
-      "source_page_image": "pages/prelims/prelims_page_081.pdf",
-      "markdown_formatted": "**Q12 (2013)**: With reference to Parliament, consider the following statements; [2013] 1. The Chairman and the Deputy Chairman of the Rajya Sabha are not the members of that House. 2. While the nominated members of the two Houses of the Parliament have no voting right in the presidential election, they have the right to vote in the election of the Vice President. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 81](pages/prelims/prelims_page_081.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_081.pdf",
+      "source_page_md": "notes/pages/prelims_page_081.md"
     },
     {
       "question_id": "PRE_P081_Q13",
       "question_number": "Q13",
       "year": 2013,
-      "question_text": "The Parliament can make any law for whole or any part of India for implementing international treaties [2013]",
+      "question_text": "The Parliament can make any law for whole or any part of India for implementing international treaties",
       "options": {
         "a": "with the consent of all the States",
         "b": "with the consent of the majority of States",
@@ -289,30 +309,26 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 81,
-      "source_page_image": "pages/prelims/prelims_page_081.pdf",
-      "markdown_formatted": "**Q13 (2013)**: The Parliament can make any law for whole or any part of India for implementing international treaties [2013]\n- (a) with the consent of all the States\n- (b) with the consent of the majority of States\n- (c) with the consent of the States concerned\n- (d) without the consent of any State\n- **Answer**: `(d)` ([View Source Page 81](pages/prelims/prelims_page_081.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_081.pdf",
+      "source_page_md": "notes/pages/prelims_page_081.md"
     },
     {
-      "question_id": "PRE_P115_Q5",
-      "question_number": "Q5",
-      "year": 2013,
-      "question_text": "Consider the following statements : The Parliamentary Committee on Public Accounts [2013] 1. Consists of not more than 25 members of the Lok Sabha 2. Scrutinizes appropriation and finance accounts of the Government 3. examines the report of the Comptroller and Auditor General of India Which of the statements given above is/are correct?",
+      "question_id": "PRE_P082_Q14",
+      "question_number": "Q14",
+      "year": 2012,
+      "question_text": "Regarding the Office of the Lok Sabha Speaker, consider the following statements: 1. He/She holds the office during the pleasure of the President. 2. He/She need not be a member of the House at the time of his/her election but has to become a member of the House within six months from the date of his/her election. 3. If he/she intends to resign, the letter of his/her resignation has to be addressed to the Deputy Speaker. Which of the statements given above is/are correct?",
       "options": {
-        "a": "1 only",
-        "b": "2 and 3 only",
-        "c": "3 only",
-        "d": "1, 2 and 3"
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "1, 2 and 3",
+        "d": "None"
       },
       "correct_option": "b",
-      "related_articles": [
-        "Article 105",
-        "Article 118",
-        "Article 194"
-      ],
+      "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
-      "source_page_number": 115,
-      "source_page_image": "pages/prelims/prelims_page_115.pdf",
-      "markdown_formatted": "**Q5 (2013)**: Consider the following statements : The Parliamentary Committee on Public Accounts [2013] 1. Consists of not more than 25 members of the Lok Sabha 2. Scrutinizes appropriation and finance accounts of the Government 3. examines the report of the Comptroller and Auditor General of India Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 and 3 only\n- (c) 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(b)` ([View Source Page 115](pages/prelims/prelims_page_115.pdf))"
+      "source_page_number": 82,
+      "source_page_pdf": "pages/prelims/prelims_page_082.pdf",
+      "source_page_md": "notes/pages/prelims_page_082.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -324,8 +340,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2025]** Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. (15) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q3",
@@ -335,8 +351,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2023]** Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalization of Indian Parliament? (15) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q4",
@@ -346,8 +362,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2023]** Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices. (10) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q5",
@@ -357,8 +373,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2022]** Discuss the role of the Vice -Presidents of India as the chairman of the Rajyasabha (10) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q6",
@@ -368,8 +384,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2021]** To what extent, in your view, the Parliament is able to ensure accountability of the executive in India? (10) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q7",
@@ -379,8 +395,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2021]** Do Department-related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples. (15) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q8",
@@ -390,8 +406,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2021]** Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations. (15) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q9",
@@ -401,8 +417,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2020]** \"Once a speaker, Always a speaker'! Do you think the practice should be adopted to impart objectivity to the office of the Speaker of Lok Sabha? What could be its implications for the robust functioning of parliamentary business in India. (10) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q10",
@@ -412,8 +428,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2020]** Rajya Sabha has been transformed from a 'useless stepney tyre' to the most useful supporting organ in the past few decades. Highlight the factors as well as the areas in which this transformation could be visible. (15) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q12",
@@ -423,32 +439,19 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2019]** Individual Parliamentarian's role as the national lawmaker is on a decline, which in turn, has adversely impacted the quality of debates and their outcome. Discuss. (15) ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     },
     {
       "question_id": "MAINS_P115_Q13",
       "year": 2018,
-      "marks": null,
-      "question_text": "Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (10) \"The Parliament of India is the temple of democracy and the people of India are its high priests.\" - Lal Bahadur Shastri 117",
+      "marks": 10.0,
+      "question_text": "Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (10)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 115,
-      "source_page_image": "pages/mains/mains_page_115.pdf",
-      "markdown_formatted": "- **[2018]** Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (10) \"The Parliament of India is the temple of democracy and the people of India are its high priests.\" - Lal Bahadur Shastri 117 ([View Mains Source Page 115](pages/mains/mains_page_115.pdf))"
-    },
-    {
-      "question_id": "MAINS_P118_Q15",
-      "year": 2002,
-      "marks": null,
-      "question_text": "Increase Working Days: NCRWC (2002) recommended mandatory 110 days a year 2. Enhancing Parliamentary Decorum: Encourage a culture of respect, professionalism, and active participation in debates among parliamentarians. 3. Enhance Research Support for MPs: Dedicated legislative research units should be established. Eg. UK Parliament's Research Service 4. Encouraging Public Feedback on key Bills and Public Issues 5. Venkatachaliah Committee (2002)",
-      "related_articles": [],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 118,
-      "source_page_image": "pages/mains/mains_page_118.pdf",
-      "markdown_formatted": "- **[2002]** Increase Working Days: NCRWC (2002) recommended mandatory 110 days a year 2. Enhancing Parliamentary Decorum: Encourage a culture of respect, professionalism, and active participation in debates among parliamentarians. 3. Enhance Research Support for MPs: Dedicated legislative research units should be established. Eg. UK Parliament's Research Service 4. Encouraging Public Feedback on key Bills and Public Issues 5. Venkatachaliah Committee (2002) ([View Mains Source Page 118](pages/mains/mains_page_118.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch08_Sub01_Parliament_State_Legislature_Speaker_Rajya_Sabha_Privileges.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch08_Sub01_Parliament_State_Legislature_Speaker_Rajya_Sabha_Privileges.mains.md"
+  ]
 }

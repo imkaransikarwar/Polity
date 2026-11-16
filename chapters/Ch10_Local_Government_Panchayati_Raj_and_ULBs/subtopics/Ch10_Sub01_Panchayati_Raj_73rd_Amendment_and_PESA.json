@@ -15,6 +15,9 @@
     "Article 243K",
     "Article 243M"
   ],
+  "subtopic_json": "subtopics/Ch10_Sub01_Panchayati_Raj_73rd_Amendment_and_PESA.json",
+  "prelims_notes_md": "notes/subtopics/Ch10_Sub01_Panchayati_Raj_73rd_Amendment_and_PESA_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch10_Sub01_Panchayati_Raj_73rd_Amendment_and_PESA_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_137.pdf",
     "pages/prelims/prelims_page_138.pdf",
@@ -49,6 +52,7 @@
       "title": "Panchayati Raj & Municipalities: Three Tiers vs Three Categories & Who Elects Whom",
       "source_type": "prelims",
       "source_page_number": 142,
+      "source_page_pdf": "pages/prelims/prelims_page_142.pdf",
       "source_page_image": "pages/prelims/prelims_page_142.pdf",
       "diagram_image_path": "diagrams/pre_diag_pri_tiers_elections_p142.png",
       "markdown_link": "![Panchayati Raj & Municipalities: Three Tiers vs Three Categories & Who Elects Whom](diagrams/pre_diag_pri_tiers_elections_p142.png)",
@@ -64,6 +68,7 @@
       "title": "Money Flow to Local Bodies: Central & State Finance Commissions",
       "source_type": "prelims",
       "source_page_number": 145,
+      "source_page_pdf": "pages/prelims/prelims_page_145.pdf",
       "source_page_image": "pages/prelims/prelims_page_145.pdf",
       "diagram_image_path": "diagrams/pre_diag_local_bodies_money_flow_p145.png",
       "markdown_link": "![Money Flow to Local Bodies: Central & State Finance Commissions](diagrams/pre_diag_local_bodies_money_flow_p145.png)",
@@ -78,6 +83,7 @@
       "title": "A Bigger Share for Urban Local Governments (Finance Commission Grants)",
       "source_type": "mains",
       "source_page_number": 204,
+      "source_page_pdf": "pages/mains/mains_page_204.pdf",
       "source_page_image": "pages/mains/mains_page_204.pdf",
       "diagram_image_path": "diagrams/mains_diag_ulb_grants_share_p204.png",
       "markdown_link": "![A Bigger Share for Urban Local Governments (Finance Commission Grants)](diagrams/mains_diag_ulb_grants_share_p204.png)",
@@ -91,6 +97,7 @@
       "title": "Finance Commission Grants to Local Bodies (11th to 15th FC in Rs Lakh Crore)",
       "source_type": "mains",
       "source_page_number": 205,
+      "source_page_pdf": "pages/mains/mains_page_205.pdf",
       "source_page_image": "pages/mains/mains_page_205.pdf",
       "diagram_image_path": "diagrams/mains_diag_fc_grants_local_bodies_p205.png",
       "markdown_link": "![Finance Commission Grants to Local Bodies (11th to 15th FC in Rs Lakh Crore)](diagrams/mains_diag_fc_grants_local_bodies_p205.png)",
@@ -106,7 +113,7 @@
       "question_id": "PRE_P138_Q1",
       "question_number": "Q1",
       "year": 2026,
-      "question_text": "Consider the following statements about provisions pertaining to SC/STs in India: [2026] 1. Provisions for Tribal Areas in Assam, Meghalaya, Tripura and Mizoram are in the Fifth Schedule. 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes. 3. The Constitution provides for reservation of seats in Panchayats for women belonging to SCs and STs.",
+      "question_text": "Consider the following statements about provisions pertaining to SC/STs in India: 1. Provisions for Tribal Areas in Assam, Meghalaya, Tripura and Mizoram are in the Fifth Schedule. 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes. 3. The Constitution provides for reservation of seats in Panchayats for women belonging to SCs and STs.",
       "options": {
         "a": "There are two correct statements, that include statement 2",
         "b": "There are two correct statements, that are statements 1 and 3",
@@ -120,14 +127,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 138,
-      "source_page_image": "pages/prelims/prelims_page_138.pdf",
-      "markdown_formatted": "**Q1 (2026)**: Consider the following statements about provisions pertaining to SC/STs in India: [2026] 1. Provisions for Tribal Areas in Assam, Meghalaya, Tripura and Mizoram are in the Fifth Schedule. 2. Some tribes of India are entitled to exemption from paying Income Tax on certain incomes. 3. The Constitution provides for reservation of seats in Panchayats for women belonging to SCs and STs.\n- (a) There are two correct statements, that include statement 2\n- (b) There are two correct statements, that are statements 1 and 3\n- (c) There is only one correct statement\n- (d) All three statements are correct\n- **Answer**: `(a)` ([View Source Page 138](pages/prelims/prelims_page_138.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_138.pdf",
+      "source_page_md": "notes/pages/prelims_page_138.md"
     },
     {
       "question_id": "PRE_P138_Q2",
       "question_number": "Q2",
       "year": 2025,
-      "question_text": "Consider the following statements: [2025] I. Panchayats at the intermediate level exist in all States. II. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years. III. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level. Which of the statements given above are not correct?",
+      "question_text": "Consider the following statements: I. Panchayats at the intermediate level exist in all States. II. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years. III. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level. Which of the statements given above are not correct?",
       "options": {
         "a": "I and II only",
         "b": "II and III only",
@@ -140,14 +147,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 138,
-      "source_page_image": "pages/prelims/prelims_page_138.pdf",
-      "markdown_formatted": "**Q2 (2025)**: Consider the following statements: [2025] I. Panchayats at the intermediate level exist in all States. II. To be eligible to be a Member of a Panchayat at the intermediate level, a person should attain the age of thirty years. III. The Chief Minister of a State constitutes a commission to review the financial position of Panchayats at the intermediate levels and to make recommendations regarding the distribution of net proceeds of taxes and duties, leviable by the State, between the State and Panchayats at the intermediate level. Which of the statements given above are not correct?\n- (a) I and II only\n- (b) II and III only\n- (c) I and III only\n- (d) I, II and III\n- **Answer**: `(d)` ([View Source Page 138](pages/prelims/prelims_page_138.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_138.pdf",
+      "source_page_md": "notes/pages/prelims_page_138.md"
     },
     {
       "question_id": "PRE_P138_Q5",
       "question_number": "Q5",
       "year": 2023,
-      "question_text": "With reference to 'Scheduled Areas' in India, consider the following statements : [2023] 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President. 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block. 3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States. How many of the above statements are correct?",
+      "question_text": "With reference to 'Scheduled Areas' in India, consider the following statements : 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President. 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block. 3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States. How many of the above statements are correct?",
       "options": {
         "a": "Only one",
         "b": "Only two",
@@ -158,14 +165,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 138,
-      "source_page_image": "pages/prelims/prelims_page_138.pdf",
-      "markdown_formatted": "**Q5 (2023)**: With reference to 'Scheduled Areas' in India, consider the following statements : [2023] 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of the President. 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block. 3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States. How many of the above statements are correct?\n- (a) Only one\n- (b) Only two\n- (c) All three\n- (d) None\n- **Answer**: `(b)` ([View Source Page 138](pages/prelims/prelims_page_138.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_138.pdf",
+      "source_page_md": "notes/pages/prelims_page_138.md"
     },
     {
       "question_id": "PRE_P139_Q6",
       "question_number": "Q6",
       "year": 2022,
-      "question_text": "If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it ? [2022]",
+      "question_text": "If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it ?",
       "options": {
         "a": "This would prevent the transfer of land of tribal people to non-tribal people.",
         "b": "This would create a local self-governing body in that area.",
@@ -176,14 +183,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 139,
-      "source_page_image": "pages/prelims/prelims_page_139.pdf",
-      "markdown_formatted": "**Q6 (2022)**: If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it ? [2022]\n- (a) This would prevent the transfer of land of tribal people to non-tribal people.\n- (b) This would create a local self-governing body in that area.\n- (c) This would convert that area into a Union Territory.\n- (d) The State having such areas would be declared a Special Category State.\n- **Answer**: `(a)` ([View Source Page 139](pages/prelims/prelims_page_139.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_139.pdf",
+      "source_page_md": "notes/pages/prelims_page_139.md"
     },
     {
       "question_id": "PRE_P139_Q8",
       "question_number": "Q8",
       "year": 2017,
-      "question_text": "Local self-government can be best explained as an exercise in [2017]",
+      "question_text": "Local self-government can be best explained as an exercise in",
       "options": {
         "a": "Federalism",
         "b": "Democratic decentralization",
@@ -194,14 +201,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 139,
-      "source_page_image": "pages/prelims/prelims_page_139.pdf",
-      "markdown_formatted": "**Q8 (2017)**: Local self-government can be best explained as an exercise in [2017]\n- (a) Federalism\n- (b) Democratic decentralization\n- (c) Administrative delegation\n- (d) Direct democracy\n- **Answer**: `(b)` ([View Source Page 139](pages/prelims/prelims_page_139.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_139.pdf",
+      "source_page_md": "notes/pages/prelims_page_139.md"
     },
     {
       "question_id": "PRE_P139_Q9",
       "question_number": "Q9",
       "year": 2016,
-      "question_text": "Consider the following statements: [2016] 1. The minimum age prescribed for any person to be a member of Panchayat is 25 years. 2. A Panchayat reconstituted after premature dissolution continues only for the remainder period. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. The minimum age prescribed for any person to be a member of Panchayat is 25 years. 2. A Panchayat reconstituted after premature dissolution continues only for the remainder period. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -210,19 +217,18 @@
       },
       "correct_option": "b",
       "related_articles": [
-        "Article 243",
-        "Article 249"
+        "Article 243"
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 139,
-      "source_page_image": "pages/prelims/prelims_page_139.pdf",
-      "markdown_formatted": "**Q9 (2016)**: Consider the following statements: [2016] 1. The minimum age prescribed for any person to be a member of Panchayat is 25 years. 2. A Panchayat reconstituted after premature dissolution continues only for the remainder period. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 139](pages/prelims/prelims_page_139.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_139.pdf",
+      "source_page_md": "notes/pages/prelims_page_139.md"
     },
     {
       "question_id": "PRE_P139_Q10",
       "question_number": "Q10",
       "year": 2015,
-      "question_text": "The fundamental object of Panchayati Raj system is to ensure which among the following? [2015] (1) People's participation in development (2) Political accountability (3) Democratic decentralization (4) Financial mobilization Select the correct answer using the code given below.",
+      "question_text": "The fundamental object of Panchayati Raj system is to ensure which among the following? (1) People's participation in development (2) Political accountability (3) Democratic decentralization (4) Financial mobilization Select the correct answer using the code given below.",
       "options": {
         "a": "1, 2 and 3 only",
         "b": "2 and 4 only",
@@ -235,14 +241,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 139,
-      "source_page_image": "pages/prelims/prelims_page_139.pdf",
-      "markdown_formatted": "**Q10 (2015)**: The fundamental object of Panchayati Raj system is to ensure which among the following? [2015] (1) People's participation in development (2) Political accountability (3) Democratic decentralization (4) Financial mobilization Select the correct answer using the code given below.\n- (a) 1, 2 and 3 only\n- (b) 2 and 4 only\n- (c) 1 and 3 only\n- (d) 1, 2, 3 and 4\n- **Answer**: `(c)` ([View Source Page 139](pages/prelims/prelims_page_139.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_139.pdf",
+      "source_page_md": "notes/pages/prelims_page_139.md"
     },
     {
       "question_id": "PRE_P139_Q11",
       "question_number": "Q11",
       "year": 2015,
-      "question_text": "The provisions in Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to [2015]",
+      "question_text": "The provisions in Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to",
       "options": {
         "a": "protect the interests of Scheduled Tribes",
         "b": "determine the boundaries between States",
@@ -255,14 +261,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 139,
-      "source_page_image": "pages/prelims/prelims_page_139.pdf",
-      "markdown_formatted": "**Q11 (2015)**: The provisions in Fifth Schedule and Sixth Schedule in the Constitution of India are made in order to [2015]\n- (a) protect the interests of Scheduled Tribes\n- (b) determine the boundaries between States\n- (c) determine the powers, authority and responsibilities of Panchayats\n- (d) protect the interests of all border States\n- **Answer**: `(a)` ([View Source Page 139](pages/prelims/prelims_page_139.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_139.pdf",
+      "source_page_md": "notes/pages/prelims_page_139.md"
     },
     {
       "question_id": "PRE_P139_Q12",
       "question_number": "Q12",
       "year": 2013,
-      "question_text": "The Government enacted the Panchayat Extension to Scheduled Areas (PESA) Act in 1996. [2013] Which one of the following is not identified as its objective?",
+      "question_text": "The Government enacted the Panchayat Extension to Scheduled Areas (PESA) Act in 1996. Which one of the following is not identified as its objective?",
       "options": {
         "a": "To provide self-governance",
         "b": "To recognize traditional rights",
@@ -275,14 +281,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 139,
-      "source_page_image": "pages/prelims/prelims_page_139.pdf",
-      "markdown_formatted": "**Q12 (2013)**: The Government enacted the Panchayat Extension to Scheduled Areas (PESA) Act in 1996. [2013] Which one of the following is not identified as its objective?\n- (a) To provide self-governance\n- (b) To recognize traditional rights\n- (c) To create autonomous regions in tribal areas\n- (d) To free tribal people from exploitation\n- **Answer**: `(c)` ([View Source Page 139](pages/prelims/prelims_page_139.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_139.pdf",
+      "source_page_md": "notes/pages/prelims_page_139.md"
     },
     {
       "question_id": "PRE_P139_Q13",
       "question_number": "Q13",
       "year": 2012,
-      "question_text": "In the areas covered under the Panchayat (Extension to the Scheduled Areas) Act, 1996, what is the role/power of Gram Sabha? [2012] 1. Gram Sabha has the power to prevent alienation of land in the Scheduled Areas. 2. Gram Sabha has the ownership of minor forest produce. 3. Recommendation of Gram Sabha is required for granting prospecting license or mining lease for any mineral in the Scheduled Areas. Which of the statements given above is/are correct?",
+      "question_text": "In the areas covered under the Panchayat (Extension to the Scheduled Areas) Act, 1996, what is the role/power of Gram Sabha? 1. Gram Sabha has the power to prevent alienation of land in the Scheduled Areas. 2. Gram Sabha has the ownership of minor forest produce. 3. Recommendation of Gram Sabha is required for granting prospecting license or mining lease for any mineral in the Scheduled Areas. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "1 and 2 only",
@@ -296,14 +302,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 139,
-      "source_page_image": "pages/prelims/prelims_page_139.pdf",
-      "markdown_formatted": "**Q13 (2012)**: In the areas covered under the Panchayat (Extension to the Scheduled Areas) Act, 1996, what is the role/power of Gram Sabha? [2012] 1. Gram Sabha has the power to prevent alienation of land in the Scheduled Areas. 2. Gram Sabha has the ownership of minor forest produce. 3. Recommendation of Gram Sabha is required for granting prospecting license or mining lease for any mineral in the Scheduled Areas. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 1 and 2 only\n- (c) 2 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(b)` ([View Source Page 139](pages/prelims/prelims_page_139.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_139.pdf",
+      "source_page_md": "notes/pages/prelims_page_139.md"
     },
     {
       "question_id": "PRE_P140_Q14",
       "question_number": "Q14",
       "year": 2011,
-      "question_text": "The Constitution (Seventy-Third Amendment) Act, 1992, which aims at promoting the Panchayati Raj Institutions in the country, provides for which of the following? [2011] 1. Constitution of District Planning Committees. 2. State Election Commissions to conduct all Panchayat elections. 3. Establishment of State Finance Commissions. Select the correct answer using the code given below:",
+      "question_text": "The Constitution (Seventy-Third Amendment) Act, 1992, which aims at promoting the Panchayati Raj Institutions in the country, provides for which of the following? 1. Constitution of District Planning Committees. 2. State Election Commissions to conduct all Panchayat elections. 3. Establishment of State Finance Commissions. Select the correct answer using the code given below:",
       "options": {
         "a": "1 only",
         "b": "1 and 2 only",
@@ -318,14 +324,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/prelims/prelims_page_140.pdf",
-      "markdown_formatted": "**Q14 (2011)**: The Constitution (Seventy-Third Amendment) Act, 1992, which aims at promoting the Panchayati Raj Institutions in the country, provides for which of the following? [2011] 1. Constitution of District Planning Committees. 2. State Election Commissions to conduct all Panchayat elections. 3. Establishment of State Finance Commissions. Select the correct answer using the code given below:\n- (a) 1 only\n- (b) 1 and 2 only\n- (c) 2 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(c)` ([View Source Page 140](pages/prelims/prelims_page_140.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_140.pdf",
+      "source_page_md": "notes/pages/prelims_page_140.md"
     },
     {
       "question_id": "PRE_P140_Q15",
       "question_number": "Q15",
       "year": 2011,
-      "question_text": "Consider the following statements: In India, a Metropolitan Planning Committee [2011] 1. is constituted under the provisions of the Constitution of India. 2. prepares the draft development plans for the metropolitan area. 3. has the sole responsibility for implementing Government sponsored schemes in the metropolitan area. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: In India, a Metropolitan Planning Committee 1. is constituted under the provisions of the Constitution of India. 2. prepares the draft development plans for the metropolitan area. 3. has the sole responsibility for implementing Government sponsored schemes in the metropolitan area. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 and 2 only",
         "b": "2 only",
@@ -336,14 +342,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/prelims/prelims_page_140.pdf",
-      "markdown_formatted": "**Q15 (2011)**: Consider the following statements: In India, a Metropolitan Planning Committee [2011] 1. is constituted under the provisions of the Constitution of India. 2. prepares the draft development plans for the metropolitan area. 3. has the sole responsibility for implementing Government sponsored schemes in the metropolitan area. Which of the statements given above is/are correct?\n- (a) 1 and 2 only\n- (b) 2 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(a)` ([View Source Page 140](pages/prelims/prelims_page_140.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_140.pdf",
+      "source_page_md": "notes/pages/prelims_page_140.md"
     },
     {
       "question_id": "PRE_P140_Q16",
       "question_number": "Q16",
       "year": 2010,
-      "question_text": "Which one of the following authorities makes recommendations to the Governor of a State as to the principles for determining the taxes and duties which may be appropriated by the Panchayats in that particular State? [2010]",
+      "question_text": "Which one of the following authorities makes recommendations to the Governor of a State as to the principles for determining the taxes and duties which may be appropriated by the Panchayats in that particular State?",
       "options": {
         "a": "District Planning Commission",
         "b": "State Finance Commission",
@@ -358,14 +364,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/prelims/prelims_page_140.pdf",
-      "markdown_formatted": "**Q16 (2010)**: Which one of the following authorities makes recommendations to the Governor of a State as to the principles for determining the taxes and duties which may be appropriated by the Panchayats in that particular State? [2010]\n- (a) District Planning Commission\n- (b) State Finance Commission\n- (c) Finance Ministry of that State\n- (d) Panchayati Raj Ministry of that State\n- **Answer**: `(b)` ([View Source Page 140](pages/prelims/prelims_page_140.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_140.pdf",
+      "source_page_md": "notes/pages/prelims_page_140.md"
     },
     {
       "question_id": "PRE_P140_Q17",
       "question_number": "Q17",
       "year": 2009,
-      "question_text": "If a Panchayat is dissolved, elections are to be held within: [2009]",
+      "question_text": "If a Panchayat is dissolved, elections are to be held within:",
       "options": {
         "a": "1 month",
         "b": "3 months",
@@ -378,14 +384,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/prelims/prelims_page_140.pdf",
-      "markdown_formatted": "**Q17 (2009)**: If a Panchayat is dissolved, elections are to be held within: [2009]\n- (a) 1 month\n- (b) 3 months\n- (c) 6 months\n- (d) 1 year\n- **Answer**: `(c)` ([View Source Page 140](pages/prelims/prelims_page_140.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_140.pdf",
+      "source_page_md": "notes/pages/prelims_page_140.md"
     },
     {
       "question_id": "PRE_P140_Q18",
       "question_number": "Q18",
       "year": 2009,
-      "question_text": "In India, the first Municipal Corporation was set up in which one among the following: [2009]",
+      "question_text": "In India, the first Municipal Corporation was set up in which one among the following:",
       "options": {
         "a": "Calcutta",
         "b": "Madras",
@@ -396,14 +402,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/prelims/prelims_page_140.pdf",
-      "markdown_formatted": "**Q18 (2009)**: In India, the first Municipal Corporation was set up in which one among the following: [2009]\n- (a) Calcutta\n- (b) Madras\n- (c) Bombay\n- (d) Delhi\n- **Answer**: `(b)` ([View Source Page 140](pages/prelims/prelims_page_140.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_140.pdf",
+      "source_page_md": "notes/pages/prelims_page_140.md"
     },
     {
       "question_id": "PRE_P140_Q19",
       "question_number": "Q19",
       "year": 2008,
-      "question_text": "Which schedule of the Constitution of India contains special provisions for the administration and control of Scheduled Areas in several States? [2008]",
+      "question_text": "Which schedule of the Constitution of India contains special provisions for the administration and control of Scheduled Areas in several States?",
       "options": {
         "a": "Third",
         "b": "Fifth",
@@ -411,15 +417,11 @@
         "d": "Ninth"
       },
       "correct_option": "b",
-      "related_articles": [
-        "Article 243",
-        "Article 243A",
-        "Article 40"
-      ],
+      "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/prelims/prelims_page_140.pdf",
-      "markdown_formatted": "**Q19 (2008)**: Which schedule of the Constitution of India contains special provisions for the administration and control of Scheduled Areas in several States? [2008]\n- (a) Third\n- (b) Fifth\n- (c) Seventh\n- (d) Ninth\n- **Answer**: `(b)` ([View Source Page 140](pages/prelims/prelims_page_140.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_140.pdf",
+      "source_page_md": "notes/pages/prelims_page_140.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -431,19 +433,19 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 203,
-      "source_page_image": "pages/mains/mains_page_203.pdf",
-      "markdown_formatted": "- **[2024]** Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons of merging the rural local bodies with the urban local bodies. (10) ([View Mains Source Page 203](pages/mains/mains_page_203.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
     },
     {
       "question_id": "MAINS_P203_Q3",
       "year": 2023,
-      "marks": null,
+      "marks": 10.0,
       "question_text": "\"The states in India seem reluctant to empower urban local bodies both functionally as well as financially.\" Comment. 10",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 203,
-      "source_page_image": "pages/mains/mains_page_203.pdf",
-      "markdown_formatted": "- **[2023]** \"The states in India seem reluctant to empower urban local bodies both functionally as well as financially.\" Comment. 10 ([View Mains Source Page 203](pages/mains/mains_page_203.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
     },
     {
       "question_id": "MAINS_P203_Q4",
@@ -453,8 +455,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 203,
-      "source_page_image": "pages/mains/mains_page_203.pdf",
-      "markdown_formatted": "- **[2022]** To what extent, in your opinion, has the decentralisation of power in India changed the governance landscape at the grassroots? (10) ([View Mains Source Page 203](pages/mains/mains_page_203.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
     },
     {
       "question_id": "MAINS_P203_Q5",
@@ -464,50 +466,21 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 203,
-      "source_page_image": "pages/mains/mains_page_203.pdf",
-      "markdown_formatted": "- **[2020]** The strength of local institutions in India has shifted from their formative phase of 'Functions, Functionaries and Funds' to the contemporary stage of 'Functionality'. Highlight the critical challenges faced by local institutions in terms of their functionality in recent times. (15) ([View Mains Source Page 203](pages/mains/mains_page_203.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
     },
     {
       "question_id": "MAINS_P203_Q7",
       "year": 2018,
-      "marks": null,
-      "question_text": "Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources can the Panchayats look out for financing developmental projects? (15) Panchayati Raj \"The success of democracy in India depends on the success of democracy at the grassroots through Panchayati Raj.\" - Rajiv Gandhi \"Panchayati Raj embodies the spirit of participatory democracy, enabling citizens to have a direct say in their governance.\" They are inspired by Gandhiji's concept of \"Oceanic Circles of Power\" and \"Swaraj\" To realise the vision of \"Gram Uday se Bharat Uday\", India needs second-generation Panchayati Raj reforms focused on subsidiarity, fiscal autonomy, and participatory democracy. Subsidiarity principle - decision-making authority is best placed • Where responsibility for outcomes will occur • In the closest appropriate proximity to where the actions will be taken 205",
+      "marks": 15.0,
+      "question_text": "Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources can the Panchayats look out for financing developmental projects? (15)",
       "related_articles": [
         "Article 243"
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 203,
-      "source_page_image": "pages/mains/mains_page_203.pdf",
-      "markdown_formatted": "- **[2018]** Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources can the Panchayats look out for financing developmental projects? (15) Panchayati Raj \"The success of democracy in India depends on the success of democracy at the grassroots through Panchayati Raj.\" - Rajiv Gandhi \"Panchayati Raj embodies the spirit of participatory democracy, enabling citizens to have a direct say in their governance.\" They are inspired by Gandhiji's concept of \"Oceanic Circles of Power\" and \"Swaraj\" To realise the vision of \"Gram Uday se Bharat Uday\", India needs second-generation Panchayati Raj reforms focused on subsidiarity, fiscal autonomy, and participatory democracy. Subsidiarity principle - decision-making authority is best placed • Where responsibility for outcomes will occur • In the closest appropriate proximity to where the actions will be taken 205 ([View Mains Source Page 203](pages/mains/mains_page_203.pdf))"
-    },
-    {
-      "question_id": "MAINS_P204_Q8",
-      "year": 2026,
-      "marks": null,
-      "question_text": "2031, an 84% increase over the previous cycle. Own Source Revenue OSR contributes less than 5% of total revenue for most Panchayats. Tied vs. Untied Grants 60% of Finance Commission grants are Tied Direct Transfer Nearly 92% of Gram Panchayats now receive funds directly into bank accounts through the eGramSwaraj-PFMS interface. Infrastructure Over 80% of Gram Panchayats have dedicated office buildings. Development Plans 96.3% of Gram Panchayats (2.54 lakh) uploaded their GPDP on the eGramSwaraj portal for 2025-26. Connectivity Under BharatNet, approximately 2.15 lakh Gram Panchayats provided with high-speed broadband service. Staff Shortfall 1 Panchayat Secretary manages 1.5 to 2 Gram Panchayats on average. Capacity Building Under Rashtriya Gram Swaraj Abhiyan (RGSA), over 11.8 lakh representatives and functionaries were trained in 2025-26. Extent of Devolution According to the 2025 Devolution Index, actual transfer of 29 subjects under the 11th Schedule stands at roughly 44%. Important Case Studies 1. Mudradi (Karnataka): Ranked 1st in the 2025 Panchayat Satat Vikas Puraskar for \"Poverty Free\" status; achieved 100% social security saturation. 2. Madamakki (Karnataka): achieved 100% Functional Household Tap Connections (FHTC) and integrated greywater management. 206",
-      "related_articles": [
-        "Article 243",
-        "Article 280"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 204,
-      "source_page_image": "pages/mains/mains_page_204.pdf",
-      "markdown_formatted": "- **[2026]** 2031, an 84% increase over the previous cycle. Own Source Revenue OSR contributes less than 5% of total revenue for most Panchayats. Tied vs. Untied Grants 60% of Finance Commission grants are Tied Direct Transfer Nearly 92% of Gram Panchayats now receive funds directly into bank accounts through the eGramSwaraj-PFMS interface. Infrastructure Over 80% of Gram Panchayats have dedicated office buildings. Development Plans 96.3% of Gram Panchayats (2.54 lakh) uploaded their GPDP on the eGramSwaraj portal for 2025-26. Connectivity Under BharatNet, approximately 2.15 lakh Gram Panchayats provided with high-speed broadband service. Staff Shortfall 1 Panchayat Secretary manages 1.5 to 2 Gram Panchayats on average. Capacity Building Under Rashtriya Gram Swaraj Abhiyan (RGSA), over 11.8 lakh representatives and functionaries were trained in 2025-26. Extent of Devolution According to the 2025 Devolution Index, actual transfer of 29 subjects under the 11th Schedule stands at roughly 44%. Important Case Studies 1. Mudradi (Karnataka): Ranked 1st in the 2025 Panchayat Satat Vikas Puraskar for \"Poverty Free\" status; achieved 100% social security saturation. 2. Madamakki (Karnataka): achieved 100% Functional Household Tap Connections (FHTC) and integrated greywater management. 206 ([View Mains Source Page 204](pages/mains/mains_page_204.pdf))"
-    },
-    {
-      "question_id": "MAINS_P208_Q9",
-      "year": 2010,
-      "marks": null,
-      "question_text": "Sumit Bose Committee (2017) a. Every Gram Panchayat must have a full-time Secretary and a Technical Assistant (engineer) for infrastructure oversight. b. Scale Rashtriya Gram Swaraj Abhiyan to include \"Specialized Management Training\" at institutes like IIMs. 5. Punchhi Commission on Centre-State Relations (2010)",
-      "related_articles": [
-        "Article 243"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 208,
-      "source_page_image": "pages/mains/mains_page_208.pdf",
-      "markdown_formatted": "- **[2010]** Sumit Bose Committee (2017) a. Every Gram Panchayat must have a full-time Secretary and a Technical Assistant (engineer) for infrastructure oversight. b. Scale Rashtriya Gram Swaraj Abhiyan to include \"Specialized Management Training\" at institutes like IIMs. 5. Punchhi Commission on Centre-State Relations (2010) ([View Mains Source Page 208](pages/mains/mains_page_208.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_203.pdf",
+      "source_page_md": "notes/pages/mains_page_203.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch10_Sub01_Panchayati_Raj_73rd_Amendment_and_PESA.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch10_Sub01_Panchayati_Raj_73rd_Amendment_and_PESA.mains.md"
+  ]
 }

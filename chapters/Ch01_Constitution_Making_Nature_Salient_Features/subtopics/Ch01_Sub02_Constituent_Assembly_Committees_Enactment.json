@@ -8,6 +8,9 @@
     "Borrowed Features",
     "Article 394"
   ],
+  "subtopic_json": "subtopics/Ch01_Sub02_Constituent_Assembly_Committees_Enactment.json",
+  "prelims_notes_md": "notes/subtopics/Ch01_Sub02_Constituent_Assembly_Committees_Enactment_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch01_Sub02_Constituent_Assembly_Committees_Enactment_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_009.pdf",
     "pages/prelims/prelims_page_010.pdf",
@@ -27,7 +30,7 @@
       "question_id": "PRE_P004_Q1",
       "question_number": "Q1",
       "year": 2024,
-      "question_text": "With reference to the Government of India Act, 1935, consider the following statements: [2024] 1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States. 2. Defence and Foreign Affairs were kept under the control of the federal legislature. Which of the statements given above is/are correct?",
+      "question_text": "With reference to the Government of India Act, 1935, consider the following statements: 1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States. 2. Defence and Foreign Affairs were kept under the control of the federal legislature. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -38,14 +41,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q1 (2024)**: With reference to the Government of India Act, 1935, consider the following statements: [2024] 1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States. 2. Defence and Foreign Affairs were kept under the control of the federal legislature. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(a)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P004_Q2",
       "question_number": "Q2",
       "year": 2024,
-      "question_text": "Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over? [2024]",
+      "question_text": "Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over?",
       "options": {
         "a": "C Rajgopalachari",
         "b": "Dr B R Ambedkar",
@@ -56,14 +59,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q2 (2024)**: Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over? [2024]\n- (a) C Rajgopalachari\n- (b) Dr B R Ambedkar\n- (c) T.T.Krishnamachari\n- (d) Dr Sachidanand Sinha\n- **Answer**: `(d)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P004_Q3",
       "question_number": "Q3",
       "year": 2023,
-      "question_text": "Consider the following statements in respect of the Constitution Day: [2023] STATEMENT-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens. STATEMENT-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B.R. Ambedkar to prepare a Draft Constitution of India. Which one of the following is correct in respect of the above statements?",
+      "question_text": "Consider the following statements in respect of the Constitution Day: STATEMENT-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens. STATEMENT-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B.R. Ambedkar to prepare a Draft Constitution of India. Which one of the following is correct in respect of the above statements?",
       "options": {
         "a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
         "b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
@@ -74,14 +77,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q3 (2023)**: Consider the following statements in respect of the Constitution Day: [2023] STATEMENT-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens. STATEMENT-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B.R. Ambedkar to prepare a Draft Constitution of India. Which one of the following is correct in respect of the above statements?\n- (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I\n- (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I\n- (c) Statement-I is correct but Statement-II is incorrect\n- (d) Statement-I is incorrect but Statement-II is correct\n- **Answer**: `(c)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P004_Q4",
       "question_number": "Q4",
       "year": 2022,
-      "question_text": "With reference to the proposals of Cripps Mission, consider the following statements : [2022] 1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States. 2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status. Which of the statements given above is/are correct?",
+      "question_text": "With reference to the proposals of Cripps Mission, consider the following statements : 1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States. 2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -92,14 +95,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q4 (2022)**: With reference to the proposals of Cripps Mission, consider the following statements : [2022] 1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States. 2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P004_Q5",
       "question_number": "Q5",
       "year": 2018,
-      "question_text": "In the Federation established by The Government of India Act of 1935, residuary powers were given to the [2018]",
+      "question_text": "In the Federation established by The Government of India Act of 1935, residuary powers were given to the",
       "options": {
         "a": "Federal Legislature",
         "b": "Governor General",
@@ -112,23 +115,21 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q5 (2018)**: In the Federation established by The Government of India Act of 1935, residuary powers were given to the [2018]\n- (a) Federal Legislature\n- (b) Governor General\n- (c) Provincial Legislature\n- (d) Provincial Governors\n- **Answer**: `(b)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
-      "question_id": "MAINS_P011_Q7",
+      "question_id": "MAINS_P011_Q1",
       "year": 2019,
-      "marks": null,
-      "question_text": "Do you think that the Constitution of India does not accept the principle of strict separation of powers rather it is based on the principle of 'checks and balances'? Explain. (10) The Preamble is the introductory statement that outlines the philosophy, ideals, and objectives of the Constitution. It reflects the vision of the Constituent Assembly and acts as the identity card of the Constitution. We, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, Social, Economic and Political. LIBERTY of thought, expression, belief, faith and worship. EQUALITY of status and of opportunity and to promote among them all. FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation. In Our Constituent Assembly, this 26th day of November 1949, do HEREBY ADOPT, ENACT, and GIVE TO OURSELVES THIS CONSTITUTION. Significance of the Preamble",
+      "marks": 10.0,
+      "question_text": "Do you think that the Constitution of India does not accept the principle of strict separation of powers rather it is based on the principle of 'checks and balances'? Explain. (10)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 11,
-      "source_page_image": "pages/mains/mains_page_011.pdf",
-      "markdown_formatted": "- **[2019]** Do you think that the Constitution of India does not accept the principle of strict separation of powers rather it is based on the principle of 'checks and balances'? Explain. (10) The Preamble is the introductory statement that outlines the philosophy, ideals, and objectives of the Constitution. It reflects the vision of the Constituent Assembly and acts as the identity card of the Constitution. We, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, Social, Economic and Political. LIBERTY of thought, expression, belief, faith and worship. EQUALITY of status and of opportunity and to promote among them all. FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation. In Our Constituent Assembly, this 26th day of November 1949, do HEREBY ADOPT, ENACT, and GIVE TO OURSELVES THIS CONSTITUTION. Significance of the Preamble ([View Mains Source Page 11](pages/mains/mains_page_011.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_011.pdf",
+      "source_page_md": "notes/pages/mains_page_011.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch01_Sub02_Constituent_Assembly_Committees_Enactment.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch01_Sub02_Constituent_Assembly_Committees_Enactment.mains.md"
+  ]
 }

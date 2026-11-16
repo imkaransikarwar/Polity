@@ -9,6 +9,9 @@
     "Veto Powers",
     "Due Process vs Procedure Established by Law"
   ],
+  "subtopic_json": "subtopics/Ch14_Sub01_Comparison_India_USA_UK_France_Japan_Germany.json",
+  "prelims_notes_md": "notes/subtopics/Ch14_Sub01_Comparison_India_USA_UK_France_Japan_Germany_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch14_Sub01_Comparison_India_USA_UK_France_Japan_Germany_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_010.pdf",
     "pages/prelims/prelims_page_011.pdf",
@@ -39,7 +42,7 @@
       "question_id": "PRE_P029_Q1",
       "question_number": "Q1",
       "year": 2021,
-      "question_text": "We adopted parliamentary democracy based on the British model, but how does our model differ from that model? [2021] 1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited. 2. In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court. Select the correct answer using the code given below.",
+      "question_text": "We adopted parliamentary democracy based on the British model, but how does our model differ from that model? 1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited. 2. In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court. Select the correct answer using the code given below.",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -50,14 +53,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 29,
-      "source_page_image": "pages/prelims/prelims_page_029.pdf",
-      "markdown_formatted": "**Q1 (2021)**: We adopted parliamentary democracy based on the British model, but how does our model differ from that model? [2021] 1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited. 2. In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court. Select the correct answer using the code given below.\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(c)` ([View Source Page 29](pages/prelims/prelims_page_029.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
     },
     {
       "question_id": "PRE_P029_Q2",
       "question_number": "Q2",
       "year": 2020,
-      "question_text": "A Parliamentary System of Government is one in which [2020]",
+      "question_text": "A Parliamentary System of Government is one in which",
       "options": {
         "a": "all political parties in the Parliament are represented in the Government",
         "b": "the Government is responsible to the Parliament and can be removed by it",
@@ -68,14 +71,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 29,
-      "source_page_image": "pages/prelims/prelims_page_029.pdf",
-      "markdown_formatted": "**Q2 (2020)**: A Parliamentary System of Government is one in which [2020]\n- (a) all political parties in the Parliament are represented in the Government\n- (b) the Government is responsible to the Parliament and can be removed by it\n- (c) the Government is elected by the people and can be removed by them\n- (d) the Government is chosen by the Parliament but cannot be removed by it before completion of a fixed term\n- **Answer**: `(b)` ([View Source Page 29](pages/prelims/prelims_page_029.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
     },
     {
       "question_id": "PRE_P029_Q3",
       "question_number": "Q3",
       "year": 2017,
-      "question_text": "Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government : [2017]",
+      "question_text": "Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government :",
       "options": {
         "a": "An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.",
         "b": "A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.",
@@ -86,14 +89,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 29,
-      "source_page_image": "pages/prelims/prelims_page_029.pdf",
-      "markdown_formatted": "**Q3 (2017)**: Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government : [2017]\n- (a) An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.\n- (b) A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.\n- (c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.\n- (d) A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline.\n- **Answer**: `(c)` ([View Source Page 29](pages/prelims/prelims_page_029.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
     },
     {
       "question_id": "PRE_P029_Q4",
       "question_number": "Q4",
       "year": 2017,
-      "question_text": "The main advantage of the parliamentary form of government is that [2017]",
+      "question_text": "The main advantage of the parliamentary form of government is that",
       "options": {
         "a": "the executive and legislature work independently.",
         "b": "it provides continuity of policy and is more efficient.",
@@ -104,8 +107,26 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 29,
-      "source_page_image": "pages/prelims/prelims_page_029.pdf",
-      "markdown_formatted": "**Q4 (2017)**: The main advantage of the parliamentary form of government is that [2017]\n- (a) the executive and legislature work independently.\n- (b) it provides continuity of policy and is more efficient.\n- (c) the executive remains responsible to the legislature.\n- (d) the head of the government cannot be changed without election.\n- **Answer**: `(c)` ([View Source Page 29](pages/prelims/prelims_page_029.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
+    },
+    {
+      "question_id": "PRE_P029_Q5",
+      "question_number": "Q5",
+      "year": 2015,
+      "question_text": "There is a Parliamentary System of Government in India because the",
+      "options": {
+        "a": "Lok Sabha is elected directly by the people",
+        "b": "Parliament can amend the Constitution",
+        "c": "Rajya Sabha cannot be dissolved",
+        "d": "Council of Ministers is responsible to the Lok Sabha"
+      },
+      "correct_option": "d",
+      "related_articles": [],
+      "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
+      "source_page_number": 29,
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -117,8 +138,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 255,
-      "source_page_image": "pages/mains/mains_page_255.pdf",
-      "markdown_formatted": "- **[2026]** Examine how the separation of powers is practised in India compared to the rigid presidential model of the United States of America. In this context, compare the actual authority of the Indian Prime Minister with that of the President of the USA. (15) ([View Mains Source Page 255](pages/mains/mains_page_255.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_255.pdf",
+      "source_page_md": "notes/pages/mains_page_255.md"
     },
     {
       "question_id": "MAINS_P255_Q2",
@@ -128,8 +149,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 255,
-      "source_page_image": "pages/mains/mains_page_255.pdf",
-      "markdown_formatted": "- **[2025]** Compare and contrast the President's power to pardon in India and in the USA. Are there any limits to it in both countries? What are 'preemptive pardons'? (10) ([View Mains Source Page 255](pages/mains/mains_page_255.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_255.pdf",
+      "source_page_md": "notes/pages/mains_page_255.md"
     },
     {
       "question_id": "MAINS_P255_Q3",
@@ -139,19 +160,19 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 255,
-      "source_page_image": "pages/mains/mains_page_255.pdf",
-      "markdown_formatted": "- **[2024]** Discuss India as a secular state and compare it with the secular principles of the US constitution. (15) ([View Mains Source Page 255](pages/mains/mains_page_255.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_255.pdf",
+      "source_page_md": "notes/pages/mains_page_255.md"
     },
     {
       "question_id": "MAINS_P255_Q4",
       "year": 2023,
-      "marks": null,
+      "marks": 10.0,
       "question_text": "Compare and contrast the British and Indian approaches to Parliamentary sovereignty. 10",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 255,
-      "source_page_image": "pages/mains/mains_page_255.pdf",
-      "markdown_formatted": "- **[2023]** Compare and contrast the British and Indian approaches to Parliamentary sovereignty. 10 ([View Mains Source Page 255](pages/mains/mains_page_255.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_255.pdf",
+      "source_page_md": "notes/pages/mains_page_255.md"
     },
     {
       "question_id": "MAINS_P255_Q5",
@@ -161,8 +182,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 255,
-      "source_page_image": "pages/mains/mains_page_255.pdf",
-      "markdown_formatted": "- **[2022]** Critically examine the procedures through which the Presidents of India and France are elected. (15) ([View Mains Source Page 255](pages/mains/mains_page_255.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_255.pdf",
+      "source_page_md": "notes/pages/mains_page_255.md"
     },
     {
       "question_id": "MAINS_P255_Q6",
@@ -172,8 +193,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 255,
-      "source_page_image": "pages/mains/mains_page_255.pdf",
-      "markdown_formatted": "- **[2021]** Analyze the distinguishing features of the notion of Equality in the Constitutions of the USA and India. (15) ([View Mains Source Page 255](pages/mains/mains_page_255.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_255.pdf",
+      "source_page_md": "notes/pages/mains_page_255.md"
     },
     {
       "question_id": "MAINS_P255_Q7",
@@ -183,8 +204,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 255,
-      "source_page_image": "pages/mains/mains_page_255.pdf",
-      "markdown_formatted": "- **[2020]** The judicial systems in India and UK seem to be converging as well as diverging in recent times. Highlight the key points of convergence and divergence between the two nations in terms of their judicial practices. (10) ([View Mains Source Page 255](pages/mains/mains_page_255.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_255.pdf",
+      "source_page_md": "notes/pages/mains_page_255.md"
     },
     {
       "question_id": "MAINS_P255_Q8",
@@ -194,21 +215,19 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 255,
-      "source_page_image": "pages/mains/mains_page_255.pdf",
-      "markdown_formatted": "- **[2019]** What can France learn from the Indian Constitution's approach to secularism? (10) ([View Mains Source Page 255](pages/mains/mains_page_255.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_255.pdf",
+      "source_page_md": "notes/pages/mains_page_255.md"
     },
     {
       "question_id": "MAINS_P255_Q9",
       "year": 2018,
-      "marks": null,
-      "question_text": "Indian and USA are two large democracies. Examine the basic tenets on which the two political systems are based. (15) India- USA Similarities",
+      "marks": 15.0,
+      "question_text": "Indian and USA are two large democracies. Examine the basic tenets on which the two political systems are based. (15)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 255,
-      "source_page_image": "pages/mains/mains_page_255.pdf",
-      "markdown_formatted": "- **[2018]** Indian and USA are two large democracies. Examine the basic tenets on which the two political systems are based. (15) India- USA Similarities ([View Mains Source Page 255](pages/mains/mains_page_255.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_255.pdf",
+      "source_page_md": "notes/pages/mains_page_255.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch14_Sub01_Comparison_India_USA_UK_France_Japan_Germany.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch14_Sub01_Comparison_India_USA_UK_France_Japan_Germany.mains.md"
+  ]
 }

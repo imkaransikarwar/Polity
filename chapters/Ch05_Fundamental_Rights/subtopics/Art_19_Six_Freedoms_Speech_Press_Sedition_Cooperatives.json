@@ -8,6 +8,9 @@
     "Article 19(1)(c)",
     "Article 43B"
   ],
+  "subtopic_json": "subtopics/Art_19_Six_Freedoms_Speech_Press_Sedition_Cooperatives.json",
+  "prelims_notes_md": "notes/subtopics/Art_19_Six_Freedoms_Speech_Press_Sedition_Cooperatives_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Art_19_Six_Freedoms_Speech_Press_Sedition_Cooperatives_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_046.pdf",
     "pages/prelims/prelims_page_051.pdf",
@@ -35,6 +38,7 @@
       "title": "Article 21: Protection of Life and Personal Liberty & Landmark Cases",
       "source_type": "prelims",
       "source_page_number": 52,
+      "source_page_pdf": "pages/prelims/prelims_page_052.pdf",
       "source_page_image": "pages/prelims/prelims_page_052.pdf",
       "diagram_image_path": "diagrams/pre_diag_art21_rights_table_p052.png",
       "markdown_link": "![Article 21: Protection of Life and Personal Liberty & Landmark Cases](diagrams/pre_diag_art21_rights_table_p052.png)",
@@ -49,6 +53,7 @@
       "title": "Right to Privacy (Article 21) & Puttaswamy Three-Pronged Test vs DPDP Act",
       "source_type": "mains",
       "source_page_number": 50,
+      "source_page_pdf": "pages/mains/mains_page_050.pdf",
       "source_page_image": "pages/mains/mains_page_050.pdf",
       "diagram_image_path": "diagrams/mains_diag_privacy_data_protection_art21_p050.png",
       "markdown_link": "![Right to Privacy (Article 21) & Puttaswamy Three-Pronged Test vs DPDP Act](diagrams/mains_diag_privacy_data_protection_art21_p050.png)",
@@ -62,6 +67,7 @@
       "title": "Global & Indian Cooperatives: Scale, GDP Share & 97th Amendment",
       "source_type": "mains",
       "source_page_number": 62,
+      "source_page_pdf": "pages/mains/mains_page_062.pdf",
       "source_page_image": "pages/mains/mains_page_062.pdf",
       "diagram_image_path": "diagrams/mains_diag_cooperatives_overview_p062.png",
       "markdown_link": "![Global & Indian Cooperatives: Scale, GDP Share & 97th Amendment](diagrams/mains_diag_cooperatives_overview_p062.png)",
@@ -76,6 +82,7 @@
       "title": "Seven Cooperative Principles & Constitutional Provisions",
       "source_type": "mains",
       "source_page_number": 63,
+      "source_page_pdf": "pages/mains/mains_page_063.pdf",
       "source_page_image": "pages/mains/mains_page_063.pdf",
       "diagram_image_path": "diagrams/mains_diag_cooperative_principles_p063.png",
       "markdown_link": "![Seven Cooperative Principles & Constitutional Provisions](diagrams/mains_diag_cooperative_principles_p063.png)",
@@ -91,7 +98,7 @@
       "question_id": "PRE_P047_Q2",
       "question_number": "Q2",
       "year": 2024,
-      "question_text": "Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy? [2024]",
+      "question_text": "Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy?",
       "options": {
         "a": "Article 15",
         "b": "Article 16",
@@ -107,14 +114,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q2 (2024)**: Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy? [2024]\n- (a) Article 15\n- (b) Article 16\n- (c) Article 19\n- (d) Article 21\n- **Answer**: `(d)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P047_Q7",
       "question_number": "Q7",
       "year": 2021,
-      "question_text": "'Right to Privacy' is protected under which Article of the Constitution of India? [2021]",
+      "question_text": "'Right to Privacy' is protected under which Article of the Constitution of India?",
       "options": {
         "a": "Article 15",
         "b": "Article 19",
@@ -130,14 +137,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q7 (2021)**: 'Right to Privacy' is protected under which Article of the Constitution of India? [2021]\n- (a) Article 15\n- (b) Article 19\n- (c) Article 21\n- (d) Article 29\n- **Answer**: `(c)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P048_Q10",
       "question_number": "Q10",
       "year": 2019,
-      "question_text": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice? [2019]",
+      "question_text": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice?",
       "options": {
         "a": "Article 19",
         "b": "Article 21",
@@ -153,25 +160,21 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q10 (2019)**: Which Article of the Constitution of India safeguards one's right to marry the person of one's choice? [2019]\n- (a) Article 19\n- (b) Article 21\n- (c) Article 25\n- (d) Article 29\n- **Answer**: `(b)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
-      "question_id": "MAINS_P065_Q5",
-      "year": 2021,
-      "marks": null,
-      "question_text": "Professionalisation of Management - Implement Vaidyanathan Committee recommendation for trained, full-time CEOs in cooperatives. 2. Autonomy and Accountability - Ensure political neutrality and audit transparency by enforcing Model Bye-Laws and MSCS Amendment Act, 2023. 3. Diversification Beyond Agriculture a. Promote cooperatives in logistics, green energy, healthcare, and urban services, as suggested by NITI Aayog (2021)",
-      "related_articles": [
-        "Article 19"
-      ],
+      "question_id": "MAINS_P034_Q4",
+      "year": 2022,
+      "marks": 10.0,
+      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M)",
+      "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 65,
-      "source_page_image": "pages/mains/mains_page_065.pdf",
-      "markdown_formatted": "- **[2021]** Professionalisation of Management - Implement Vaidyanathan Committee recommendation for trained, full-time CEOs in cooperatives. 2. Autonomy and Accountability - Ensure political neutrality and audit transparency by enforcing Model Bye-Laws and MSCS Amendment Act, 2023. 3. Diversification Beyond Agriculture a. Promote cooperatives in logistics, green energy, healthcare, and urban services, as suggested by NITI Aayog (2021) ([View Mains Source Page 65](pages/mains/mains_page_065.pdf))"
+      "source_page_number": 34,
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Art_19_Six_Freedoms_Speech_Press_Sedition_Cooperatives.prelims.md",
-  "smash_mains_notes_markdown_path": "Art_19_Six_Freedoms_Speech_Press_Sedition_Cooperatives.mains.md"
+  ]
 }

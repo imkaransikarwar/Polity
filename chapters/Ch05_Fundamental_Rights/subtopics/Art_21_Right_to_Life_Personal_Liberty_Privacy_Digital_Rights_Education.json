@@ -6,6 +6,9 @@
     "Article 21",
     "Article 21A"
   ],
+  "subtopic_json": "subtopics/Art_21_Right_to_Life_Personal_Liberty_Privacy_Digital_Rights_Education.json",
+  "prelims_notes_md": "notes/subtopics/Art_21_Right_to_Life_Personal_Liberty_Privacy_Digital_Rights_Education_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Art_21_Right_to_Life_Personal_Liberty_Privacy_Digital_Rights_Education_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_046.pdf",
     "pages/prelims/prelims_page_047.pdf",
@@ -29,6 +32,7 @@
       "title": "Article 21: Protection of Life and Personal Liberty & Landmark Cases",
       "source_type": "prelims",
       "source_page_number": 52,
+      "source_page_pdf": "pages/prelims/prelims_page_052.pdf",
       "source_page_image": "pages/prelims/prelims_page_052.pdf",
       "diagram_image_path": "diagrams/pre_diag_art21_rights_table_p052.png",
       "markdown_link": "![Article 21: Protection of Life and Personal Liberty & Landmark Cases](diagrams/pre_diag_art21_rights_table_p052.png)",
@@ -43,6 +47,7 @@
       "title": "Article 21: Inferred Fundamental Rights, Right to Education (Art 21A) & Art 22 Safeguards",
       "source_type": "prelims",
       "source_page_number": 53,
+      "source_page_pdf": "pages/prelims/prelims_page_053.pdf",
       "source_page_image": "pages/prelims/prelims_page_053.pdf",
       "diagram_image_path": "diagrams/pre_diag_art21_inferred_rights_p053.png",
       "markdown_link": "![Article 21: Inferred Fundamental Rights, Right to Education (Art 21A) & Art 22 Safeguards](diagrams/pre_diag_art21_inferred_rights_p053.png)",
@@ -57,6 +62,7 @@
       "title": "Right to Privacy (Article 21) & Puttaswamy Three-Pronged Test vs DPDP Act",
       "source_type": "mains",
       "source_page_number": 50,
+      "source_page_pdf": "pages/mains/mains_page_050.pdf",
       "source_page_image": "pages/mains/mains_page_050.pdf",
       "diagram_image_path": "diagrams/mains_diag_privacy_data_protection_art21_p050.png",
       "markdown_link": "![Right to Privacy (Article 21) & Puttaswamy Three-Pronged Test vs DPDP Act](diagrams/mains_diag_privacy_data_protection_art21_p050.png)",
@@ -71,7 +77,7 @@
       "question_id": "PRE_P047_Q2",
       "question_number": "Q2",
       "year": 2024,
-      "question_text": "Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy? [2024]",
+      "question_text": "Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy?",
       "options": {
         "a": "Article 15",
         "b": "Article 16",
@@ -87,14 +93,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q2 (2024)**: Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy? [2024]\n- (a) Article 15\n- (b) Article 16\n- (c) Article 19\n- (d) Article 21\n- **Answer**: `(d)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P047_Q7",
       "question_number": "Q7",
       "year": 2021,
-      "question_text": "'Right to Privacy' is protected under which Article of the Constitution of India? [2021]",
+      "question_text": "'Right to Privacy' is protected under which Article of the Constitution of India?",
       "options": {
         "a": "Article 15",
         "b": "Article 19",
@@ -110,14 +116,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q7 (2021)**: 'Right to Privacy' is protected under which Article of the Constitution of India? [2021]\n- (a) Article 15\n- (b) Article 19\n- (c) Article 21\n- (d) Article 29\n- **Answer**: `(c)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P048_Q10",
       "question_number": "Q10",
       "year": 2019,
-      "question_text": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice? [2019]",
+      "question_text": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice?",
       "options": {
         "a": "Article 19",
         "b": "Article 21",
@@ -133,14 +139,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q10 (2019)**: Which Article of the Constitution of India safeguards one's right to marry the person of one's choice? [2019]\n- (a) Article 19\n- (b) Article 21\n- (c) Article 25\n- (d) Article 29\n- **Answer**: `(b)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     },
     {
       "question_id": "PRE_P048_Q11",
       "question_number": "Q11",
       "year": 2018,
-      "question_text": "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement? [2018]",
+      "question_text": "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement?",
       "options": {
         "a": "Article 14 and the provisions under the 42nd Amendment to the Constitution",
         "b": "Article 17 and the Directive Principles of State Policy in Part IV",
@@ -157,14 +163,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q11 (2018)**: Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement? [2018]\n- (a) Article 14 and the provisions under the 42nd Amendment to the Constitution\n- (b) Article 17 and the Directive Principles of State Policy in Part IV\n- (c) Article 21 and the freedoms guaranteed in Part III\n- (d) Article 24 and the provisions under the 44th Amendment to the Constitution\n- **Answer**: `(c)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     },
     {
       "question_id": "PRE_P048_Q13",
       "question_number": "Q13",
       "year": 2011,
-      "question_text": "In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to? [2011] 1. It can establish and administer exclusive educational institutions. 2. The President of India automatically nominates a representative of the community to Lok Sabha. 3. It can derive benefits from the Prime Minister's 15-Point Programme. Which of the statements given above is/are correct?",
+      "question_text": "In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to? 1. It can establish and administer exclusive educational institutions. 2. The President of India automatically nominates a representative of the community to Lok Sabha. 3. It can derive benefits from the Prime Minister's 15-Point Programme. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 and 3 only",
@@ -175,14 +181,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q13 (2011)**: In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to? [2011] 1. It can establish and administer exclusive educational institutions. 2. The President of India automatically nominates a representative of the community to Lok Sabha. 3. It can derive benefits from the Prime Minister's 15-Point Programme. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(c)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     },
     {
       "question_id": "PRE_P048_Q14",
       "question_number": "Q14",
       "year": 2011,
-      "question_text": "Consider the following: [2011] 1. Right to education 2. Right to equal access to public service 3. Right to food Which of the above is/are Human Right/Human Rights under the Universal Declaration of Human Rights?",
+      "question_text": "Consider the following: 1. Right to education 2. Right to equal access to public service 3. Right to food Which of the above is/are Human Right/Human Rights under the Universal Declaration of Human Rights?",
       "options": {
         "a": "1 only",
         "b": "1 and 2 only",
@@ -195,8 +201,8 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q14 (2011)**: Consider the following: [2011] 1. Right to education 2. Right to equal access to public service 3. Right to food Which of the above is/are Human Right/Human Rights under the Universal Declaration of Human Rights?\n- (a) 1 only\n- (b) 1 and 2 only\n- (c) 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(d)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -210,8 +216,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2026]** Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection of Rights) Act, 2019. (10M) ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     },
     {
       "question_id": "MAINS_P034_Q2",
@@ -223,8 +229,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2024]** Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     },
     {
       "question_id": "MAINS_P034_Q3",
@@ -236,10 +242,19 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2023]** \"The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society\". Illustrate with special reference to the expanding horizons of the right to life and personal liberty. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
+    },
+    {
+      "question_id": "MAINS_P034_Q4",
+      "year": 2022,
+      "marks": 10.0,
+      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 34,
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Art_21_Right_to_Life_Personal_Liberty_Privacy_Digital_Rights_Education.prelims.md",
-  "smash_mains_notes_markdown_path": "Art_21_Right_to_Life_Personal_Liberty_Privacy_Digital_Rights_Education.mains.md"
+  ]
 }

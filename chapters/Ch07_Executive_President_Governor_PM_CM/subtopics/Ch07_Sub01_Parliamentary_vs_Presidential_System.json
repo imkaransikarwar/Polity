@@ -8,6 +8,9 @@
     "Article 163",
     "Article 164"
   ],
+  "subtopic_json": "subtopics/Ch07_Sub01_Parliamentary_vs_Presidential_System.json",
+  "prelims_notes_md": "notes/subtopics/Ch07_Sub01_Parliamentary_vs_Presidential_System_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch07_Sub01_Parliamentary_vs_Presidential_System_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_028.pdf",
     "pages/prelims/prelims_page_029.pdf",
@@ -18,15 +21,32 @@
     "pages/prelims/prelims_page_034.pdf"
   ],
   "mains_source_pages": [
-    "pages/mains/mains_page_105.pdf"
+    "pages/mains/mains_page_105.pdf",
+    "pages/mains/mains_page_115.pdf",
+    "pages/mains/mains_page_116.pdf"
   ],
-  "diagrams": [],
+  "diagrams": [
+    {
+      "diagram_id": "mains_diag_parliamentary_accountability_p116",
+      "title": "Legislature-Executive Accountability & Parliamentary Oversight Framework",
+      "source_type": "mains",
+      "source_page_number": 116,
+      "source_page_pdf": "pages/mains/mains_page_116.pdf",
+      "source_page_image": "pages/mains/mains_page_116.pdf",
+      "diagram_image_path": "diagrams/mains_diag_parliamentary_accountability_p116.png",
+      "markdown_link": "![Legislature-Executive Accountability & Parliamentary Oversight Framework](diagrams/mains_diag_parliamentary_accountability_p116.png)",
+      "related_articles": [
+        "Article 75",
+        "Article 79"
+      ]
+    }
+  ],
   "relevant_prelims_pyqs": [
     {
       "question_id": "PRE_P029_Q1",
       "question_number": "Q1",
       "year": 2021,
-      "question_text": "We adopted parliamentary democracy based on the British model, but how does our model differ from that model? [2021] 1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited. 2. In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court. Select the correct answer using the code given below.",
+      "question_text": "We adopted parliamentary democracy based on the British model, but how does our model differ from that model? 1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited. 2. In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court. Select the correct answer using the code given below.",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -37,14 +57,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 29,
-      "source_page_image": "pages/prelims/prelims_page_029.pdf",
-      "markdown_formatted": "**Q1 (2021)**: We adopted parliamentary democracy based on the British model, but how does our model differ from that model? [2021] 1. As regards legislation, the British Parliament is supreme or sovereign but in India, the power of the Parliament to legislate is limited. 2. In India, matters related to the constitutionality of the Amendment of an Act of the Parliament are referred to the Constitution Bench by the Supreme Court. Select the correct answer using the code given below.\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(c)` ([View Source Page 29](pages/prelims/prelims_page_029.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
     },
     {
       "question_id": "PRE_P029_Q2",
       "question_number": "Q2",
       "year": 2020,
-      "question_text": "A Parliamentary System of Government is one in which [2020]",
+      "question_text": "A Parliamentary System of Government is one in which",
       "options": {
         "a": "all political parties in the Parliament are represented in the Government",
         "b": "the Government is responsible to the Parliament and can be removed by it",
@@ -55,14 +75,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 29,
-      "source_page_image": "pages/prelims/prelims_page_029.pdf",
-      "markdown_formatted": "**Q2 (2020)**: A Parliamentary System of Government is one in which [2020]\n- (a) all political parties in the Parliament are represented in the Government\n- (b) the Government is responsible to the Parliament and can be removed by it\n- (c) the Government is elected by the people and can be removed by them\n- (d) the Government is chosen by the Parliament but cannot be removed by it before completion of a fixed term\n- **Answer**: `(b)` ([View Source Page 29](pages/prelims/prelims_page_029.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
     },
     {
       "question_id": "PRE_P029_Q3",
       "question_number": "Q3",
       "year": 2017,
-      "question_text": "Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government : [2017]",
+      "question_text": "Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government :",
       "options": {
         "a": "An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.",
         "b": "A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.",
@@ -73,14 +93,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 29,
-      "source_page_image": "pages/prelims/prelims_page_029.pdf",
-      "markdown_formatted": "**Q3 (2017)**: Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government : [2017]\n- (a) An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all.\n- (b) A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day.\n- (c) A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people.\n- (d) A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline.\n- **Answer**: `(c)` ([View Source Page 29](pages/prelims/prelims_page_029.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
     },
     {
       "question_id": "PRE_P029_Q4",
       "question_number": "Q4",
       "year": 2017,
-      "question_text": "The main advantage of the parliamentary form of government is that [2017]",
+      "question_text": "The main advantage of the parliamentary form of government is that",
       "options": {
         "a": "the executive and legislature work independently.",
         "b": "it provides continuity of policy and is more efficient.",
@@ -91,30 +111,26 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 29,
-      "source_page_image": "pages/prelims/prelims_page_029.pdf",
-      "markdown_formatted": "**Q4 (2017)**: The main advantage of the parliamentary form of government is that [2017]\n- (a) the executive and legislature work independently.\n- (b) it provides continuity of policy and is more efficient.\n- (c) the executive remains responsible to the legislature.\n- (d) the head of the government cannot be changed without election.\n- **Answer**: `(c)` ([View Source Page 29](pages/prelims/prelims_page_029.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
     },
     {
-      "question_id": "PRE_P074_Q11",
-      "question_number": "Q11",
-      "year": 2009,
-      "question_text": "With reference to Union Government, consider the following statements: [2009] 1. The Constitution of India provides that all Cabinet Ministers shall be compulsorily the sitting members of Lok Sabha only. 2. The Union Cabinet Secretariat operates under the direction of the Ministry of Parliamentary Affairs. Which of the statements given above is/are correct?",
+      "question_id": "PRE_P029_Q5",
+      "question_number": "Q5",
+      "year": 2015,
+      "question_text": "There is a Parliamentary System of Government in India because the",
       "options": {
-        "a": "1 only",
-        "b": "2 only",
-        "c": "Both 1 and 2",
-        "d": "Neither 1 nor 2"
+        "a": "Lok Sabha is elected directly by the people",
+        "b": "Parliament can amend the Constitution",
+        "c": "Rajya Sabha cannot be dissolved",
+        "d": "Council of Ministers is responsible to the Lok Sabha"
       },
       "correct_option": "d",
-      "related_articles": [
-        "Article 163",
-        "Article 200",
-        "Article 74"
-      ],
+      "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
-      "source_page_number": 74,
-      "source_page_image": "pages/prelims/prelims_page_074.pdf",
-      "markdown_formatted": "**Q11 (2009)**: With reference to Union Government, consider the following statements: [2009] 1. The Constitution of India provides that all Cabinet Ministers shall be compulsorily the sitting members of Lok Sabha only. 2. The Union Cabinet Secretariat operates under the direction of the Ministry of Parliamentary Affairs. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 74](pages/prelims/prelims_page_074.pdf))"
+      "source_page_number": 29,
+      "source_page_pdf": "pages/prelims/prelims_page_029.pdf",
+      "source_page_md": "notes/pages/prelims_page_029.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -126,21 +142,140 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 105,
-      "source_page_image": "pages/mains/mains_page_105.pdf",
-      "markdown_formatted": "- **[2024]** \"The growth of cabinet system has practically resulted in the marginalisation of the parliamentary supremacy:\" Elucidate. (10) ([View Mains Source Page 105](pages/mains/mains_page_105.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_105.pdf",
+      "source_page_md": "notes/pages/mains_page_105.md"
     },
     {
       "question_id": "MAINS_P105_Q4",
       "year": 2019,
-      "marks": null,
-      "question_text": "\"The Attorney-General is the chief legal adviser and lawyer of the Government of India.\" Discuss. (15) Prime Minister Lord Morley described the Prime Minister as \"primus inter pares\" (first among equals) and \"key stone of the cabinet arch\". Ramsay Muir described the Prime Minister as \"the steering wheel of the ship of the state.\" Powers and Functions: With Respect to the President",
+      "marks": 15.0,
+      "question_text": "\"The Attorney-General is the chief legal adviser and lawyer of the Government of India.\" Discuss. (15)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 105,
-      "source_page_image": "pages/mains/mains_page_105.pdf",
-      "markdown_formatted": "- **[2019]** \"The Attorney-General is the chief legal adviser and lawyer of the Government of India.\" Discuss. (15) Prime Minister Lord Morley described the Prime Minister as \"primus inter pares\" (first among equals) and \"key stone of the cabinet arch\". Ramsay Muir described the Prime Minister as \"the steering wheel of the ship of the state.\" Powers and Functions: With Respect to the President ([View Mains Source Page 105](pages/mains/mains_page_105.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_105.pdf",
+      "source_page_md": "notes/pages/mains_page_105.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q2",
+      "year": 2025,
+      "marks": 15.0,
+      "question_text": "Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. (15)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q3",
+      "year": 2023,
+      "marks": 15.0,
+      "question_text": "Explain the structure of the Parliamentary Committee system. How far have the financial committees helped in the institutionalization of Indian Parliament? (15)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q4",
+      "year": 2023,
+      "marks": 10.0,
+      "question_text": "Discuss the role of Presiding Officers of state legislatures in maintaining order and impartiality in conducting legislative work and in facilitating best democratic practices. (10)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q5",
+      "year": 2022,
+      "marks": 10.0,
+      "question_text": "Discuss the role of the Vice -Presidents of India as the chairman of the Rajyasabha (10)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q6",
+      "year": 2021,
+      "marks": 10.0,
+      "question_text": "To what extent, in your view, the Parliament is able to ensure accountability of the executive in India? (10)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q7",
+      "year": 2021,
+      "marks": 15.0,
+      "question_text": "Do Department-related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples. (15)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q8",
+      "year": 2021,
+      "marks": 15.0,
+      "question_text": "Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations. (15)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q9",
+      "year": 2020,
+      "marks": 10.0,
+      "question_text": "\"Once a speaker, Always a speaker'! Do you think the practice should be adopted to impart objectivity to the office of the Speaker of Lok Sabha? What could be its implications for the robust functioning of parliamentary business in India. (10)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q10",
+      "year": 2020,
+      "marks": 15.0,
+      "question_text": "Rajya Sabha has been transformed from a 'useless stepney tyre' to the most useful supporting organ in the past few decades. Highlight the factors as well as the areas in which this transformation could be visible. (15)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q12",
+      "year": 2019,
+      "marks": 15.0,
+      "question_text": "Individual Parliamentarian's role as the national lawmaker is on a decline, which in turn, has adversely impacted the quality of debates and their outcome. Discuss. (15)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
+    },
+    {
+      "question_id": "MAINS_P115_Q13",
+      "year": 2018,
+      "marks": 10.0,
+      "question_text": "Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (10)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 115,
+      "source_page_pdf": "pages/mains/mains_page_115.pdf",
+      "source_page_md": "notes/pages/mains_page_115.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch07_Sub01_Parliamentary_vs_Presidential_System.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch07_Sub01_Parliamentary_vs_Presidential_System.mains.md"
+  ]
 }

@@ -5,6 +5,9 @@
   "article_tags": [
     "Article 20"
   ],
+  "subtopic_json": "subtopics/Art_20_Protection_in_Respect_of_Conviction_Narco_Tests.json",
+  "prelims_notes_md": "notes/subtopics/Art_20_Protection_in_Respect_of_Conviction_Narco_Tests_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Art_20_Protection_in_Respect_of_Conviction_Narco_Tests_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_052.pdf"
   ],
@@ -17,6 +20,7 @@
       "title": "Article 21: Protection of Life and Personal Liberty & Landmark Cases",
       "source_type": "prelims",
       "source_page_number": 52,
+      "source_page_pdf": "pages/prelims/prelims_page_052.pdf",
       "source_page_image": "pages/prelims/prelims_page_052.pdf",
       "diagram_image_path": "diagrams/pre_diag_art21_rights_table_p052.png",
       "markdown_link": "![Article 21: Protection of Life and Personal Liberty & Landmark Cases](diagrams/pre_diag_art21_rights_table_p052.png)",
@@ -32,7 +36,7 @@
       "question_id": "PRE_P047_Q1",
       "question_number": "Q1",
       "year": 2026,
-      "question_text": "'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part III of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced. Based on the above, select the correct conclusion from the options given below: [2026]",
+      "question_text": "'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part III of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced. Based on the above, select the correct conclusion from the options given below:",
       "options": {
         "a": "X is correct in the interpretation of law, including the view on non-inclusion of custom",
         "b": "The view of Y that 'law' included custom is not correct",
@@ -42,19 +46,18 @@
       "correct_option": "d",
       "related_articles": [
         "Article 123",
-        "Article 13",
-        "Article 51A"
+        "Article 13"
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q1 (2026)**: 'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part III of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced. Based on the above, select the correct conclusion from the options given below: [2026]\n- (a) X is correct in the interpretation of law, including the view on non-inclusion of custom\n- (b) The view of Y that 'law' included custom is not correct\n- (c) The views of both X and Y are correct\n- (d) The view of only Y is correct\n- **Answer**: `(d)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P047_Q2",
       "question_number": "Q2",
       "year": 2024,
-      "question_text": "Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy? [2024]",
+      "question_text": "Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy?",
       "options": {
         "a": "Article 15",
         "b": "Article 16",
@@ -70,14 +73,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q2 (2024)**: Under which of the following Articles of the Constitution of India has the Supreme Court of India placed the Right to Privacy? [2024]\n- (a) Article 15\n- (b) Article 16\n- (c) Article 19\n- (d) Article 21\n- **Answer**: `(d)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P047_Q3",
       "question_number": "Q3",
       "year": 2023,
-      "question_text": "Consider the following statements: [2023] Statement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration. Statement-II: Article 335 of the Constitution of India defines the term 'efficiency of administration'. Which one of the following is correct in respect of the above statements?",
+      "question_text": "Consider the following statements: Statement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration. Statement-II: Article 335 of the Constitution of India defines the term 'efficiency of administration'. Which one of the following is correct in respect of the above statements?",
       "options": {
         "a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
         "b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
@@ -91,14 +94,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q3 (2023)**: Consider the following statements: [2023] Statement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration. Statement-II: Article 335 of the Constitution of India defines the term 'efficiency of administration'. Which one of the following is correct in respect of the above statements?\n- (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I\n- (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I\n- (c) Statement-I is correct but Statement-II is incorrect\n- (d) Statement-I is incorrect but Statement-II is correct\n- **Answer**: `(c)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P047_Q4",
       "question_number": "Q4",
       "year": 2023,
-      "question_text": "Consider the following statements: [2023] 1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances. 2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention. 3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence. How many of the above statements are correct?",
+      "question_text": "Consider the following statements: 1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances. 2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention. 3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence. How many of the above statements are correct?",
       "options": {
         "a": "Only one",
         "b": "Only two",
@@ -111,14 +114,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q4 (2023)**: Consider the following statements: [2023] 1. According to the Constitution of India, the Central Government has a duty to protect States from internal disturbances. 2. The Constitution of India exempts the States from providing legal counsel to a person being held for preventive detention. 3. According to the Prevention of Terrorism Act, 2002, confession of the accused before the police cannot be used as evidence. How many of the above statements are correct?\n- (a) Only one\n- (b) Only two\n- (c) All three\n- (d) None\n- **Answer**: `(b)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P047_Q5",
       "question_number": "Q5",
       "year": 2021,
-      "question_text": "A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India? [2021]",
+      "question_text": "A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India?",
       "options": {
         "a": "Article 14",
         "b": "Article 28",
@@ -134,8 +137,8 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q5 (2021)**: A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India? [2021]\n- (a) Article 14\n- (b) Article 28\n- (c) Article 32\n- (d) Article 44\n- **Answer**: `(a)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -149,8 +152,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2026]** Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection of Rights) Act, 2019. (10M) ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     },
     {
       "question_id": "MAINS_P034_Q2",
@@ -162,8 +165,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2024]** Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     },
     {
       "question_id": "MAINS_P034_Q3",
@@ -175,36 +178,19 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2023]** \"The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society\". Illustrate with special reference to the expanding horizons of the right to life and personal liberty. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     },
     {
       "question_id": "MAINS_P034_Q4",
       "year": 2022,
-      "marks": null,
-      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India.",
-      "related_articles": [
-        "Article 12"
-      ],
+      "marks": 10.0,
+      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M)",
+      "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2022]** Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
-    },
-    {
-      "question_id": "MAINS_P065_Q5",
-      "year": 2021,
-      "marks": null,
-      "question_text": "Professionalisation of Management - Implement Vaidyanathan Committee recommendation for trained, full-time CEOs in cooperatives. 2. Autonomy and Accountability - Ensure political neutrality and audit transparency by enforcing Model Bye-Laws and MSCS Amendment Act, 2023. 3. Diversification Beyond Agriculture a. Promote cooperatives in logistics, green energy, healthcare, and urban services, as suggested by NITI Aayog (2021)",
-      "related_articles": [
-        "Article 19"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 65,
-      "source_page_image": "pages/mains/mains_page_065.pdf",
-      "markdown_formatted": "- **[2021]** Professionalisation of Management - Implement Vaidyanathan Committee recommendation for trained, full-time CEOs in cooperatives. 2. Autonomy and Accountability - Ensure political neutrality and audit transparency by enforcing Model Bye-Laws and MSCS Amendment Act, 2023. 3. Diversification Beyond Agriculture a. Promote cooperatives in logistics, green energy, healthcare, and urban services, as suggested by NITI Aayog (2021) ([View Mains Source Page 65](pages/mains/mains_page_065.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Art_20_Protection_in_Respect_of_Conviction_Narco_Tests.prelims.md",
-  "smash_mains_notes_markdown_path": "Art_20_Protection_in_Respect_of_Conviction_Narco_Tests.mains.md"
+  ]
 }

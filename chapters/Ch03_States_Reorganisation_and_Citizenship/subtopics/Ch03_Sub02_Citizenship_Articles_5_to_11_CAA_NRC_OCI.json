@@ -11,6 +11,9 @@
     "Article 10",
     "Article 11"
   ],
+  "subtopic_json": "subtopics/Ch03_Sub02_Citizenship_Articles_5_to_11_CAA_NRC_OCI.json",
+  "prelims_notes_md": "notes/subtopics/Ch03_Sub02_Citizenship_Articles_5_to_11_CAA_NRC_OCI_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch03_Sub02_Citizenship_Articles_5_to_11_CAA_NRC_OCI_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_041.pdf",
     "pages/prelims/prelims_page_042.pdf"
@@ -26,7 +29,7 @@
       "question_id": "PRE_P039_Q1",
       "question_number": "Q1",
       "year": 2025,
-      "question_text": "Consider the following pairs: [2025] State Description I. Arunachal Pradesh The capital is named after a fort, and the State has two National Parks II. Nagaland The State came into existence on the basis of a Constitutional Amendment Act III. Tripura Initially a Part ‘C’ State, it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State. How many of the above pairs are correctly matched?",
+      "question_text": "Consider the following pairs: State Description I. Arunachal Pradesh The capital is named after a fort, and the State has two National Parks II. Nagaland The State came into existence on the basis of a Constitutional Amendment Act III. Tripura Initially a Part ‘C’ State, it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State. How many of the above pairs are correctly matched?",
       "options": {
         "a": "Only one",
         "b": "Only two",
@@ -39,14 +42,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 39,
-      "source_page_image": "pages/prelims/prelims_page_039.pdf",
-      "markdown_formatted": "**Q1 (2025)**: Consider the following pairs: [2025] State Description I. Arunachal Pradesh The capital is named after a fort, and the State has two National Parks II. Nagaland The State came into existence on the basis of a Constitutional Amendment Act III. Tripura Initially a Part ‘C’ State, it became a centrally administered territory with the reorganization of States in 1956 and later attained the status of a full-fledged State. How many of the above pairs are correctly matched?\n- (a) Only one\n- (b) Only two\n- (c) All the three\n- (d) None\n- **Answer**: `(c)` ([View Source Page 39](pages/prelims/prelims_page_039.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_039.pdf",
+      "source_page_md": "notes/pages/prelims_page_039.md"
     },
     {
       "question_id": "PRE_P039_Q2",
       "question_number": "Q2",
       "year": 2008,
-      "question_text": "Which was the Capital of Andhra state when it was made a separate State in the year 1953? [2008]",
+      "question_text": "Which was the Capital of Andhra state when it was made a separate State in the year 1953?",
       "options": {
         "a": "Guntur",
         "b": "Kurnool",
@@ -54,16 +57,12 @@
         "d": "Warangal"
       },
       "correct_option": "b",
-      "related_articles": [
-        "Article 200"
-      ],
+      "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 39,
-      "source_page_image": "pages/prelims/prelims_page_039.pdf",
-      "markdown_formatted": "**Q2 (2008)**: Which was the Capital of Andhra state when it was made a separate State in the year 1953? [2008]\n- (a) Guntur\n- (b) Kurnool\n- (c) Nellore\n- (d) Warangal\n- **Answer**: `(b)` ([View Source Page 39](pages/prelims/prelims_page_039.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_039.pdf",
+      "source_page_md": "notes/pages/prelims_page_039.md"
     }
   ],
-  "relevant_mains_pyqs": [],
-  "prelims_notes_markdown_path": "Ch03_Sub02_Citizenship_Articles_5_to_11_CAA_NRC_OCI.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch03_Sub02_Citizenship_Articles_5_to_11_CAA_NRC_OCI.mains.md"
+  "relevant_mains_pyqs": []
 }

@@ -1,0 +1,104 @@
+{
+  "subtopic_id": "Ch02_Sub03_Parts_and_Twelve_Schedules",
+  "parent_chapter_id": "Ch02_Preamble_Basic_Structure_Amendments",
+  "title": "Parts of the Constitution & Twelve Schedules (Fifth, Sixth, Seventh, Ninth, Tenth Schedules)",
+  "article_tags": [
+    "First Schedule",
+    "Fifth Schedule",
+    "Sixth Schedule",
+    "Seventh Schedule",
+    "Eighth Schedule",
+    "Ninth Schedule",
+    "Tenth Schedule",
+    "Eleventh Schedule",
+    "Twelfth Schedule",
+    "Article 244"
+  ],
+  "subtopic_json": "subtopics/Ch02_Sub03_Parts_and_Twelve_Schedules.json",
+  "prelims_notes_md": "notes/subtopics/Ch02_Sub03_Parts_and_Twelve_Schedules_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch02_Sub03_Parts_and_Twelve_Schedules_smash_mains_notes.md",
+  "prelims_source_pages": [
+    "pages/prelims/prelims_page_023.pdf",
+    "pages/prelims/prelims_page_024.pdf",
+    "pages/prelims/prelims_page_025.pdf",
+    "pages/prelims/prelims_page_026.pdf",
+    "pages/prelims/prelims_page_027.pdf"
+  ],
+  "mains_source_pages": [
+    "pages/mains/mains_page_031.pdf",
+    "pages/mains/mains_page_032.pdf",
+    "pages/mains/mains_page_033.pdf"
+  ],
+  "diagrams": [
+    {
+      "diagram_id": "mains_diag_amendment_art368_flowchart_p031",
+      "title": "Constitutional Amendment Process: Under Article 368 vs Outside Article 368",
+      "source_type": "mains",
+      "source_page_number": 31,
+      "source_page_pdf": "pages/mains/mains_page_031.pdf",
+      "source_page_image": "pages/mains/mains_page_031.pdf",
+      "diagram_image_path": "diagrams/mains_diag_amendment_art368_flowchart_p031.png",
+      "markdown_link": "![Constitutional Amendment Process: Under Article 368 vs Outside Article 368](diagrams/mains_diag_amendment_art368_flowchart_p031.png)",
+      "related_articles": [
+        "Article 368",
+        "Article 4",
+        "Article 169"
+      ]
+    }
+  ],
+  "relevant_prelims_pyqs": [
+    {
+      "question_id": "PRE_P015_Q9",
+      "question_number": "Q9",
+      "year": 2022,
+      "question_text": "With reference to anti-defection law in India, consider the following statements : 1. The law specifies that a nominated legislator cannot join any political party within six months of being appointed to the House. 2. The law does not provide any time-frame within which the presiding officer has to decide a defection case. Which of the statements given above is/are correct ?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correct_option": "b",
+      "related_articles": [
+        "Tenth Schedule"
+      ],
+      "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
+      "source_page_number": 15,
+      "source_page_pdf": "pages/prelims/prelims_page_015.pdf",
+      "source_page_md": "notes/pages/prelims_page_015.md"
+    },
+    {
+      "question_id": "PRE_P017_Q31",
+      "question_number": "Q31",
+      "year": 2014,
+      "question_text": "Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection?",
+      "options": {
+        "a": "Second Schedule",
+        "b": "Fifth Schedule",
+        "c": "Eighth Schedule",
+        "d": "Tenth Schedule"
+      },
+      "correct_option": "d",
+      "related_articles": [
+        "Tenth Schedule"
+      ],
+      "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
+      "source_page_number": 17,
+      "source_page_pdf": "pages/prelims/prelims_page_017.pdf",
+      "source_page_md": "notes/pages/prelims_page_017.md"
+    }
+  ],
+  "relevant_mains_pyqs": [
+    {
+      "question_id": "MAINS_P031_Q1",
+      "year": 2025,
+      "marks": 15.0,
+      "question_text": "Indian Constitution has conferred the amending power on the ordinary legislative institutions with a few procedural hurdles. In view of this statement, examine the procedural and substantive limitations on the amending power of the Parliament to change the Constitution. (15)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 31,
+      "source_page_pdf": "pages/mains/mains_page_031.pdf",
+      "source_page_md": "notes/pages/mains_page_031.md"
+    }
+  ]
+}

@@ -8,6 +8,9 @@
     "Article 27",
     "Article 28"
   ],
+  "subtopic_json": "subtopics/Art_25_to_28_Freedom_of_Religion_ERP_Anti_Conversion.json",
+  "prelims_notes_md": "notes/subtopics/Art_25_to_28_Freedom_of_Religion_ERP_Anti_Conversion_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Art_25_to_28_Freedom_of_Religion_ERP_Anti_Conversion_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_054.pdf",
     "pages/prelims/prelims_page_055.pdf"
@@ -24,7 +27,7 @@
       "question_id": "PRE_P047_Q5",
       "question_number": "Q5",
       "year": 2021,
-      "question_text": "A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India? [2021]",
+      "question_text": "A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India?",
       "options": {
         "a": "Article 14",
         "b": "Article 28",
@@ -40,14 +43,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q5 (2021)**: A legislation which confers on the executive or administrative authority an unguided and uncontrolled discretionary power in the matter of application of law violates which one of the following Articles of the Constitution of India? [2021]\n- (a) Article 14\n- (b) Article 28\n- (c) Article 32\n- (d) Article 44\n- **Answer**: `(a)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P048_Q10",
       "question_number": "Q10",
       "year": 2019,
-      "question_text": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice? [2019]",
+      "question_text": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice?",
       "options": {
         "a": "Article 19",
         "b": "Article 21",
@@ -63,23 +66,60 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q10 (2019)**: Which Article of the Constitution of India safeguards one's right to marry the person of one's choice? [2019]\n- (a) Article 19\n- (b) Article 21\n- (c) Article 25\n- (d) Article 29\n- **Answer**: `(b)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
-      "question_id": "MAINS_P068_Q6",
-      "year": 2000,
+      "question_id": "MAINS_P034_Q1",
+      "year": 2026,
+      "marks": 10.0,
+      "question_text": "Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection of Rights) Act, 2019. (10M)",
+      "related_articles": [
+        "Article 21"
+      ],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 34,
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
+    },
+    {
+      "question_id": "MAINS_P034_Q2",
+      "year": 2024,
       "marks": null,
-      "question_text": "Public Health and Peace: Eg. In Church of God (2000)",
+      "question_text": "Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity.",
+      "related_articles": [
+        "Article 21"
+      ],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 34,
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
+    },
+    {
+      "question_id": "MAINS_P034_Q3",
+      "year": 2023,
+      "marks": null,
+      "question_text": "\"The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society\". Illustrate with special reference to the expanding horizons of the right to life and personal liberty.",
+      "related_articles": [
+        "Article 21"
+      ],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 34,
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
+    },
+    {
+      "question_id": "MAINS_P034_Q4",
+      "year": 2022,
+      "marks": 10.0,
+      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 68,
-      "source_page_image": "pages/mains/mains_page_068.pdf",
-      "markdown_formatted": "- **[2000]** Public Health and Peace: Eg. In Church of God (2000) ([View Mains Source Page 68](pages/mains/mains_page_068.pdf))"
+      "source_page_number": 34,
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Art_25_to_28_Freedom_of_Religion_ERP_Anti_Conversion.prelims.md",
-  "smash_mains_notes_markdown_path": "Art_25_to_28_Freedom_of_Religion_ERP_Anti_Conversion.mains.md"
+  ]
 }

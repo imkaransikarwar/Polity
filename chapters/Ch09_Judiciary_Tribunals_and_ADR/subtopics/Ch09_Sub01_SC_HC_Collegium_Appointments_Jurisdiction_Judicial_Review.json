@@ -16,6 +16,9 @@
     "Article 226",
     "Article 227"
   ],
+  "subtopic_json": "subtopics/Ch09_Sub01_SC_HC_Collegium_Appointments_Jurisdiction_Judicial_Review.json",
+  "prelims_notes_md": "notes/subtopics/Ch09_Sub01_SC_HC_Collegium_Appointments_Jurisdiction_Judicial_Review_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch09_Sub01_SC_HC_Collegium_Appointments_Jurisdiction_Judicial_Review_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_121.pdf",
     "pages/prelims/prelims_page_122.pdf",
@@ -64,6 +67,7 @@
       "title": "Appointment of Supreme Court and High Court Judges (Collegium Process)",
       "source_type": "prelims",
       "source_page_number": 131,
+      "source_page_pdf": "pages/prelims/prelims_page_131.pdf",
       "source_page_image": "pages/prelims/prelims_page_131.pdf",
       "diagram_image_path": "diagrams/pre_diag_judges_appointment_p131.png",
       "markdown_link": "![Appointment of Supreme Court and High Court Judges (Collegium Process)](diagrams/pre_diag_judges_appointment_p131.png)",
@@ -77,6 +81,7 @@
       "title": "Judge-to-Population Ratio & Judicial Vacancies in India",
       "source_type": "mains",
       "source_page_number": 180,
+      "source_page_pdf": "pages/mains/mains_page_180.pdf",
       "source_page_image": "pages/mains/mains_page_180.pdf",
       "diagram_image_path": "diagrams/mains_diag_judge_population_ratio_p180.png",
       "markdown_link": "![Judge-to-Population Ratio & Judicial Vacancies in India](diagrams/mains_diag_judge_population_ratio_p180.png)",
@@ -92,7 +97,7 @@
       "question_id": "PRE_P122_Q1",
       "question_number": "Q1",
       "year": 2024,
-      "question_text": "A Writ of Prohibition is an order issued by the Supreme Court or High Courts to: [2024]",
+      "question_text": "A Writ of Prohibition is an order issued by the Supreme Court or High Courts to:",
       "options": {
         "a": "A government officer prohibiting him from taking a particular action.",
         "b": "The Parliament/Legislative Assembly to pass a law on Prohibition.",
@@ -103,14 +108,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 122,
-      "source_page_image": "pages/prelims/prelims_page_122.pdf",
-      "markdown_formatted": "**Q1 (2024)**: A Writ of Prohibition is an order issued by the Supreme Court or High Courts to: [2024]\n- (a) A government officer prohibiting him from taking a particular action.\n- (b) The Parliament/Legislative Assembly to pass a law on Prohibition.\n- (c) The lower court prohibiting continuation of proceedings in a case.\n- (d) The Government prohibiting it from following an unconstitutional policy.\n- **Answer**: `(c)` ([View Source Page 122](pages/prelims/prelims_page_122.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_122.pdf",
+      "source_page_md": "notes/pages/prelims_page_122.md"
     },
     {
       "question_id": "PRE_P122_Q3",
       "question_number": "Q3",
       "year": 2022,
-      "question_text": "Consider the following statements : [2022] 1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed. 2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves. 3. The Constitution of India defines Civil Contempt and Criminal Contempt. 4. In India, the Parliament is vested with the powers to make laws on Contempt of Court. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements : 1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed. 2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves. 3. The Constitution of India defines Civil Contempt and Criminal Contempt. 4. In India, the Parliament is vested with the powers to make laws on Contempt of Court. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 and 2 only",
         "b": "1, 2 and 4",
@@ -121,14 +126,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 122,
-      "source_page_image": "pages/prelims/prelims_page_122.pdf",
-      "markdown_formatted": "**Q3 (2022)**: Consider the following statements : [2022] 1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed. 2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves. 3. The Constitution of India defines Civil Contempt and Criminal Contempt. 4. In India, the Parliament is vested with the powers to make laws on Contempt of Court. Which of the statements given above is/are correct?\n- (a) 1 and 2 only\n- (b) 1, 2 and 4\n- (c) 3 and 4 only\n- (d) 3 only\n- **Answer**: `(b)` ([View Source Page 122](pages/prelims/prelims_page_122.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_122.pdf",
+      "source_page_md": "notes/pages/prelims_page_122.md"
     },
     {
       "question_id": "PRE_P122_Q4",
       "question_number": "Q4",
       "year": 2022,
-      "question_text": "With reference to India, consider the following statements : [2022] 1. Government law officers and legal firms are recognised as advocates, but corporate lawyers and patent attorneys are excluded from recognition as advocates. 2. Bar Councils have the power to lay down the rules relating to legal education and recognition of law colleges. Which of the statements given above is/are correct ?",
+      "question_text": "With reference to India, consider the following statements : 1. Government law officers and legal firms are recognised as advocates, but corporate lawyers and patent attorneys are excluded from recognition as advocates. 2. Bar Councils have the power to lay down the rules relating to legal education and recognition of law colleges. Which of the statements given above is/are correct ?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -139,14 +144,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 122,
-      "source_page_image": "pages/prelims/prelims_page_122.pdf",
-      "markdown_formatted": "**Q4 (2022)**: With reference to India, consider the following statements : [2022] 1. Government law officers and legal firms are recognised as advocates, but corporate lawyers and patent attorneys are excluded from recognition as advocates. 2. Bar Councils have the power to lay down the rules relating to legal education and recognition of law colleges. Which of the statements given above is/are correct ?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 122](pages/prelims/prelims_page_122.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_122.pdf",
+      "source_page_md": "notes/pages/prelims_page_122.md"
     },
     {
       "question_id": "PRE_P122_Q5",
       "question_number": "Q5",
       "year": 2021,
-      "question_text": "With reference to the Indian judiciary, consider the following statements: [2021] 1. Any retired judge of the Supreme Court of India can be called back to sit and act as a Supreme Court judge by the Chief Justice of India with prior permission from the President of India. 2. A High Court in India has the power to review its own judgment, as the Supreme Court does. Which of the statements given above is/are correct?",
+      "question_text": "With reference to the Indian judiciary, consider the following statements: 1. Any retired judge of the Supreme Court of India can be called back to sit and act as a Supreme Court judge by the Chief Justice of India with prior permission from the President of India. 2. A High Court in India has the power to review its own judgment, as the Supreme Court does. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -157,14 +162,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 122,
-      "source_page_image": "pages/prelims/prelims_page_122.pdf",
-      "markdown_formatted": "**Q5 (2021)**: With reference to the Indian judiciary, consider the following statements: [2021] 1. Any retired judge of the Supreme Court of India can be called back to sit and act as a Supreme Court judge by the Chief Justice of India with prior permission from the President of India. 2. A High Court in India has the power to review its own judgment, as the Supreme Court does. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(a)` ([View Source Page 122](pages/prelims/prelims_page_122.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_122.pdf",
+      "source_page_md": "notes/pages/prelims_page_122.md"
     },
     {
       "question_id": "PRE_P122_Q6",
       "question_number": "Q6",
       "year": 2021,
-      "question_text": "With reference to India, consider the following statements: [2021] 1. Judicial custody means an accused is in the custody of the concerned magistrate, and such an accused is locked up in the police station, not in jail. 2. During judicial custody, the police officer in charge of the case is not allowed to interrogate the suspect without the approval of the court. Which of the statements given above is/are correct?",
+      "question_text": "With reference to India, consider the following statements: 1. Judicial custody means an accused is in the custody of the concerned magistrate, and such an accused is locked up in the police station, not in jail. 2. During judicial custody, the police officer in charge of the case is not allowed to interrogate the suspect without the approval of the court. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -175,14 +180,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 122,
-      "source_page_image": "pages/prelims/prelims_page_122.pdf",
-      "markdown_formatted": "**Q6 (2021)**: With reference to India, consider the following statements: [2021] 1. Judicial custody means an accused is in the custody of the concerned magistrate, and such an accused is locked up in the police station, not in jail. 2. During judicial custody, the police officer in charge of the case is not allowed to interrogate the suspect without the approval of the court. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 122](pages/prelims/prelims_page_122.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_122.pdf",
+      "source_page_md": "notes/pages/prelims_page_122.md"
     },
     {
       "question_id": "PRE_P123_Q7",
       "question_number": "Q7",
       "year": 2020,
-      "question_text": "Consider the following statements: [2020] 1. The Constitution of India defines its ‘Basic Structure’ in terms of federalism, secularism, fundamental rights and democracy. 2. The Constitution of India provides for ‘judicial review’ to safeguard the citizens’ liberties and to preserve the ideals on which the Constitution is based. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. The Constitution of India defines its ‘Basic Structure’ in terms of federalism, secularism, fundamental rights and democracy. 2. The Constitution of India provides for ‘judicial review’ to safeguard the citizens’ liberties and to preserve the ideals on which the Constitution is based. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -193,14 +198,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 123,
-      "source_page_image": "pages/prelims/prelims_page_123.pdf",
-      "markdown_formatted": "**Q7 (2020)**: Consider the following statements: [2020] 1. The Constitution of India defines its ‘Basic Structure’ in terms of federalism, secularism, fundamental rights and democracy. 2. The Constitution of India provides for ‘judicial review’ to safeguard the citizens’ liberties and to preserve the ideals on which the Constitution is based. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 123](pages/prelims/prelims_page_123.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_123.pdf",
+      "source_page_md": "notes/pages/prelims_page_123.md"
     },
     {
       "question_id": "PRE_P123_Q8",
       "question_number": "Q8",
       "year": 2019,
-      "question_text": "Consider the following statements: [2019] 1. The- motion to impeach a Judge of the Supreme Court of India cannot be rejected by the Speaker of the Lok Sabha as per the Judges (Inquiry) Act, 1968. 2. The Constitution of India defines and gives details of what Constitutes 'incapacity and proved misbehaviour' of the Judges of the Supreme Court of India. 3. The details of the process of impeachment of the Judges of the Supreme Court of India are given in the Judges (Inquiry) Act, 1968. 4. If the motion for the impeachment of a Judge is taken up for voting, the law requires the motion to be backed by each House of the Parliament and supported by a majority of total membership of that House and by not less than two-thirds of total members of that House present and voting. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. The- motion to impeach a Judge of the Supreme Court of India cannot be rejected by the Speaker of the Lok Sabha as per the Judges (Inquiry) Act, 1968. 2. The Constitution of India defines and gives details of what Constitutes 'incapacity and proved misbehaviour' of the Judges of the Supreme Court of India. 3. The details of the process of impeachment of the Judges of the Supreme Court of India are given in the Judges (Inquiry) Act, 1968. 4. If the motion for the impeachment of a Judge is taken up for voting, the law requires the motion to be backed by each House of the Parliament and supported by a majority of total membership of that House and by not less than two-thirds of total members of that House present and voting. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 and 2",
         "b": "3 only",
@@ -211,14 +216,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 123,
-      "source_page_image": "pages/prelims/prelims_page_123.pdf",
-      "markdown_formatted": "**Q8 (2019)**: Consider the following statements: [2019] 1. The- motion to impeach a Judge of the Supreme Court of India cannot be rejected by the Speaker of the Lok Sabha as per the Judges (Inquiry) Act, 1968. 2. The Constitution of India defines and gives details of what Constitutes 'incapacity and proved misbehaviour' of the Judges of the Supreme Court of India. 3. The details of the process of impeachment of the Judges of the Supreme Court of India are given in the Judges (Inquiry) Act, 1968. 4. If the motion for the impeachment of a Judge is taken up for voting, the law requires the motion to be backed by each House of the Parliament and supported by a majority of total membership of that House and by not less than two-thirds of total members of that House present and voting. Which of the statements given above is/are correct?\n- (a) 1 and 2\n- (b) 3 only\n- (c) 3 and 4 only\n- (d) 1, 3 and 4\n- **Answer**: `(c)` ([View Source Page 123](pages/prelims/prelims_page_123.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_123.pdf",
+      "source_page_md": "notes/pages/prelims_page_123.md"
     },
     {
       "question_id": "PRE_P123_Q9",
       "question_number": "Q9",
       "year": 2019,
-      "question_text": "With reference to the Constitution of India, consider the following statements: [2019] 1. No High Court shall have the jurisdiction to declare any central law to be constitutionally invalid. 2. An amendment to the Constitution of India cannot be called into question by the Supreme Court of India. Which of the statements given above is / are correct?",
+      "question_text": "With reference to the Constitution of India, consider the following statements: 1. No High Court shall have the jurisdiction to declare any central law to be constitutionally invalid. 2. An amendment to the Constitution of India cannot be called into question by the Supreme Court of India. Which of the statements given above is / are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -229,14 +234,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 123,
-      "source_page_image": "pages/prelims/prelims_page_123.pdf",
-      "markdown_formatted": "**Q9 (2019)**: With reference to the Constitution of India, consider the following statements: [2019] 1. No High Court shall have the jurisdiction to declare any central law to be constitutionally invalid. 2. An amendment to the Constitution of India cannot be called into question by the Supreme Court of India. Which of the statements given above is / are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 123](pages/prelims/prelims_page_123.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_123.pdf",
+      "source_page_md": "notes/pages/prelims_page_123.md"
     },
     {
       "question_id": "PRE_P123_Q10",
       "question_number": "Q10",
       "year": 2019,
-      "question_text": "With reference to the Constitution of India, prohibitions or limitations or provisions contained in ordinary laws cannot act as prohibitions or limitations on the constitutional powers under Article 142. It could mean which one of the following? [2019]",
+      "question_text": "With reference to the Constitution of India, prohibitions or limitations or provisions contained in ordinary laws cannot act as prohibitions or limitations on the constitutional powers under Article 142. It could mean which one of the following?",
       "options": {
         "a": "The decisions taken by the Election Commission of India while discharging its duties cannot be challenged in any court of law.",
         "b": "The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.",
@@ -250,14 +255,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 123,
-      "source_page_image": "pages/prelims/prelims_page_123.pdf",
-      "markdown_formatted": "**Q10 (2019)**: With reference to the Constitution of India, prohibitions or limitations or provisions contained in ordinary laws cannot act as prohibitions or limitations on the constitutional powers under Article 142. It could mean which one of the following? [2019]\n- (a) The decisions taken by the Election Commission of India while discharging its duties cannot be challenged in any court of law.\n- (b) The Supreme Court of India is not constrained in the exercise of its powers by laws made by the Parliament.\n- (c) In the event of grave financial crisis in the country, the President of India can declare Financial Emergency without the counsel from the Cabinet.\n- (d) State Legislatures cannot make laws on certain matters without the concurrence of Union Legislature.\n- **Answer**: `(b)` ([View Source Page 123](pages/prelims/prelims_page_123.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_123.pdf",
+      "source_page_md": "notes/pages/prelims_page_123.md"
     },
     {
       "question_id": "PRE_P123_Q12",
       "question_number": "Q12",
       "year": 2015,
-      "question_text": "Who/Which of the following is the custodian of the Constitution of India? [2015]",
+      "question_text": "Who/Which of the following is the custodian of the Constitution of India?",
       "options": {
         "a": "The President of India",
         "b": "The Prime Minister of India",
@@ -268,14 +273,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 123,
-      "source_page_image": "pages/prelims/prelims_page_123.pdf",
-      "markdown_formatted": "**Q12 (2015)**: Who/Which of the following is the custodian of the Constitution of India? [2015]\n- (a) The President of India\n- (b) The Prime Minister of India\n- (c) The Lok Sabha Secretariat\n- (d) The Supreme Court of India\n- **Answer**: `(d)` ([View Source Page 123](pages/prelims/prelims_page_123.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_123.pdf",
+      "source_page_md": "notes/pages/prelims_page_123.md"
     },
     {
       "question_id": "PRE_P123_Q13",
       "question_number": "Q13",
       "year": 2014,
-      "question_text": "The power to increase the number of judges in the Supreme Court of India is vested in? [2014]",
+      "question_text": "The power to increase the number of judges in the Supreme Court of India is vested in?",
       "options": {
         "a": "The President of India.",
         "b": "The Parliament.",
@@ -286,14 +291,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 123,
-      "source_page_image": "pages/prelims/prelims_page_123.pdf",
-      "markdown_formatted": "**Q13 (2014)**: The power to increase the number of judges in the Supreme Court of India is vested in? [2014]\n- (a) The President of India.\n- (b) The Parliament.\n- (c) The Chief Justice of India.\n- (d) The Law Commission.\n- **Answer**: `(b)` ([View Source Page 123](pages/prelims/prelims_page_123.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_123.pdf",
+      "source_page_md": "notes/pages/prelims_page_123.md"
     },
     {
       "question_id": "PRE_P124_Q14",
       "question_number": "Q14",
       "year": 2014,
-      "question_text": "The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its: [2014]",
+      "question_text": "The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its:",
       "options": {
         "a": "advisory jurisdiction",
         "b": "appellate jurisdiction",
@@ -304,14 +309,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 124,
-      "source_page_image": "pages/prelims/prelims_page_124.pdf",
-      "markdown_formatted": "**Q14 (2014)**: The power of the Supreme Court of India to decide disputes between the Centre and the States falls under its: [2014]\n- (a) advisory jurisdiction\n- (b) appellate jurisdiction\n- (c) original jurisdiction\n- (d) writ jurisdiction\n- **Answer**: `(c)` ([View Source Page 124](pages/prelims/prelims_page_124.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_124.pdf",
+      "source_page_md": "notes/pages/prelims_page_124.md"
     },
     {
       "question_id": "PRE_P124_Q15",
       "question_number": "Q15",
       "year": 2012,
-      "question_text": "Which of the following are included in the original jurisdiction of the Supreme Court? [2012] 1. A dispute between the Government of India and one or more States 2. A dispute regarding elections to either House of the Parliament or that of Legislature of a State 3. A dispute between the Government of India and a Union Territory 4. A dispute between two or more States Select the correct answer using the code given below:",
+      "question_text": "Which of the following are included in the original jurisdiction of the Supreme Court? 1. A dispute between the Government of India and one or more States 2. A dispute regarding elections to either House of the Parliament or that of Legislature of a State 3. A dispute between the Government of India and a Union Territory 4. A dispute between two or more States Select the correct answer using the code given below:",
       "options": {
         "a": "1 and 2 only",
         "b": "2 and 3 only",
@@ -322,14 +327,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 124,
-      "source_page_image": "pages/prelims/prelims_page_124.pdf",
-      "markdown_formatted": "**Q15 (2012)**: Which of the following are included in the original jurisdiction of the Supreme Court? [2012] 1. A dispute between the Government of India and one or more States 2. A dispute regarding elections to either House of the Parliament or that of Legislature of a State 3. A dispute between the Government of India and a Union Territory 4. A dispute between two or more States Select the correct answer using the code given below:\n- (a) 1 and 2 only\n- (b) 2 and 3 only\n- (c) 1 and 4 only\n- (d) 3 and 4 only\n- **Answer**: `(c)` ([View Source Page 124](pages/prelims/prelims_page_124.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_124.pdf",
+      "source_page_md": "notes/pages/prelims_page_124.md"
     },
     {
       "question_id": "PRE_P124_Q16",
       "question_number": "Q16",
       "year": 2012,
-      "question_text": "What is the provision to safeguard the autonomy of the Supreme Court of India? [2012] 1. While appointing the Supreme Court Judges, the President of India has to consult the Chief Justice of India. 2. The Supreme Court Judges can be removed by the Chief Justice of India only. 3. The salaries of the Judges are charged on the Consolidated Fund of India to which the legislature does not have to vote. 4. All appointments of officers and staff of the Supreme Court of India are made by the Government only after consulting the Chief Justice of India. Which of the statements given above is/are correct?",
+      "question_text": "What is the provision to safeguard the autonomy of the Supreme Court of India? 1. While appointing the Supreme Court Judges, the President of India has to consult the Chief Justice of India. 2. The Supreme Court Judges can be removed by the Chief Justice of India only. 3. The salaries of the Judges are charged on the Consolidated Fund of India to which the legislature does not have to vote. 4. All appointments of officers and staff of the Supreme Court of India are made by the Government only after consulting the Chief Justice of India. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 and 3 only",
         "b": "3 and 4 only",
@@ -340,14 +345,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 124,
-      "source_page_image": "pages/prelims/prelims_page_124.pdf",
-      "markdown_formatted": "**Q16 (2012)**: What is the provision to safeguard the autonomy of the Supreme Court of India? [2012] 1. While appointing the Supreme Court Judges, the President of India has to consult the Chief Justice of India. 2. The Supreme Court Judges can be removed by the Chief Justice of India only. 3. The salaries of the Judges are charged on the Consolidated Fund of India to which the legislature does not have to vote. 4. All appointments of officers and staff of the Supreme Court of India are made by the Government only after consulting the Chief Justice of India. Which of the statements given above is/are correct?\n- (a) 1 and 3 only\n- (b) 3 and 4 only\n- (c) 4 only\n- (d) 1, 2, 3 and 4\n- **Answer**: `(a)` ([View Source Page 124](pages/prelims/prelims_page_124.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_124.pdf",
+      "source_page_md": "notes/pages/prelims_page_124.md"
     },
     {
       "question_id": "PRE_P124_Q17",
       "question_number": "Q17",
       "year": 2010,
-      "question_text": "Consider the following statements : The Supreme Court of India tenders advice to the President of India on matters of law or fact [2010] 1. on its own initiative (on any matter of larger public interest). 2. if he seeks such an advice. 3. only if the matters relate to the Fundamental Rights of the citizens. Which of the statements given above is/are correct ?",
+      "question_text": "Consider the following statements : The Supreme Court of India tenders advice to the President of India on matters of law or fact 1. on its own initiative (on any matter of larger public interest). 2. if he seeks such an advice. 3. only if the matters relate to the Fundamental Rights of the citizens. Which of the statements given above is/are correct ?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -358,14 +363,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 124,
-      "source_page_image": "pages/prelims/prelims_page_124.pdf",
-      "markdown_formatted": "**Q17 (2010)**: Consider the following statements : The Supreme Court of India tenders advice to the President of India on matters of law or fact [2010] 1. on its own initiative (on any matter of larger public interest). 2. if he seeks such an advice. 3. only if the matters relate to the Fundamental Rights of the citizens. Which of the statements given above is/are correct ?\n- (a) 1 only\n- (b) 2 only\n- (c) 3 only\n- (d) 1 and 2 only\n- **Answer**: `(b)` ([View Source Page 124](pages/prelims/prelims_page_124.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_124.pdf",
+      "source_page_md": "notes/pages/prelims_page_124.md"
     },
     {
       "question_id": "PRE_P124_Q19",
       "question_number": "Q19",
       "year": 2008,
-      "question_text": "How many High Courts in India have jurisdiction over more than one State (Union Territories not included)? [2008]",
+      "question_text": "How many High Courts in India have jurisdiction over more than one State (Union Territories not included)?",
       "options": {
         "a": "2",
         "b": "3",
@@ -376,14 +381,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 124,
-      "source_page_image": "pages/prelims/prelims_page_124.pdf",
-      "markdown_formatted": "**Q19 (2008)**: How many High Courts in India have jurisdiction over more than one State (Union Territories not included)? [2008]\n- (a) 2\n- (b) 3\n- (c) 4\n- (d) 5\n- **Answer**: `(b)` ([View Source Page 124](pages/prelims/prelims_page_124.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_124.pdf",
+      "source_page_md": "notes/pages/prelims_page_124.md"
     },
     {
       "question_id": "PRE_P124_Q20",
       "question_number": "Q20",
       "year": 2008,
-      "question_text": "Consider the following statements: [2008] 1. Justice V.R. Krishna Iyer was the Chief Justice of India. 2. Justice V.R. Krishna Iyer is considered as one of the progenitors of public interest litigation (PIL) in the Indian judicial system. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. Justice V.R. Krishna Iyer was the Chief Justice of India. 2. Justice V.R. Krishna Iyer is considered as one of the progenitors of public interest litigation (PIL) in the Indian judicial system. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -394,64 +399,8 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 124,
-      "source_page_image": "pages/prelims/prelims_page_124.pdf",
-      "markdown_formatted": "**Q20 (2008)**: Consider the following statements: [2008] 1. Justice V.R. Krishna Iyer was the Chief Justice of India. 2. Justice V.R. Krishna Iyer is considered as one of the progenitors of public interest litigation (PIL) in the Indian judicial system. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 124](pages/prelims/prelims_page_124.pdf))"
-    },
-    {
-      "question_id": "PRE_P125_Q21",
-      "question_number": "Q21",
-      "year": 2008,
-      "question_text": "Match List I (Person) with List II (Position) and select the correct answer using the codes given below the lists: [2008] A. Nagendra Singh : 1. Chief Election Commissioner of India B. A.N. Ray : 2. President, International Court of Justice C. R.K. Trivedi : 3. Chief Justice of India D. Ashok Desai : 4. Attorney General of India Codes (A B C D):",
-      "options": {
-        "a": "1 4 2 3",
-        "b": "2 3 1 4",
-        "c": "1 3 2 4",
-        "d": "2 4 1 3"
-      },
-      "correct_option": "b",
-      "related_articles": [
-        "Article 123",
-        "Article 124",
-        "Article 130",
-        "Article 200",
-        "Article 214",
-        "Article 216",
-        "Article 217",
-        "Article 219",
-        "Article 233",
-        "Article 324",
-        "Article 76"
-      ],
-      "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
-      "source_page_number": 125,
-      "source_page_image": "pages/prelims/prelims_page_125.pdf",
-      "markdown_formatted": "**Q21 (2008)**: Match List I (Person) with List II (Position) and select the correct answer using the codes given below the lists: [2008] A. Nagendra Singh : 1. Chief Election Commissioner of India B. A.N. Ray : 2. President, International Court of Justice C. R.K. Trivedi : 3. Chief Justice of India D. Ashok Desai : 4. Attorney General of India Codes (A B C D):\n- (a) 1 4 2 3\n- (b) 2 3 1 4\n- (c) 1 3 2 4\n- (d) 2 4 1 3\n- **Answer**: `(b)` ([View Source Page 125](pages/prelims/prelims_page_125.pdf))"
-    },
-    {
-      "question_id": "PRE_P135_Q7",
-      "question_number": "Q7",
-      "year": 2009,
-      "question_text": "With reference to Lok Adalats, consider the following statements: [2009] 1. An award made by a Lok Adalat is deemed to be a degree of a civil court and no appeal lies against thereto before any court. 2. Matrimonial/Family disputes are not covered under Lok Adalat. Which of the statements given above is/are correct?",
-      "options": {
-        "a": "1 only",
-        "b": "2 only",
-        "c": "Both 1 and 2",
-        "d": "Neither 1 nor 2"
-      },
-      "correct_option": "a",
-      "related_articles": [
-        "Article 13",
-        "Article 227",
-        "Article 243",
-        "Article 32",
-        "Article 323A",
-        "Article 323B",
-        "Article 368"
-      ],
-      "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
-      "source_page_number": 135,
-      "source_page_image": "pages/prelims/prelims_page_135.pdf",
-      "markdown_formatted": "**Q7 (2009)**: With reference to Lok Adalats, consider the following statements: [2009] 1. An award made by a Lok Adalat is deemed to be a degree of a civil court and no appeal lies against thereto before any court. 2. Matrimonial/Family disputes are not covered under Lok Adalat. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(a)` ([View Source Page 135](pages/prelims/prelims_page_135.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_124.pdf",
+      "source_page_md": "notes/pages/prelims_page_124.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -466,8 +415,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2014]** Starting from inventing the 'basic structure' doctrine, the judiciary has played a highly pro active role in ensuring that India develops into a thriving democracy. In light of the statement, evaluate the role played by judicial activism in achieving the ideals of democracy ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q5",
@@ -479,8 +428,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2017]** Critically examine the Supreme Court's judgment on 'National Judicial Appointments Commission Act, 2014' with reference to appointment of judges of higher judiciary in India. (10) ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q8",
@@ -490,8 +439,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2020]** Judicial Legislation is antithetical to the doctrine of separation of powers as envisaged in the Indian Constitution. In this context justify the filing of large number of public interest petitions praying for issuing guidelines to executive authorities. (15) ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q10",
@@ -501,19 +450,19 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2023]** \"Constitutionally guaranteed judicial independence is a prerequisite of democracy\". Comment. (10) ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q11",
       "year": 2023,
-      "marks": null,
+      "marks": 10.0,
       "question_text": "Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority(NALSA) in rendering free legal aid in India. 10",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2023]** Who are entitled to receive free legal aid? Assess the role of the National Legal Services Authority(NALSA) in rendering free legal aid in India. 10 ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q12",
@@ -523,43 +472,30 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2024]** Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world's most powerful judiciary? (15) ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q14",
       "year": 2025,
-      "marks": null,
-      "question_text": "Discuss the evolution of the collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. (15) 171",
+      "marks": 15.0,
+      "question_text": "Discuss the evolution of the collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. (15)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2025]** Discuss the evolution of the collegium system in India. Critically examine the advantages and disadvantages of the system of appointment of the Judges of the Supreme Court of India and that of the USA. (15) 171 ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
-      "question_id": "MAINS_P170_Q16",
+      "question_id": "MAINS_P170_Q2",
       "year": 2025,
       "marks": null,
       "question_text": "\"Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike...\" In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India.",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 170,
-      "source_page_image": "pages/mains/mains_page_170.pdf",
-      "markdown_formatted": "- **[2025]** \"Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike...\" In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India. ([View Mains Source Page 170](pages/mains/mains_page_170.pdf))"
-    },
-    {
-      "question_id": "MAINS_P170_Q18",
-      "year": 1973,
-      "marks": null,
-      "question_text": "Guardian of the Constitution- Eg. Kesavananda Bharati case (1973)",
-      "related_articles": [],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 170,
-      "source_page_image": "pages/mains/mains_page_170.pdf",
-      "markdown_formatted": "- **[1973]** Guardian of the Constitution- Eg. Kesavananda Bharati case (1973) ([View Mains Source Page 170](pages/mains/mains_page_170.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_170.pdf",
+      "source_page_md": "notes/pages/mains_page_170.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch09_Sub01_SC_HC_Collegium_Appointments_Jurisdiction_Judicial_Review.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch09_Sub01_SC_HC_Collegium_Appointments_Jurisdiction_Judicial_Review.mains.md"
+  ]
 }

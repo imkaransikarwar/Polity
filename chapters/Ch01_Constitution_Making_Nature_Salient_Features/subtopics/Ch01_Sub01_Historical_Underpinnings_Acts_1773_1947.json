@@ -10,6 +10,9 @@
     "GOI Act 1935",
     "Indian Independence Act 1947"
   ],
+  "subtopic_json": "subtopics/Ch01_Sub01_Historical_Underpinnings_Acts_1773_1947.json",
+  "prelims_notes_md": "notes/subtopics/Ch01_Sub01_Historical_Underpinnings_Acts_1773_1947_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch01_Sub01_Historical_Underpinnings_Acts_1773_1947_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_003.pdf",
     "pages/prelims/prelims_page_004.pdf",
@@ -32,7 +35,7 @@
       "question_id": "PRE_P004_Q1",
       "question_number": "Q1",
       "year": 2024,
-      "question_text": "With reference to the Government of India Act, 1935, consider the following statements: [2024] 1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States. 2. Defence and Foreign Affairs were kept under the control of the federal legislature. Which of the statements given above is/are correct?",
+      "question_text": "With reference to the Government of India Act, 1935, consider the following statements: 1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States. 2. Defence and Foreign Affairs were kept under the control of the federal legislature. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -43,14 +46,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q1 (2024)**: With reference to the Government of India Act, 1935, consider the following statements: [2024] 1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States. 2. Defence and Foreign Affairs were kept under the control of the federal legislature. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(a)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P004_Q2",
       "question_number": "Q2",
       "year": 2024,
-      "question_text": "Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over? [2024]",
+      "question_text": "Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over?",
       "options": {
         "a": "C Rajgopalachari",
         "b": "Dr B R Ambedkar",
@@ -61,14 +64,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q2 (2024)**: Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over? [2024]\n- (a) C Rajgopalachari\n- (b) Dr B R Ambedkar\n- (c) T.T.Krishnamachari\n- (d) Dr Sachidanand Sinha\n- **Answer**: `(d)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P004_Q3",
       "question_number": "Q3",
       "year": 2023,
-      "question_text": "Consider the following statements in respect of the Constitution Day: [2023] STATEMENT-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens. STATEMENT-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B.R. Ambedkar to prepare a Draft Constitution of India. Which one of the following is correct in respect of the above statements?",
+      "question_text": "Consider the following statements in respect of the Constitution Day: STATEMENT-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens. STATEMENT-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B.R. Ambedkar to prepare a Draft Constitution of India. Which one of the following is correct in respect of the above statements?",
       "options": {
         "a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
         "b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
@@ -79,14 +82,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q3 (2023)**: Consider the following statements in respect of the Constitution Day: [2023] STATEMENT-I: The Constitution Day is celebrated on 26th November every year to promote constitutional values among citizens. STATEMENT-II: On 26th November, 1949, the Constituent Assembly of India set up a Drafting Committee under the Chairmanship of Dr. B.R. Ambedkar to prepare a Draft Constitution of India. Which one of the following is correct in respect of the above statements?\n- (a) Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I\n- (b) Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I\n- (c) Statement-I is correct but Statement-II is incorrect\n- (d) Statement-I is incorrect but Statement-II is correct\n- **Answer**: `(c)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P004_Q4",
       "question_number": "Q4",
       "year": 2022,
-      "question_text": "With reference to the proposals of Cripps Mission, consider the following statements : [2022] 1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States. 2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status. Which of the statements given above is/are correct?",
+      "question_text": "With reference to the proposals of Cripps Mission, consider the following statements : 1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States. 2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -97,14 +100,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q4 (2022)**: With reference to the proposals of Cripps Mission, consider the following statements : [2022] 1. The Constituent Assembly would have members nominated by the Provincial Assemblies as well as the Princely States. 2. Any Province, which is not prepared to accept the new Constitution would have the right to sign a separate agreement with Britain regarding its future status. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P004_Q6",
       "question_number": "Q6",
       "year": 2016,
-      "question_text": "The plan of Sir Stafford Cripps envisaged that after the Second World War [2016]",
+      "question_text": "The plan of Sir Stafford Cripps envisaged that after the Second World War",
       "options": {
         "a": "India should be granted complete independence",
         "b": "India should be partitioned into two before granting independence",
@@ -115,14 +118,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q6 (2016)**: The plan of Sir Stafford Cripps envisaged that after the Second World War [2016]\n- (a) India should be granted complete independence\n- (b) India should be partitioned into two before granting independence\n- (c) India should be made a republic with the condition that she will join the Commonwealth\n- (d) India should be given Dominion status\n- **Answer**: `(d)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P004_Q7",
       "question_number": "Q7",
       "year": 2015,
-      "question_text": "With reference to the Cabinet Mission, which of the following statements is/are correct? [2015] (1) It recommended a federal government (2) It enlarged the powers of the Indian courts. (3) It provided for more Indians in the ICS. Select the correct answer using the code given below.",
+      "question_text": "With reference to the Cabinet Mission, which of the following statements is/are correct? (1) It recommended a federal government (2) It enlarged the powers of the Indian courts. (3) It provided for more Indians in the ICS. Select the correct answer using the code given below.",
       "options": {
         "a": "1 only",
         "b": "2 and 3",
@@ -133,14 +136,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 4,
-      "source_page_image": "pages/prelims/prelims_page_004.pdf",
-      "markdown_formatted": "**Q7 (2015)**: With reference to the Cabinet Mission, which of the following statements is/are correct? [2015] (1) It recommended a federal government (2) It enlarged the powers of the Indian courts. (3) It provided for more Indians in the ICS. Select the correct answer using the code given below.\n- (a) 1 only\n- (b) 2 and 3\n- (c) 1 and 3\n- (d) None\n- **Answer**: `(a)` ([View Source Page 4](pages/prelims/prelims_page_004.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_004.pdf",
+      "source_page_md": "notes/pages/prelims_page_004.md"
     },
     {
       "question_id": "PRE_P005_Q8",
       "question_number": "Q8",
       "year": 2013,
-      "question_text": "Quit India Movement was launched in response to [2013]",
+      "question_text": "Quit India Movement was launched in response to",
       "options": {
         "a": "Cabinet Mission Plan",
         "b": "Cripps Proposals",
@@ -151,14 +154,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 5,
-      "source_page_image": "pages/prelims/prelims_page_005.pdf",
-      "markdown_formatted": "**Q8 (2013)**: Quit India Movement was launched in response to [2013]\n- (a) Cabinet Mission Plan\n- (b) Cripps Proposals\n- (c) Simon Commission Report\n- (d) Wavell Plan\n- **Answer**: `(b)` ([View Source Page 5](pages/prelims/prelims_page_005.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_005.pdf",
+      "source_page_md": "notes/pages/prelims_page_005.md"
     },
     {
       "question_id": "PRE_P005_Q9",
       "question_number": "Q9",
       "year": 2013,
-      "question_text": "With reference to Indian History, the members of the Constituent Assembly from the Provinces were [2013]",
+      "question_text": "With reference to Indian History, the members of the Constituent Assembly from the Provinces were",
       "options": {
         "a": "directly elected by the people of those Provinces",
         "b": "nominated by the Indian National Congress and the Muslim League",
@@ -169,14 +172,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 5,
-      "source_page_image": "pages/prelims/prelims_page_005.pdf",
-      "markdown_formatted": "**Q9 (2013)**: With reference to Indian History, the members of the Constituent Assembly from the Provinces were [2013]\n- (a) directly elected by the people of those Provinces\n- (b) nominated by the Indian National Congress and the Muslim League\n- (c) elected by the Provincial Legislative Assemblies\n- (d) selected by the Government for their expertise in constitutional matter\n- **Answer**: `(c)` ([View Source Page 5](pages/prelims/prelims_page_005.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_005.pdf",
+      "source_page_md": "notes/pages/prelims_page_005.md"
     },
     {
       "question_id": "PRE_P005_Q10",
       "question_number": "Q10",
       "year": 2012,
-      "question_text": "The distribution of powers between the Centre and the States in the Indian Constitution is based on the scheme provided in the [2012]",
+      "question_text": "The distribution of powers between the Centre and the States in the Indian Constitution is based on the scheme provided in the",
       "options": {
         "a": "Morley-Minto Reforms, 1909",
         "b": "Montagu-Chelmsford Act, 1919",
@@ -187,14 +190,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 5,
-      "source_page_image": "pages/prelims/prelims_page_005.pdf",
-      "markdown_formatted": "**Q10 (2012)**: The distribution of powers between the Centre and the States in the Indian Constitution is based on the scheme provided in the [2012]\n- (a) Morley-Minto Reforms, 1909\n- (b) Montagu-Chelmsford Act, 1919\n- (c) Government of India Act, 1935\n- (d) Indian Independence Act, 1947\n- **Answer**: `(c)` ([View Source Page 5](pages/prelims/prelims_page_005.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_005.pdf",
+      "source_page_md": "notes/pages/prelims_page_005.md"
     },
     {
       "question_id": "PRE_P005_Q11",
       "question_number": "Q11",
       "year": 2010,
-      "question_text": "With reference to Simon Commission’s recommendations, which one of the following statement is correct? [2010]",
+      "question_text": "With reference to Simon Commission’s recommendations, which one of the following statement is correct?",
       "options": {
         "a": "It recommended the replacement of diarchy with responsible government in the provinces",
         "b": "It proposed the setting up of interprovincial council under the home department",
@@ -205,14 +208,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 5,
-      "source_page_image": "pages/prelims/prelims_page_005.pdf",
-      "markdown_formatted": "**Q11 (2010)**: With reference to Simon Commission’s recommendations, which one of the following statement is correct? [2010]\n- (a) It recommended the replacement of diarchy with responsible government in the provinces\n- (b) It proposed the setting up of interprovincial council under the home department\n- (c) It suggested the abolition of bicameral legislature at the centre\n- (d) It recommended the creation of Indian Police Service with a provision for increased pay and allowances for British recruits as compared to Indian recruits\n- **Answer**: `(a)` ([View Source Page 5](pages/prelims/prelims_page_005.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_005.pdf",
+      "source_page_md": "notes/pages/prelims_page_005.md"
     },
     {
       "question_id": "PRE_P005_Q13",
       "question_number": "Q13",
       "year": 2010,
-      "question_text": "Who among the following were official congress negotiators with Cripps Mission? [2010]",
+      "question_text": "Who among the following were official congress negotiators with Cripps Mission?",
       "options": {
         "a": "Mahatma Gandhi and Sardar Patel",
         "b": "Acharya J.B. Kriplani and C. Rajagopalchari",
@@ -223,14 +226,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 5,
-      "source_page_image": "pages/prelims/prelims_page_005.pdf",
-      "markdown_formatted": "**Q13 (2010)**: Who among the following were official congress negotiators with Cripps Mission? [2010]\n- (a) Mahatma Gandhi and Sardar Patel\n- (b) Acharya J.B. Kriplani and C. Rajagopalchari\n- (c) Pandit Nehru and Maulana Azad\n- (d) Dr. Rajendra Prasad and Rafi Md. Kidwai\n- **Answer**: `(c)` ([View Source Page 5](pages/prelims/prelims_page_005.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_005.pdf",
+      "source_page_md": "notes/pages/prelims_page_005.md"
     },
     {
       "question_id": "PRE_P005_Q14",
       "question_number": "Q14",
       "year": 2009,
-      "question_text": "Consider the following statements : [2009] 1. The discussions in the Third Round Table Conference eventually led to the passing of the Government of India Act of 1935. 2. The Government of India Act of 1935 provided for the establishment of an All India Federation to be based on a Union of the provinces of British India and the Princely States. Which of the statements given above is/are correct ?",
+      "question_text": "Consider the following statements : 1. The discussions in the Third Round Table Conference eventually led to the passing of the Government of India Act of 1935. 2. The Government of India Act of 1935 provided for the establishment of an All India Federation to be based on a Union of the provinces of British India and the Princely States. Which of the statements given above is/are correct ?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -241,14 +244,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 5,
-      "source_page_image": "pages/prelims/prelims_page_005.pdf",
-      "markdown_formatted": "**Q14 (2009)**: Consider the following statements : [2009] 1. The discussions in the Third Round Table Conference eventually led to the passing of the Government of India Act of 1935. 2. The Government of India Act of 1935 provided for the establishment of an All India Federation to be based on a Union of the provinces of British India and the Princely States. Which of the statements given above is/are correct ?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(c)` ([View Source Page 5](pages/prelims/prelims_page_005.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_005.pdf",
+      "source_page_md": "notes/pages/prelims_page_005.md"
     },
     {
       "question_id": "PRE_P005_Q15",
       "question_number": "Q15",
       "year": 2009,
-      "question_text": "Consider the following statements : The Cripps Proposals include the provision for [2009] 1. Full independence for India. 2. Creation of Constitution-making body. Which of the statements given above is/are correct ?",
+      "question_text": "Consider the following statements : The Cripps Proposals include the provision for 1. Full independence for India. 2. Creation of Constitution-making body. Which of the statements given above is/are correct ?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -259,14 +262,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 5,
-      "source_page_image": "pages/prelims/prelims_page_005.pdf",
-      "markdown_formatted": "**Q15 (2009)**: Consider the following statements : The Cripps Proposals include the provision for [2009] 1. Full independence for India. 2. Creation of Constitution-making body. Which of the statements given above is/are correct ?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 5](pages/prelims/prelims_page_005.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_005.pdf",
+      "source_page_md": "notes/pages/prelims_page_005.md"
     },
     {
       "question_id": "PRE_P005_Q16",
       "question_number": "Q16",
       "year": 2009,
-      "question_text": "Who of the following Prime Ministers sent Cripps Mission to India ? [2009]",
+      "question_text": "Who of the following Prime Ministers sent Cripps Mission to India ?",
       "options": {
         "a": "James Ramsay MacDonald",
         "b": "Stanley Baldwin",
@@ -277,14 +280,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 5,
-      "source_page_image": "pages/prelims/prelims_page_005.pdf",
-      "markdown_formatted": "**Q16 (2009)**: Who of the following Prime Ministers sent Cripps Mission to India ? [2009]\n- (a) James Ramsay MacDonald\n- (b) Stanley Baldwin\n- (c) Neville Chamberlain\n- (d) Winston Churchill\n- **Answer**: `(d)` ([View Source Page 5](pages/prelims/prelims_page_005.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_005.pdf",
+      "source_page_md": "notes/pages/prelims_page_005.md"
     },
     {
       "question_id": "PRE_P005_Q17",
       "question_number": "Q17",
       "year": 2008,
-      "question_text": "Which one of the following suggested the reconstitution of the Viceroy’s Executive Council in which all the portfolios including that of War Members were to be held by the Indian leader? [2008]",
+      "question_text": "Which one of the following suggested the reconstitution of the Viceroy’s Executive Council in which all the portfolios including that of War Members were to be held by the Indian leader?",
       "options": {
         "a": "Simon Commission",
         "b": "Simla Conference",
@@ -295,8 +298,8 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 5,
-      "source_page_image": "pages/prelims/prelims_page_005.pdf",
-      "markdown_formatted": "**Q17 (2008)**: Which one of the following suggested the reconstitution of the Viceroy’s Executive Council in which all the portfolios including that of War Members were to be held by the Indian leader? [2008]\n- (a) Simon Commission\n- (b) Simla Conference\n- (c) Cripps Proposal\n- (d) Cabinet Mission\n- **Answer**: `(b)` ([View Source Page 5](pages/prelims/prelims_page_005.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_005.pdf",
+      "source_page_md": "notes/pages/prelims_page_005.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -308,8 +311,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 3,
-      "source_page_image": "pages/mains/mains_page_003.pdf",
-      "markdown_formatted": "- **[2025]** \"Constitutional morality is the fulcrum which acts as an essential check upon the high functionaries and citizens alike...\" In view of the above observation of the Supreme Court, explain the concept of constitutional morality and its application to ensure balance between judicial independence and judicial accountability in India. (15) ([View Mains Source Page 3](pages/mains/mains_page_003.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_003.pdf",
+      "source_page_md": "notes/pages/mains_page_003.md"
     },
     {
       "question_id": "MAINS_P003_Q2",
@@ -319,8 +322,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 3,
-      "source_page_image": "pages/mains/mains_page_003.pdf",
-      "markdown_formatted": "- **[2023]** Explain the constitutional perspectives of Gender Justice with the help of relevant Constitutional Provisions and case laws. (15) ([View Mains Source Page 3](pages/mains/mains_page_003.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_003.pdf",
+      "source_page_md": "notes/pages/mains_page_003.md"
     },
     {
       "question_id": "MAINS_P003_Q3",
@@ -330,8 +333,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 3,
-      "source_page_image": "pages/mains/mains_page_003.pdf",
-      "markdown_formatted": "- **[2022]** \"The most significant achievement of modern law in India is the constitutionalization of environmental problems by the Supreme Court.\" Discuss this statement with the help of relevant case laws. (10) ([View Mains Source Page 3](pages/mains/mains_page_003.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_003.pdf",
+      "source_page_md": "notes/pages/mains_page_003.md"
     },
     {
       "question_id": "MAINS_P003_Q4",
@@ -341,21 +344,19 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 3,
-      "source_page_image": "pages/mains/mains_page_003.pdf",
-      "markdown_formatted": "- **[2021]** 'Constitutional Morality' is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of 'Constitutional Morality' with the help of relevant judicial decisions. (10) ([View Mains Source Page 3](pages/mains/mains_page_003.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_003.pdf",
+      "source_page_md": "notes/pages/mains_page_003.md"
     },
     {
-      "question_id": "MAINS_P011_Q7",
+      "question_id": "MAINS_P011_Q1",
       "year": 2019,
-      "marks": null,
-      "question_text": "Do you think that the Constitution of India does not accept the principle of strict separation of powers rather it is based on the principle of 'checks and balances'? Explain. (10) The Preamble is the introductory statement that outlines the philosophy, ideals, and objectives of the Constitution. It reflects the vision of the Constituent Assembly and acts as the identity card of the Constitution. We, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, Social, Economic and Political. LIBERTY of thought, expression, belief, faith and worship. EQUALITY of status and of opportunity and to promote among them all. FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation. In Our Constituent Assembly, this 26th day of November 1949, do HEREBY ADOPT, ENACT, and GIVE TO OURSELVES THIS CONSTITUTION. Significance of the Preamble",
+      "marks": 10.0,
+      "question_text": "Do you think that the Constitution of India does not accept the principle of strict separation of powers rather it is based on the principle of 'checks and balances'? Explain. (10)",
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 11,
-      "source_page_image": "pages/mains/mains_page_011.pdf",
-      "markdown_formatted": "- **[2019]** Do you think that the Constitution of India does not accept the principle of strict separation of powers rather it is based on the principle of 'checks and balances'? Explain. (10) The Preamble is the introductory statement that outlines the philosophy, ideals, and objectives of the Constitution. It reflects the vision of the Constituent Assembly and acts as the identity card of the Constitution. We, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, Social, Economic and Political. LIBERTY of thought, expression, belief, faith and worship. EQUALITY of status and of opportunity and to promote among them all. FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation. In Our Constituent Assembly, this 26th day of November 1949, do HEREBY ADOPT, ENACT, and GIVE TO OURSELVES THIS CONSTITUTION. Significance of the Preamble ([View Mains Source Page 11](pages/mains/mains_page_011.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_011.pdf",
+      "source_page_md": "notes/pages/mains_page_011.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch01_Sub01_Historical_Underpinnings_Acts_1773_1947.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch01_Sub01_Historical_Underpinnings_Acts_1773_1947.mains.md"
+  ]
 }

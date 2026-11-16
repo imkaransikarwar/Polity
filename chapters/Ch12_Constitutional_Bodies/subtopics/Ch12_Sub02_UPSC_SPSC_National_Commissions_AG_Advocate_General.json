@@ -12,6 +12,9 @@
     "Article 338B",
     "Article 350B"
   ],
+  "subtopic_json": "subtopics/Ch12_Sub02_UPSC_SPSC_National_Commissions_AG_Advocate_General.json",
+  "prelims_notes_md": "notes/subtopics/Ch12_Sub02_UPSC_SPSC_National_Commissions_AG_Advocate_General_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch12_Sub02_UPSC_SPSC_National_Commissions_AG_Advocate_General_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_176.pdf",
     "pages/prelims/prelims_page_177.pdf",
@@ -37,8 +40,13 @@
       "question_id": "PRE_P177_Q1",
       "question_number": "Q1",
       "year": 2023,
-      "question_text": "Consider the following organizations/bodies in India: [2023] 1. The National Commission for Backward Classes 2. The National Human Rights Commission 3. The National Law Commission 4. The National Consumer Disputes Redressal Commission How many of the above are constitutional bodies?",
-      "options": {},
+      "question_text": "Consider the following organizations/bodies in India: 1. The National Commission for Backward Classes 2. The National Human Rights Commission 3. The National Law Commission 4. The National Consumer Disputes Redressal Commission How many of the above are constitutional bodies?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All four"
+      },
       "correct_option": "a",
       "related_articles": [
         "Article 338B",
@@ -46,14 +54,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 177,
-      "source_page_image": "pages/prelims/prelims_page_177.pdf",
-      "markdown_formatted": "**Q1 (2023)**: Consider the following organizations/bodies in India: [2023] 1. The National Commission for Backward Classes 2. The National Human Rights Commission 3. The National Law Commission 4. The National Consumer Disputes Redressal Commission How many of the above are constitutional bodies?\n\n- **Answer**: `(a)` ([View Source Page 177](pages/prelims/prelims_page_177.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_177.pdf",
+      "source_page_md": "notes/pages/prelims_page_177.md"
     },
     {
       "question_id": "PRE_P177_Q2",
       "question_number": "Q2",
       "year": 2022,
-      "question_text": "Consider the following statements : [2022] 1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India. 2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns. Which of the statements given above is/are correct ?",
+      "question_text": "Consider the following statements : 1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India. 2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns. Which of the statements given above is/are correct ?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -66,14 +74,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 177,
-      "source_page_image": "pages/prelims/prelims_page_177.pdf",
-      "markdown_formatted": "**Q2 (2022)**: Consider the following statements : [2022] 1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India. 2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns. Which of the statements given above is/are correct ?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 177](pages/prelims/prelims_page_177.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_177.pdf",
+      "source_page_md": "notes/pages/prelims_page_177.md"
     },
     {
       "question_id": "PRE_P177_Q3",
       "question_number": "Q3",
       "year": 2013,
-      "question_text": "Consider the following statements: Attorney General of India can [2013] 1. take part in the proceedings of the Lok Sabha 2. be a member of a committee of the Lok Sabha 3. speak in the Lok Sabha 4. vote in the Lok Sabha Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: Attorney General of India can 1. take part in the proceedings of the Lok Sabha 2. be a member of a committee of the Lok Sabha 3. speak in the Lok Sabha 4. vote in the Lok Sabha Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 and 4",
@@ -86,13 +94,13 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 177,
-      "source_page_image": "pages/prelims/prelims_page_177.pdf",
-      "markdown_formatted": "**Q3 (2013)**: Consider the following statements: Attorney General of India can [2013] 1. take part in the proceedings of the Lok Sabha 2. be a member of a committee of the Lok Sabha 3. speak in the Lok Sabha 4. vote in the Lok Sabha Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 and 4\n- (c) 1, 2 and 3\n- (d) 1 and 3 only\n- **Answer**: `(c)` ([View Source Page 177](pages/prelims/prelims_page_177.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_177.pdf",
+      "source_page_md": "notes/pages/prelims_page_177.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
-      "question_id": "MAINS_P225_Q5",
+      "question_id": "MAINS_P225_Q4",
       "year": 2022,
       "marks": 10.0,
       "question_text": "Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body. (10)",
@@ -101,10 +109,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 225,
-      "source_page_image": "pages/mains/mains_page_225.pdf",
-      "markdown_formatted": "- **[2022]** Discuss the role of the National Commission for Backward Classes in the wake of its transformation from a statutory body to a constitutional body. (10) ([View Mains Source Page 225](pages/mains/mains_page_225.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_225.pdf",
+      "source_page_md": "notes/pages/mains_page_225.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch12_Sub02_UPSC_SPSC_National_Commissions_AG_Advocate_General.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch12_Sub02_UPSC_SPSC_National_Commissions_AG_Advocate_General.mains.md"
+  ]
 }

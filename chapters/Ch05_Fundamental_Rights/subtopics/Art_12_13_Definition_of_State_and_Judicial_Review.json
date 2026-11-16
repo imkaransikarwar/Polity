@@ -6,6 +6,9 @@
     "Article 12",
     "Article 13"
   ],
+  "subtopic_json": "subtopics/Art_12_13_Definition_of_State_and_Judicial_Review.json",
+  "prelims_notes_md": "notes/subtopics/Art_12_13_Definition_of_State_and_Judicial_Review_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Art_12_13_Definition_of_State_and_Judicial_Review_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_046.pdf",
     "pages/prelims/prelims_page_047.pdf",
@@ -22,7 +25,7 @@
       "question_id": "PRE_P047_Q1",
       "question_number": "Q1",
       "year": 2026,
-      "question_text": "'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part III of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced. Based on the above, select the correct conclusion from the options given below: [2026]",
+      "question_text": "'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part III of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced. Based on the above, select the correct conclusion from the options given below:",
       "options": {
         "a": "X is correct in the interpretation of law, including the view on non-inclusion of custom",
         "b": "The view of Y that 'law' included custom is not correct",
@@ -32,30 +35,25 @@
       "correct_option": "d",
       "related_articles": [
         "Article 123",
-        "Article 13",
-        "Article 51A"
+        "Article 13"
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q1 (2026)**: 'X' was addressing a seminar on the meaning of the term 'law' as provided under Article 13, Part III of the Constitution of India. 'X' explained that the meaning of the term 'law' in the Constitution of India was very comprehensive. It included ordinances, orders and even rules and regulations. 'Y' pointed out that the term 'law' in Article 13 also included custom or usage having in the territory of India the force of law, to which 'X' was not convinced. Based on the above, select the correct conclusion from the options given below: [2026]\n- (a) X is correct in the interpretation of law, including the view on non-inclusion of custom\n- (b) The view of Y that 'law' included custom is not correct\n- (c) The views of both X and Y are correct\n- (d) The view of only Y is correct\n- **Answer**: `(d)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
       "question_id": "MAINS_P034_Q4",
       "year": 2022,
-      "marks": null,
-      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India.",
-      "related_articles": [
-        "Article 12"
-      ],
+      "marks": 10.0,
+      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M)",
+      "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2022]** Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Art_12_13_Definition_of_State_and_Judicial_Review.prelims.md",
-  "smash_mains_notes_markdown_path": "Art_12_13_Definition_of_State_and_Judicial_Review.mains.md"
+  ]
 }

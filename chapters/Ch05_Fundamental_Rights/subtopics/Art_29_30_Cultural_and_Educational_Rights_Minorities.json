@@ -6,6 +6,9 @@
     "Article 29",
     "Article 30"
   ],
+  "subtopic_json": "subtopics/Art_29_30_Cultural_and_Educational_Rights_Minorities.json",
+  "prelims_notes_md": "notes/subtopics/Art_29_30_Cultural_and_Educational_Rights_Minorities_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Art_29_30_Cultural_and_Educational_Rights_Minorities_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_046.pdf",
     "pages/prelims/prelims_page_048.pdf",
@@ -21,7 +24,7 @@
       "question_id": "PRE_P047_Q7",
       "question_number": "Q7",
       "year": 2021,
-      "question_text": "'Right to Privacy' is protected under which Article of the Constitution of India? [2021]",
+      "question_text": "'Right to Privacy' is protected under which Article of the Constitution of India?",
       "options": {
         "a": "Article 15",
         "b": "Article 19",
@@ -37,14 +40,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 47,
-      "source_page_image": "pages/prelims/prelims_page_047.pdf",
-      "markdown_formatted": "**Q7 (2021)**: 'Right to Privacy' is protected under which Article of the Constitution of India? [2021]\n- (a) Article 15\n- (b) Article 19\n- (c) Article 21\n- (d) Article 29\n- **Answer**: `(c)` ([View Source Page 47](pages/prelims/prelims_page_047.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_047.pdf",
+      "source_page_md": "notes/pages/prelims_page_047.md"
     },
     {
       "question_id": "PRE_P048_Q10",
       "question_number": "Q10",
       "year": 2019,
-      "question_text": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice? [2019]",
+      "question_text": "Which Article of the Constitution of India safeguards one's right to marry the person of one's choice?",
       "options": {
         "a": "Article 19",
         "b": "Article 21",
@@ -60,14 +63,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q10 (2019)**: Which Article of the Constitution of India safeguards one's right to marry the person of one's choice? [2019]\n- (a) Article 19\n- (b) Article 21\n- (c) Article 25\n- (d) Article 29\n- **Answer**: `(b)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     },
     {
       "question_id": "PRE_P048_Q13",
       "question_number": "Q13",
       "year": 2011,
-      "question_text": "In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to? [2011] 1. It can establish and administer exclusive educational institutions. 2. The President of India automatically nominates a representative of the community to Lok Sabha. 3. It can derive benefits from the Prime Minister's 15-Point Programme. Which of the statements given above is/are correct?",
+      "question_text": "In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to? 1. It can establish and administer exclusive educational institutions. 2. The President of India automatically nominates a representative of the community to Lok Sabha. 3. It can derive benefits from the Prime Minister's 15-Point Programme. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 and 3 only",
@@ -78,8 +81,8 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 48,
-      "source_page_image": "pages/prelims/prelims_page_048.pdf",
-      "markdown_formatted": "**Q13 (2011)**: In India, if a religious sect/community is given the status of a national minority, what special advantages is it entitled to? [2011] 1. It can establish and administer exclusive educational institutions. 2. The President of India automatically nominates a representative of the community to Lok Sabha. 3. It can derive benefits from the Prime Minister's 15-Point Programme. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 and 3 only\n- (c) 1 and 3 only\n- (d) 1, 2 and 3\n- **Answer**: `(c)` ([View Source Page 48](pages/prelims/prelims_page_048.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_048.pdf",
+      "source_page_md": "notes/pages/prelims_page_048.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -93,8 +96,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2026]** Right to privacy relating to self-identity is very dear to every human being and well protected under Article 21 of the Constitution. In this context, examine the effect of the amendment in 2026, to the Transgender Persons (Protection of Rights) Act, 2019. (10M) ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     },
     {
       "question_id": "MAINS_P034_Q2",
@@ -106,8 +109,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2024]** Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the Constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     },
     {
       "question_id": "MAINS_P034_Q3",
@@ -119,36 +122,19 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2023]** \"The Constitution of India is a living instrument with capabilities of enormous dynamism. It is a constitution made for a progressive society\". Illustrate with special reference to the expanding horizons of the right to life and personal liberty. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     },
     {
       "question_id": "MAINS_P034_Q4",
       "year": 2022,
-      "marks": null,
-      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India.",
-      "related_articles": [
-        "Article 12"
-      ],
+      "marks": 10.0,
+      "question_text": "Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M)",
+      "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 34,
-      "source_page_image": "pages/mains/mains_page_034.pdf",
-      "markdown_formatted": "- **[2022]** Right of movement and residence throughout the territory of India are freely available to the Indian citizens, but these rights are not absolute. Comment (10M) Fundamental Rights Fundamental rights are a set of basic rights and freedoms that are considered essential for the protection of human dignity, liberty, and equality and are guaranteed to individuals by a constitution. FR are referred to as the \"Magna Carta\" of India and are delineated in Part III (Article 12 to 35). These rights are defended and guaranteed by the Supreme Court of India. ([View Mains Source Page 34](pages/mains/mains_page_034.pdf))"
-    },
-    {
-      "question_id": "MAINS_P065_Q5",
-      "year": 2021,
-      "marks": null,
-      "question_text": "Professionalisation of Management - Implement Vaidyanathan Committee recommendation for trained, full-time CEOs in cooperatives. 2. Autonomy and Accountability - Ensure political neutrality and audit transparency by enforcing Model Bye-Laws and MSCS Amendment Act, 2023. 3. Diversification Beyond Agriculture a. Promote cooperatives in logistics, green energy, healthcare, and urban services, as suggested by NITI Aayog (2021)",
-      "related_articles": [
-        "Article 19"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 65,
-      "source_page_image": "pages/mains/mains_page_065.pdf",
-      "markdown_formatted": "- **[2021]** Professionalisation of Management - Implement Vaidyanathan Committee recommendation for trained, full-time CEOs in cooperatives. 2. Autonomy and Accountability - Ensure political neutrality and audit transparency by enforcing Model Bye-Laws and MSCS Amendment Act, 2023. 3. Diversification Beyond Agriculture a. Promote cooperatives in logistics, green energy, healthcare, and urban services, as suggested by NITI Aayog (2021) ([View Mains Source Page 65](pages/mains/mains_page_065.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_034.pdf",
+      "source_page_md": "notes/pages/mains_page_034.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Art_29_30_Cultural_and_Educational_Rights_Minorities.prelims.md",
-  "smash_mains_notes_markdown_path": "Art_29_30_Cultural_and_Educational_Rights_Minorities.mains.md"
+  ]
 }

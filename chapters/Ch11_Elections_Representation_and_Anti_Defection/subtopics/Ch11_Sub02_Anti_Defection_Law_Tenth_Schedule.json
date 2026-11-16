@@ -9,6 +9,9 @@
     "Article 192",
     "Tenth Schedule"
   ],
+  "subtopic_json": "subtopics/Ch11_Sub02_Anti_Defection_Law_Tenth_Schedule.json",
+  "prelims_notes_md": "notes/subtopics/Ch11_Sub02_Anti_Defection_Law_Tenth_Schedule_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch11_Sub02_Anti_Defection_Law_Tenth_Schedule_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_161.pdf",
     "pages/prelims/prelims_page_162.pdf",
@@ -27,6 +30,7 @@
       "title": "Elections: Who Decides What (Disqualification & Disputes Matrix)",
       "source_type": "prelims",
       "source_page_number": 164,
+      "source_page_pdf": "pages/prelims/prelims_page_164.pdf",
       "source_page_image": "pages/prelims/prelims_page_164.pdf",
       "diagram_image_path": "diagrams/pre_diag_elections_who_decides_what_p164.png",
       "markdown_link": "![Elections: Who Decides What (Disqualification & Disputes Matrix)](diagrams/pre_diag_elections_who_decides_what_p164.png)",
@@ -44,6 +48,7 @@
       "title": "Criminalization of Politics: Politician-Criminal Nexus & 46% MPs Facing Criminal Charges",
       "source_type": "mains",
       "source_page_number": 148,
+      "source_page_pdf": "pages/mains/mains_page_148.pdf",
       "source_page_image": "pages/mains/mains_page_148.pdf",
       "diagram_image_path": "diagrams/mains_diag_criminalization_politics_p148.png",
       "markdown_link": "![Criminalization of Politics: Politician-Criminal Nexus & 46% MPs Facing Criminal Charges](diagrams/mains_diag_criminalization_politics_p148.png)",
@@ -58,6 +63,7 @@
       "title": "Evolution of the Party System in India Timeline",
       "source_type": "mains",
       "source_page_number": 158,
+      "source_page_pdf": "pages/mains/mains_page_158.pdf",
       "source_page_image": "pages/mains/mains_page_158.pdf",
       "diagram_image_path": "diagrams/mains_diag_party_system_evolution_p158.png",
       "markdown_link": "![Evolution of the Party System in India Timeline](diagrams/mains_diag_party_system_evolution_p158.png)",
@@ -72,7 +78,7 @@
       "question_id": "PRE_P152_Q1",
       "question_number": "Q1",
       "year": 2024,
-      "question_text": "How many Delimitation Commissions have been constituted by the Government of India till December 2023? [2024]",
+      "question_text": "How many Delimitation Commissions have been constituted by the Government of India till December 2023?",
       "options": {
         "a": "One",
         "b": "Two",
@@ -83,14 +89,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q1 (2024)**: How many Delimitation Commissions have been constituted by the Government of India till December 2023? [2024]\n- (a) One\n- (b) Two\n- (c) Three\n- (d) Four\n- **Answer**: `(d)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q2",
       "question_number": "Q2",
       "year": 2021,
-      "question_text": "Consider the following statements: [2021] 1. In India, there is no law restricting candidates from contesting in one Lok Sabha election from three constituencies. 2. In the 1991 Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies. 3. As per the existing rules, if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of bye-elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. In India, there is no law restricting candidates from contesting in one Lok Sabha election from three constituencies. 2. In the 1991 Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies. 3. As per the existing rules, if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of bye-elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -101,14 +107,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q2 (2021)**: Consider the following statements: [2021] 1. In India, there is no law restricting candidates from contesting in one Lok Sabha election from three constituencies. 2. In the 1991 Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies. 3. As per the existing rules, if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of bye-elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) 1 and 3\n- (d) 2 and 3\n- **Answer**: `(b)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q3",
       "question_number": "Q3",
       "year": 2020,
-      "question_text": "Consider the following statements: [2020] 1. According to the Constitution of India, a person who is eligible to vote can be made a minister in a State for six months even if he/she is not a member of the Legislature of that State. 2. According to the Representation of People Act, 1951, a person convicted of a criminal offence and sentenced to imprisonment for five years is permanently disqualified from contesting an election even after his release from prison. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. According to the Constitution of India, a person who is eligible to vote can be made a minister in a State for six months even if he/she is not a member of the Legislature of that State. 2. According to the Representation of People Act, 1951, a person convicted of a criminal offence and sentenced to imprisonment for five years is permanently disqualified from contesting an election even after his release from prison. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -119,14 +125,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q3 (2020)**: Consider the following statements: [2020] 1. According to the Constitution of India, a person who is eligible to vote can be made a minister in a State for six months even if he/she is not a member of the Legislature of that State. 2. According to the Representation of People Act, 1951, a person convicted of a criminal offence and sentenced to imprisonment for five years is permanently disqualified from contesting an election even after his release from prison. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q4",
       "question_number": "Q4",
       "year": 2017,
-      "question_text": "For election to the Lok Sabha, a nomination paper can be filed by [2017]",
+      "question_text": "For election to the Lok Sabha, a nomination paper can be filed by",
       "options": {
         "a": "Anyone residing in India.",
         "b": "A resident of the constituency from which the election is to be contested.",
@@ -137,14 +143,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q4 (2017)**: For election to the Lok Sabha, a nomination paper can be filed by [2017]\n- (a) Anyone residing in India.\n- (b) A resident of the constituency from which the election is to be contested.\n- (c) Any citizen of India whose name appears in the electoral roll of a constituency.\n- (d) Any citizen of India.\n- **Answer**: `(c)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q5",
       "question_number": "Q5",
       "year": 2017,
-      "question_text": "Right to vote and to be elected in India is a [2017]",
+      "question_text": "Right to vote and to be elected in India is a",
       "options": {
         "a": "Fundamental Right",
         "b": "Natural Right",
@@ -155,25 +161,70 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q5 (2017)**: Right to vote and to be elected in India is a [2017]\n- (a) Fundamental Right\n- (b) Natural Right\n- (c) Constitutional Right\n- (d) Legal Right\n- **Answer**: `(c)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     }
   ],
   "relevant_mains_pyqs": [
     {
-      "question_id": "MAINS_P166_Q12",
-      "year": 2024,
-      "marks": null,
-      "question_text": "25, the BJP received 83% of all donations made through Electoral Trusts. 10. Foreign Influence Risks: Retroactive FCRA amendments allow foreign-owned Indian subsidiaries to fund parties, risking national sovereignty. 11. Inadequate Audit Mechanism: Parties choose their own private auditors, leading to potential \"friendly audits\" and lack of rigor. Way Forward: 1. ECI has suggested that parties should be made to disclose contributions received in cash for smaller sums in case they exceed 20% of total funds raised. 2. Lower Disclosure Threshold: Reduce the anonymous donation limit from ₹20,000 to ₹2,000. 3. Real-time Digital Disclosure: Use the IEMS portal (2026) to mandate uploading of every donation over ₹2,000 within 48 hours. 4. Cap on Party Expenditure: Amend the RPA, 1951 to impose a statutory limit on total party spending (Law Commission 255th Report). 5. Partial State Funding (In-Kind): Provide facilities like fuel, airtime, and paper instead of cash to parties (Indrajit Gupta Committee). 6. National Election Fund: Establish a central pool where corporates donate; the ECI then distributes funds based on vote share. 7. CAG-Approved Audits: Mandate that all political party accounts be audited by a panel of auditors approved by the CAG. 8. Global Best Practice (Germany): Adopt the \"Parteienfinanzierung\" model where public funds are allocated based on verified vote shares. 9. Re-implement the cap on corporate donations to prevent \"shell company\" influence. 10. Bring political parties formally under the RTI for all financial and donor-related queries. 11. Enforce Campaign Expenditure Limits a. Monitor actual spending on social media ads, surrogate advertising, influencers etc. b. Link expenditure data to election affidavits and IT returns One Nation One Election ONOE refers to the proposal to synchronize the timing of all elections in India to occur within a single timeframe or cycle. History of ONOE 1. Simultaneous elections were the norm in India for the first four general election cycles (1952, 1957, 1962, and 1967). 2. The cycle was broken due to the premature dissolution of several State Assemblies in 1968 and 1969, followed by the dissolution of the Lok Sabha in 1970 and fresh polls in 1971. 3. The Law Commission (170th Report, 1999) and the Parliamentary Standing Committee (2015) strongly advocated for returning to simultaneous polls to ensure governance stability. Key Benefits of One Nation One Election 1. Reduced Financial Burden for the exchequer - costs of logistics, polling staff, and security. 2. Continuity in Governance: Prevents \"policy paralysis\" caused by the frequent imposition of the Model Code of Conduct (MCC). 168",
+      "question_id": "MAINS_P140_Q1",
+      "year": 2026,
+      "marks": 10.0,
+      "question_text": "Is the right to vote a fundamental right? Discuss the position of the Election Commission of India while undertaking the revision of electoral rolls. Can it also examine the question of citizenship of voters? (10)",
       "related_articles": [
-        "Article 148"
+        "Article 324",
+        "Article 5"
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 166,
-      "source_page_image": "pages/mains/mains_page_166.pdf",
-      "markdown_formatted": "- **[2024]** 25, the BJP received 83% of all donations made through Electoral Trusts. 10. Foreign Influence Risks: Retroactive FCRA amendments allow foreign-owned Indian subsidiaries to fund parties, risking national sovereignty. 11. Inadequate Audit Mechanism: Parties choose their own private auditors, leading to potential \"friendly audits\" and lack of rigor. Way Forward: 1. ECI has suggested that parties should be made to disclose contributions received in cash for smaller sums in case they exceed 20% of total funds raised. 2. Lower Disclosure Threshold: Reduce the anonymous donation limit from ₹20,000 to ₹2,000. 3. Real-time Digital Disclosure: Use the IEMS portal (2026) to mandate uploading of every donation over ₹2,000 within 48 hours. 4. Cap on Party Expenditure: Amend the RPA, 1951 to impose a statutory limit on total party spending (Law Commission 255th Report). 5. Partial State Funding (In-Kind): Provide facilities like fuel, airtime, and paper instead of cash to parties (Indrajit Gupta Committee). 6. National Election Fund: Establish a central pool where corporates donate; the ECI then distributes funds based on vote share. 7. CAG-Approved Audits: Mandate that all political party accounts be audited by a panel of auditors approved by the CAG. 8. Global Best Practice (Germany): Adopt the \"Parteienfinanzierung\" model where public funds are allocated based on verified vote shares. 9. Re-implement the cap on corporate donations to prevent \"shell company\" influence. 10. Bring political parties formally under the RTI for all financial and donor-related queries. 11. Enforce Campaign Expenditure Limits a. Monitor actual spending on social media ads, surrogate advertising, influencers etc. b. Link expenditure data to election affidavits and IT returns One Nation One Election ONOE refers to the proposal to synchronize the timing of all elections in India to occur within a single timeframe or cycle. History of ONOE 1. Simultaneous elections were the norm in India for the first four general election cycles (1952, 1957, 1962, and 1967). 2. The cycle was broken due to the premature dissolution of several State Assemblies in 1968 and 1969, followed by the dissolution of the Lok Sabha in 1970 and fresh polls in 1971. 3. The Law Commission (170th Report, 1999) and the Parliamentary Standing Committee (2015) strongly advocated for returning to simultaneous polls to ensure governance stability. Key Benefits of One Nation One Election 1. Reduced Financial Burden for the exchequer - costs of logistics, polling staff, and security. 2. Continuity in Governance: Prevents \"policy paralysis\" caused by the frequent imposition of the Model Code of Conduct (MCC). 168 ([View Mains Source Page 166](pages/mains/mains_page_166.pdf))"
+      "source_page_number": 140,
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
+    },
+    {
+      "question_id": "MAINS_P140_Q2",
+      "year": 2025,
+      "marks": 10.0,
+      "question_text": "Discuss the ‘corrupt practices’ for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/ or their associates, disproportionate to their known sources of income, would constitute ‘undue influence’ and consequently a corrupt practice. (10)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 140,
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
+    },
+    {
+      "question_id": "MAINS_P140_Q3",
+      "year": 2024,
+      "marks": 10.0,
+      "question_text": "Examine the need for electoral reforms as suggested by various committees with particular reference to \"one nation -one election\" principle. (10)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 140,
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
+    },
+    {
+      "question_id": "MAINS_P140_Q4",
+      "year": 2022,
+      "marks": 15.0,
+      "question_text": "Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws. (15)",
+      "related_articles": [],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 140,
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
+    },
+    {
+      "question_id": "MAINS_P140_Q5",
+      "year": 2022,
+      "marks": null,
+      "question_text": "Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct.",
+      "related_articles": [
+        "Article 324"
+      ],
+      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
+      "source_page_number": 140,
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch11_Sub02_Anti_Defection_Law_Tenth_Schedule.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch11_Sub02_Anti_Defection_Law_Tenth_Schedule.mains.md"
+  ]
 }

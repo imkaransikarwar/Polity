@@ -7,6 +7,9 @@
     "Article 323A",
     "Article 323B"
   ],
+  "subtopic_json": "subtopics/Ch09_Sub02_Tribunals_ADR_Lok_Adalats_Gram_Nyayalayas_Legal_Aid.json",
+  "prelims_notes_md": "notes/subtopics/Ch09_Sub02_Tribunals_ADR_Lok_Adalats_Gram_Nyayalayas_Legal_Aid_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch09_Sub02_Tribunals_ADR_Lok_Adalats_Gram_Nyayalayas_Legal_Aid_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_133.pdf",
     "pages/prelims/prelims_page_134.pdf",
@@ -29,6 +32,7 @@
       "title": "Justice Jammed: Pending Trials Before Top Tribunals in India",
       "source_type": "mains",
       "source_page_number": 190,
+      "source_page_pdf": "pages/mains/mains_page_190.pdf",
       "source_page_image": "pages/mains/mains_page_190.pdf",
       "diagram_image_path": "diagrams/mains_diag_tribunals_pendency_p190.png",
       "markdown_link": "![Justice Jammed: Pending Trials Before Top Tribunals in India](diagrams/mains_diag_tribunals_pendency_p190.png)",
@@ -43,7 +47,7 @@
       "question_id": "PRE_P134_Q1",
       "question_number": "Q1",
       "year": 2026,
-      "question_text": "Which of the following statements about a Zero First Information Report (Zero FIR) under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 is/are correct? [2026] 1. A Zero FIR can be lodged at a police station, even though the place of commission of a cognizable/non-cognizable offence is outside the territorial jurisdiction of that police station. 2. The Officer in Charge of the police station where a Zero FIR has been lodged may, with the permission of the competent authority, initiate a preliminary enquiry. 3. Under Zero FIR, it is obligatory for the informant to furnish information electronically. Select the answer using the code given below:",
+      "question_text": "Which of the following statements about a Zero First Information Report (Zero FIR) under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 is/are correct? 1. A Zero FIR can be lodged at a police station, even though the place of commission of a cognizable/non-cognizable offence is outside the territorial jurisdiction of that police station. 2. The Officer in Charge of the police station where a Zero FIR has been lodged may, with the permission of the competent authority, initiate a preliminary enquiry. 3. Under Zero FIR, it is obligatory for the informant to furnish information electronically. Select the answer using the code given below:",
       "options": {
         "a": "1, 2 and 3",
         "b": "2 and 3 only",
@@ -54,14 +58,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 134,
-      "source_page_image": "pages/prelims/prelims_page_134.pdf",
-      "markdown_formatted": "**Q1 (2026)**: Which of the following statements about a Zero First Information Report (Zero FIR) under the Bharatiya Nagarik Suraksha Sanhita (BNSS), 2023 is/are correct? [2026] 1. A Zero FIR can be lodged at a police station, even though the place of commission of a cognizable/non-cognizable offence is outside the territorial jurisdiction of that police station. 2. The Officer in Charge of the police station where a Zero FIR has been lodged may, with the permission of the competent authority, initiate a preliminary enquiry. 3. Under Zero FIR, it is obligatory for the informant to furnish information electronically. Select the answer using the code given below:\n- (a) 1, 2 and 3\n- (b) 2 and 3 only\n- (c) 1 only\n- (d) 2 only\n- **Answer**: `(d)` ([View Source Page 134](pages/prelims/prelims_page_134.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_134.pdf",
+      "source_page_md": "notes/pages/prelims_page_134.md"
     },
     {
       "question_id": "PRE_P134_Q3",
       "question_number": "Q3",
       "year": 2016,
-      "question_text": "With reference to the 'Gram Nyayalaya Act', which of the following statements is/are correct? [2016] 1. As per the Act, Gram Nyayalayas can hear only civil cases and not criminal cases. 2. The Act allows local social activists as mediators/ reconciliators. SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW:",
+      "question_text": "With reference to the 'Gram Nyayalaya Act', which of the following statements is/are correct? 1. As per the Act, Gram Nyayalayas can hear only civil cases and not criminal cases. 2. The Act allows local social activists as mediators/ reconciliators. SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW:",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -72,14 +76,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 134,
-      "source_page_image": "pages/prelims/prelims_page_134.pdf",
-      "markdown_formatted": "**Q3 (2016)**: With reference to the 'Gram Nyayalaya Act', which of the following statements is/are correct? [2016] 1. As per the Act, Gram Nyayalayas can hear only civil cases and not criminal cases. 2. The Act allows local social activists as mediators/ reconciliators. SELECT THE CORRECT ANSWER USING THE CODE GIVEN BELOW:\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 134](pages/prelims/prelims_page_134.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_134.pdf",
+      "source_page_md": "notes/pages/prelims_page_134.md"
     },
     {
       "question_id": "PRE_P134_Q4",
       "question_number": "Q4",
       "year": 2013,
-      "question_text": "With reference to National Legal Services Authority, consider the following statements : [2013] 1. Its objective is to provide free and competent legal services to the weaker sections of the society on the basis of equal opportunity. 2. It issues guidelines for the State Legal Services Authorities to implement the legal programmes and schemes throughout the country. Which of the statements given above is/are correct?",
+      "question_text": "With reference to National Legal Services Authority, consider the following statements : 1. Its objective is to provide free and competent legal services to the weaker sections of the society on the basis of equal opportunity. 2. It issues guidelines for the State Legal Services Authorities to implement the legal programmes and schemes throughout the country. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -90,14 +94,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 134,
-      "source_page_image": "pages/prelims/prelims_page_134.pdf",
-      "markdown_formatted": "**Q4 (2013)**: With reference to National Legal Services Authority, consider the following statements : [2013] 1. Its objective is to provide free and competent legal services to the weaker sections of the society on the basis of equal opportunity. 2. It issues guidelines for the State Legal Services Authorities to implement the legal programmes and schemes throughout the country. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(c)` ([View Source Page 134](pages/prelims/prelims_page_134.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_134.pdf",
+      "source_page_md": "notes/pages/prelims_page_134.md"
     },
     {
       "question_id": "PRE_P134_Q5",
       "question_number": "Q5",
       "year": 2010,
-      "question_text": "With reference to Lok Adalats, which of the following statements is correct ? [2010]",
+      "question_text": "With reference to Lok Adalats, which of the following statements is correct ?",
       "options": {
         "a": "Lok Adalats have the jurisdiction to settle matters at pre-litigating stage and not those matters pending before any court",
         "b": "Lok Adalats can deal with matters which are civil and not criminal in nature.",
@@ -108,14 +112,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 134,
-      "source_page_image": "pages/prelims/prelims_page_134.pdf",
-      "markdown_formatted": "**Q5 (2010)**: With reference to Lok Adalats, which of the following statements is correct ? [2010]\n- (a) Lok Adalats have the jurisdiction to settle matters at pre-litigating stage and not those matters pending before any court\n- (b) Lok Adalats can deal with matters which are civil and not criminal in nature.\n- (c) Every Lok Adalat consists of either serving or retired judicial officers only and not any other person.\n- (d) None of the statements given above is correct.\n- **Answer**: `(d)` ([View Source Page 134](pages/prelims/prelims_page_134.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_134.pdf",
+      "source_page_md": "notes/pages/prelims_page_134.md"
     },
     {
       "question_id": "PRE_P134_Q6",
       "question_number": "Q6",
       "year": 2009,
-      "question_text": "Consider the following statements : [2009] 1. Central Administrative Tribunal (CAT) was set up during the Prime Ministership of Lal Bahadur Shastri. 2. The Members for CAT are drawn from both judicial and administrative streams. Which of the statements given above is/are correct ?",
+      "question_text": "Consider the following statements : 1. Central Administrative Tribunal (CAT) was set up during the Prime Ministership of Lal Bahadur Shastri. 2. The Members for CAT are drawn from both judicial and administrative streams. Which of the statements given above is/are correct ?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -128,14 +132,14 @@
       ],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 134,
-      "source_page_image": "pages/prelims/prelims_page_134.pdf",
-      "markdown_formatted": "**Q6 (2009)**: Consider the following statements : [2009] 1. Central Administrative Tribunal (CAT) was set up during the Prime Ministership of Lal Bahadur Shastri. 2. The Members for CAT are drawn from both judicial and administrative streams. Which of the statements given above is/are correct ?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 134](pages/prelims/prelims_page_134.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_134.pdf",
+      "source_page_md": "notes/pages/prelims_page_134.md"
     },
     {
       "question_id": "PRE_P135_Q7",
       "question_number": "Q7",
       "year": 2009,
-      "question_text": "With reference to Lok Adalats, consider the following statements: [2009] 1. An award made by a Lok Adalat is deemed to be a degree of a civil court and no appeal lies against thereto before any court. 2. Matrimonial/Family disputes are not covered under Lok Adalat. Which of the statements given above is/are correct?",
+      "question_text": "With reference to Lok Adalats, consider the following statements: 1. An award made by a Lok Adalat is deemed to be a degree of a civil court and no appeal lies against thereto before any court. 2. Matrimonial/Family disputes are not covered under Lok Adalat. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -143,19 +147,11 @@
         "d": "Neither 1 nor 2"
       },
       "correct_option": "a",
-      "related_articles": [
-        "Article 13",
-        "Article 227",
-        "Article 243",
-        "Article 32",
-        "Article 323A",
-        "Article 323B",
-        "Article 368"
-      ],
+      "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 135,
-      "source_page_image": "pages/prelims/prelims_page_135.pdf",
-      "markdown_formatted": "**Q7 (2009)**: With reference to Lok Adalats, consider the following statements: [2009] 1. An award made by a Lok Adalat is deemed to be a degree of a civil court and no appeal lies against thereto before any court. 2. Matrimonial/Family disputes are not covered under Lok Adalat. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(a)` ([View Source Page 135](pages/prelims/prelims_page_135.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_135.pdf",
+      "source_page_md": "notes/pages/prelims_page_135.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -170,8 +166,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2015]** What are the major changes brought in the Arbitration and Conciliation Act, 1996 through the recent Ordinance promulgated by the President? How far will it improve India's dispute resolution mechanism? Discuss(12.5) ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q4",
@@ -183,8 +179,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2016]** What is a quasi-judicial body? Explain with the help of concrete examples. (12.5) ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q6",
@@ -196,8 +192,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2019]** \"The Central Administration Tribunal which was established for redressal of grievances and complaints by or against central government employees, nowadays is exercising its powers as an independent judicial authority.\" Explain.(10) ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q7",
@@ -209,8 +205,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2018]** How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India. (15) ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
       "question_id": "MAINS_P169_Q13",
@@ -223,11 +219,11 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 169,
-      "source_page_image": "pages/mains/mains_page_169.pdf",
-      "markdown_formatted": "- **[2024]** Explain and distinguish between Lok Adalats And Arbitration Tribunals. Whether they entertain civil as well as criminal cases? (10) ([View Mains Source Page 169](pages/mains/mains_page_169.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_169.pdf",
+      "source_page_md": "notes/pages/mains_page_169.md"
     },
     {
-      "question_id": "MAINS_P170_Q15",
+      "question_id": "MAINS_P170_Q1",
       "year": 2025,
       "marks": 10.0,
       "question_text": "Comment on the need of administrative tribunals as compared to the court system. Assess the impact of the recent tribunal reforms through rationalization of tribunals made in 2021. (10)",
@@ -236,21 +232,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 170,
-      "source_page_image": "pages/mains/mains_page_170.pdf",
-      "markdown_formatted": "- **[2025]** Comment on the need of administrative tribunals as compared to the court system. Assess the impact of the recent tribunal reforms through rationalization of tribunals made in 2021. (10) ([View Mains Source Page 170](pages/mains/mains_page_170.pdf))"
-    },
-    {
-      "question_id": "MAINS_P191_Q19",
-      "year": 1997,
-      "marks": null,
-      "question_text": "Madras Bar Association v. Union of India (2021): Selection committees must have \"judicial dominance\" to protect Separation of Powers 3. L. Chandra Kumar v. Union of India (1997)",
-      "related_articles": [],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 191,
-      "source_page_image": "pages/mains/mains_page_191.pdf",
-      "markdown_formatted": "- **[1997]** Madras Bar Association v. Union of India (2021): Selection committees must have \"judicial dominance\" to protect Separation of Powers 3. L. Chandra Kumar v. Union of India (1997) ([View Mains Source Page 191](pages/mains/mains_page_191.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_170.pdf",
+      "source_page_md": "notes/pages/mains_page_170.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch09_Sub02_Tribunals_ADR_Lok_Adalats_Gram_Nyayalayas_Legal_Aid.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch09_Sub02_Tribunals_ADR_Lok_Adalats_Gram_Nyayalayas_Legal_Aid.mains.md"
+  ]
 }

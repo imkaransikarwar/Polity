@@ -1,0 +1,11 @@
+### [Prelims Source Page 85](../../pages/prelims/prelims_page_085.pdf)
+
+### [Prelims Source Page 85](../../pages/prelims/prelims_page_085.pdf)
+
+| ATTRIBUTE | Lok Sabha | State Legislative Assembly | Rajya Sabha | State Legislative Council |
+| --- | --- | --- | --- | --- |
+| [PRELIMS 2024] | — | — | — | — |
+| Deputy presiding officer [PRELIMS 2022] | **1.** Art 93 requires one but prescribes no time limit, which is how the office stays vacant through the whole 17th Lok Sabha, 2019 to 2024.<br>**2.** Elected on a date the Speaker fixes (Rule 8).<br>**3.** There is no mandatory rule that he comes from the Opposition or from the ruling party.<br>**4.** When presiding he has the same powers as the Speaker and no appeal lies against his rulings.<br>**5.** By practice he chairs any committee he is appointed to.<br>**6.** Resigns in writing to the Speaker | Arts 178 and 180(1), same scheme | The Deputy Chairman is a member of the House, elected by it | Deputy Chairman elected by the Council |
+| Qualifications | Citizen of India, oath before a person authorised by the Election Commission, and not less than 25 years of age (Art 84) | Not less than 25 years (Art 173) | **1.** Not less than 30 years (Art 84(b)).<br>**2.** The requirement to be an elector of the State represented was removed in 2003 and upheld, with the open ballot, in Kuldip Nayar, 2006 | Not less than 30 years (Art 173(b)) |
+| Vacation of seat and who decides a disqualification | **1.** Art 101: no person may sit in both Houses, or in Parliament and a State Legislature, at once; 2. a seat falls vacant on 60 days absence without leave.<br>**3.** Art 103: the question is referred to the President, who acts according to the opinion of the Election Commission, not on ministerial advice.<br>**4.** Tenth Schedule cases fall outside Art 103 | Arts 190 and 192: decided by the Governor on the opinion of the Election Commission | Same as the Lok Sabha | Same as the Assembly |
+| Quorum, voting and the casting vote | **1.** Art 100(3): quorum is one tenth, so 55.<br>**2.** Art 100(1): questions determined by a majority of members present and voting; | Art 189: quorum is ten members or one tenth, whichever is greater, so a | Quorum 25. The Chairman likewise has only a casting vote | Quorum ten or one tenth, whichever is greater |

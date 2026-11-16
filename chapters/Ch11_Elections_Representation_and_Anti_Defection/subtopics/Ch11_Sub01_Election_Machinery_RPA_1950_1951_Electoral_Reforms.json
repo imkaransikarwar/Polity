@@ -12,6 +12,9 @@
     "RPA 1950",
     "RPA 1951"
   ],
+  "subtopic_json": "subtopics/Ch11_Sub01_Election_Machinery_RPA_1950_1951_Electoral_Reforms.json",
+  "prelims_notes_md": "notes/subtopics/Ch11_Sub01_Election_Machinery_RPA_1950_1951_Electoral_Reforms_prelims_notes.md",
+  "smash_mains_notes_md": "notes/subtopics/Ch11_Sub01_Election_Machinery_RPA_1950_1951_Electoral_Reforms_smash_mains_notes.md",
   "prelims_source_pages": [
     "pages/prelims/prelims_page_151.pdf",
     "pages/prelims/prelims_page_152.pdf",
@@ -59,6 +62,7 @@
       "title": "Elections: Who Decides What (Disqualification & Disputes Matrix)",
       "source_type": "prelims",
       "source_page_number": 164,
+      "source_page_pdf": "pages/prelims/prelims_page_164.pdf",
       "source_page_image": "pages/prelims/prelims_page_164.pdf",
       "diagram_image_path": "diagrams/pre_diag_elections_who_decides_what_p164.png",
       "markdown_link": "![Elections: Who Decides What (Disqualification & Disputes Matrix)](diagrams/pre_diag_elections_who_decides_what_p164.png)",
@@ -76,6 +80,7 @@
       "title": "Criminalization of Politics: Politician-Criminal Nexus & 46% MPs Facing Criminal Charges",
       "source_type": "mains",
       "source_page_number": 148,
+      "source_page_pdf": "pages/mains/mains_page_148.pdf",
       "source_page_image": "pages/mains/mains_page_148.pdf",
       "diagram_image_path": "diagrams/mains_diag_criminalization_politics_p148.png",
       "markdown_link": "![Criminalization of Politics: Politician-Criminal Nexus & 46% MPs Facing Criminal Charges](diagrams/mains_diag_criminalization_politics_p148.png)",
@@ -90,6 +95,7 @@
       "title": "Evolution of the Party System in India Timeline",
       "source_type": "mains",
       "source_page_number": 158,
+      "source_page_pdf": "pages/mains/mains_page_158.pdf",
       "source_page_image": "pages/mains/mains_page_158.pdf",
       "diagram_image_path": "diagrams/mains_diag_party_system_evolution_p158.png",
       "markdown_link": "![Evolution of the Party System in India Timeline](diagrams/mains_diag_party_system_evolution_p158.png)",
@@ -104,7 +110,7 @@
       "question_id": "PRE_P152_Q1",
       "question_number": "Q1",
       "year": 2024,
-      "question_text": "How many Delimitation Commissions have been constituted by the Government of India till December 2023? [2024]",
+      "question_text": "How many Delimitation Commissions have been constituted by the Government of India till December 2023?",
       "options": {
         "a": "One",
         "b": "Two",
@@ -115,14 +121,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q1 (2024)**: How many Delimitation Commissions have been constituted by the Government of India till December 2023? [2024]\n- (a) One\n- (b) Two\n- (c) Three\n- (d) Four\n- **Answer**: `(d)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q2",
       "question_number": "Q2",
       "year": 2021,
-      "question_text": "Consider the following statements: [2021] 1. In India, there is no law restricting candidates from contesting in one Lok Sabha election from three constituencies. 2. In the 1991 Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies. 3. As per the existing rules, if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of bye-elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. In India, there is no law restricting candidates from contesting in one Lok Sabha election from three constituencies. 2. In the 1991 Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies. 3. As per the existing rules, if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of bye-elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -133,14 +139,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q2 (2021)**: Consider the following statements: [2021] 1. In India, there is no law restricting candidates from contesting in one Lok Sabha election from three constituencies. 2. In the 1991 Lok Sabha Election, Shri Devi Lal contested from three Lok Sabha constituencies. 3. As per the existing rules, if a candidate contests in one Lok Sabha election from many constituencies, his/her party should bear the cost of bye-elections to the constituencies vacated by him/her in the event of him/her winning in all the constituencies. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) 1 and 3\n- (d) 2 and 3\n- **Answer**: `(b)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q3",
       "question_number": "Q3",
       "year": 2020,
-      "question_text": "Consider the following statements: [2020] 1. According to the Constitution of India, a person who is eligible to vote can be made a minister in a State for six months even if he/she is not a member of the Legislature of that State. 2. According to the Representation of People Act, 1951, a person convicted of a criminal offence and sentenced to imprisonment for five years is permanently disqualified from contesting an election even after his release from prison. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. According to the Constitution of India, a person who is eligible to vote can be made a minister in a State for six months even if he/she is not a member of the Legislature of that State. 2. According to the Representation of People Act, 1951, a person convicted of a criminal offence and sentenced to imprisonment for five years is permanently disqualified from contesting an election even after his release from prison. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -151,14 +157,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q3 (2020)**: Consider the following statements: [2020] 1. According to the Constitution of India, a person who is eligible to vote can be made a minister in a State for six months even if he/she is not a member of the Legislature of that State. 2. According to the Representation of People Act, 1951, a person convicted of a criminal offence and sentenced to imprisonment for five years is permanently disqualified from contesting an election even after his release from prison. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q4",
       "question_number": "Q4",
       "year": 2017,
-      "question_text": "For election to the Lok Sabha, a nomination paper can be filed by [2017]",
+      "question_text": "For election to the Lok Sabha, a nomination paper can be filed by",
       "options": {
         "a": "Anyone residing in India.",
         "b": "A resident of the constituency from which the election is to be contested.",
@@ -169,14 +175,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q4 (2017)**: For election to the Lok Sabha, a nomination paper can be filed by [2017]\n- (a) Anyone residing in India.\n- (b) A resident of the constituency from which the election is to be contested.\n- (c) Any citizen of India whose name appears in the electoral roll of a constituency.\n- (d) Any citizen of India.\n- **Answer**: `(c)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q5",
       "question_number": "Q5",
       "year": 2017,
-      "question_text": "Right to vote and to be elected in India is a [2017]",
+      "question_text": "Right to vote and to be elected in India is a",
       "options": {
         "a": "Fundamental Right",
         "b": "Natural Right",
@@ -187,14 +193,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q5 (2017)**: Right to vote and to be elected in India is a [2017]\n- (a) Fundamental Right\n- (b) Natural Right\n- (c) Constitutional Right\n- (d) Legal Right\n- **Answer**: `(c)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q6",
       "question_number": "Q6",
       "year": 2017,
-      "question_text": "Consider the following statements: [2017] 1. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 percent of the votes polled, to be declared elected. 2. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker's post goes to the majority party and the Deputy Speaker's to the Opposition. Which of the statements given above is/are correct?",
+      "question_text": "Consider the following statements: 1. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 percent of the votes polled, to be declared elected. 2. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker's post goes to the majority party and the Deputy Speaker's to the Opposition. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -205,14 +211,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q6 (2017)**: Consider the following statements: [2017] 1. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 percent of the votes polled, to be declared elected. 2. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker's post goes to the majority party and the Deputy Speaker's to the Opposition. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(d)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P152_Q7",
       "question_number": "Q7",
       "year": 2012,
-      "question_text": "With reference to the Delimitation Commission, consider the following statements: [2012] 1. The orders of the Delimitation Commission cannot be challenged in a Court of Law. 2. When the orders of the Delimitation Commission are laid before the Lok Sabha or State Legislative Assembly, they cannot effect any modifications in the orders. Which of the statements given above is/are correct?",
+      "question_text": "With reference to the Delimitation Commission, consider the following statements: 1. The orders of the Delimitation Commission cannot be challenged in a Court of Law. 2. When the orders of the Delimitation Commission are laid before the Lok Sabha or State Legislative Assembly, they cannot effect any modifications in the orders. Which of the statements given above is/are correct?",
       "options": {
         "a": "1 only",
         "b": "2 only",
@@ -223,14 +229,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 152,
-      "source_page_image": "pages/prelims/prelims_page_152.pdf",
-      "markdown_formatted": "**Q7 (2012)**: With reference to the Delimitation Commission, consider the following statements: [2012] 1. The orders of the Delimitation Commission cannot be challenged in a Court of Law. 2. When the orders of the Delimitation Commission are laid before the Lok Sabha or State Legislative Assembly, they cannot effect any modifications in the orders. Which of the statements given above is/are correct?\n- (a) 1 only\n- (b) 2 only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(c)` ([View Source Page 152](pages/prelims/prelims_page_152.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_152.pdf",
+      "source_page_md": "notes/pages/prelims_page_152.md"
     },
     {
       "question_id": "PRE_P153_Q8",
       "question_number": "Q8",
       "year": 2008,
-      "question_text": "Which one of the following is the largest (area wise) Lok Sabha constituency? [2008]",
+      "question_text": "Which one of the following is the largest (area wise) Lok Sabha constituency?",
       "options": {
         "a": "Kangra",
         "b": "Ladakh",
@@ -241,14 +247,14 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 153,
-      "source_page_image": "pages/prelims/prelims_page_153.pdf",
-      "markdown_formatted": "**Q8 (2008)**: Which one of the following is the largest (area wise) Lok Sabha constituency? [2008]\n- (a) Kangra\n- (b) Ladakh\n- (c) Kachchh\n- (d) Bhilwara\n- **Answer**: `(b)` ([View Source Page 153](pages/prelims/prelims_page_153.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_153.pdf",
+      "source_page_md": "notes/pages/prelims_page_153.md"
     },
     {
       "question_id": "PRE_P153_Q9",
       "question_number": "Q9",
       "year": 2008,
-      "question_text": "Consider the following statements: [2008] 1. The Legislative Assembly of each State shall consist of not more than 450 members chosen by direct election from territorial constituencies in the State. 2. A person shall not be qualified to be chosen to fill a seat in the Legislative Assembly of a State if he/she is less than 25 years of age.",
+      "question_text": "Consider the following statements: 1. The Legislative Assembly of each State shall consist of not more than 450 members chosen by direct election from territorial constituencies in the State. 2. A person shall not be qualified to be chosen to fill a seat in the Legislative Assembly of a State if he/she is less than 25 years of age.",
       "options": {
         "a": "1 Only",
         "b": "2 Only",
@@ -259,8 +265,8 @@
       "related_articles": [],
       "source_pdf": "X-Factor Prelims- Indian Polity for Pre'2027.pdf",
       "source_page_number": 153,
-      "source_page_image": "pages/prelims/prelims_page_153.pdf",
-      "markdown_formatted": "**Q9 (2008)**: Consider the following statements: [2008] 1. The Legislative Assembly of each State shall consist of not more than 450 members chosen by direct election from territorial constituencies in the State. 2. A person shall not be qualified to be chosen to fill a seat in the Legislative Assembly of a State if he/she is less than 25 years of age.\n- (a) 1 Only\n- (b) 2 Only\n- (c) Both 1 and 2\n- (d) Neither 1 nor 2\n- **Answer**: `(b)` ([View Source Page 153](pages/prelims/prelims_page_153.pdf))"
+      "source_page_pdf": "pages/prelims/prelims_page_153.pdf",
+      "source_page_md": "notes/pages/prelims_page_153.md"
     }
   ],
   "relevant_mains_pyqs": [
@@ -275,8 +281,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/mains/mains_page_140.pdf",
-      "markdown_formatted": "- **[2026]** Is the right to vote a fundamental right? Discuss the position of the Election Commission of India while undertaking the revision of electoral rolls. Can it also examine the question of citizenship of voters? (10) ([View Mains Source Page 140](pages/mains/mains_page_140.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     },
     {
       "question_id": "MAINS_P140_Q2",
@@ -286,8 +292,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/mains/mains_page_140.pdf",
-      "markdown_formatted": "- **[2025]** Discuss the ‘corrupt practices’ for the purpose of the Representation of the People Act, 1951. Analyze whether the increase in the assets of the legislators and/ or their associates, disproportionate to their known sources of income, would constitute ‘undue influence’ and consequently a corrupt practice. (10) ([View Mains Source Page 140](pages/mains/mains_page_140.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     },
     {
       "question_id": "MAINS_P140_Q3",
@@ -297,8 +303,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/mains/mains_page_140.pdf",
-      "markdown_formatted": "- **[2024]** Examine the need for electoral reforms as suggested by various committees with particular reference to \"one nation -one election\" principle. (10) ([View Mains Source Page 140](pages/mains/mains_page_140.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     },
     {
       "question_id": "MAINS_P140_Q4",
@@ -308,8 +314,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/mains/mains_page_140.pdf",
-      "markdown_formatted": "- **[2022]** Discuss the procedures to decide the disputes arising out of the election of a Member of the Parliament or State Legislature under The Representation of the People Act, 1951. What are the grounds on which the election of any returned candidate may be declared void? What remedy is available to the aggrieved party against the decision? Refer to the case laws. (15) ([View Mains Source Page 140](pages/mains/mains_page_140.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     },
     {
       "question_id": "MAINS_P140_Q5",
@@ -321,8 +327,8 @@
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/mains/mains_page_140.pdf",
-      "markdown_formatted": "- **[2022]** Discuss the role of the Election Commission of India in the light of the evolution of the Model Code of Conduct. ([View Mains Source Page 140](pages/mains/mains_page_140.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     },
     {
       "question_id": "MAINS_P140_Q6",
@@ -332,8 +338,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/mains/mains_page_140.pdf",
-      "markdown_formatted": "- **[2022]** While the national political parties in India favour centralisation, the regional parties are in favour of State autonomy.\" Comment. (15) ([View Mains Source Page 140](pages/mains/mains_page_140.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     },
     {
       "question_id": "MAINS_P140_Q7",
@@ -343,8 +349,8 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/mains/mains_page_140.pdf",
-      "markdown_formatted": "- **[2020]** \"There is a need for simplification of procedure for disqualification of persons found guilty of corrupt practices under the Representation of peoples Act\" Comment (10) ([View Mains Source Page 140](pages/mains/mains_page_140.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     },
     {
       "question_id": "MAINS_P140_Q8",
@@ -354,47 +360,21 @@
       "related_articles": [],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/mains/mains_page_140.pdf",
-      "markdown_formatted": "- **[2019]** On what grounds a people's representative can be disqualified under the Representation of People Act, 1951? Also mention the remedies available to such person against his disqualification. (15) ([View Mains Source Page 140](pages/mains/mains_page_140.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     },
     {
       "question_id": "MAINS_P140_Q9",
       "year": 2018,
-      "marks": null,
-      "question_text": "In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India? (10) \"The ballot is stronger than the bullet.\" - Abraham Lincoln \"Elections without discipline are a disaster, elections with integrity are democracy's triumph.\" - T.N. Seshan (Former CEC) \"India's democracy survives not because it is perfect, but because it renews itself at every election.\" - Ramachandra Guha \"Elections in India are less about transferring power and more about reaffirming the idea of India itself.\" - Pratap Bhanu Mehta Constitutional Provisions (Part XV: Articles 324-329)",
+      "marks": 10.0,
+      "question_text": "In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India? (10)",
       "related_articles": [
         "Article 324"
       ],
       "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
       "source_page_number": 140,
-      "source_page_image": "pages/mains/mains_page_140.pdf",
-      "markdown_formatted": "- **[2018]** In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India? (10) \"The ballot is stronger than the bullet.\" - Abraham Lincoln \"Elections without discipline are a disaster, elections with integrity are democracy's triumph.\" - T.N. Seshan (Former CEC) \"India's democracy survives not because it is perfect, but because it renews itself at every election.\" - Ramachandra Guha \"Elections in India are less about transferring power and more about reaffirming the idea of India itself.\" - Pratap Bhanu Mehta Constitutional Provisions (Part XV: Articles 324-329) ([View Mains Source Page 140](pages/mains/mains_page_140.pdf))"
-    },
-    {
-      "question_id": "MAINS_P151_Q10",
-      "year": 2026,
-      "marks": null,
-      "question_text": "Election Commission of India v. Ashok Kumar (2000): Affirmed that the ECI has plenary powers to ensure error-free rolls, provided it follows natural justice. 3. Association for Democratic Reforms v. ECI (2026)",
-      "related_articles": [
-        "Article 324"
-      ],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 151,
-      "source_page_image": "pages/mains/mains_page_151.pdf",
-      "markdown_formatted": "- **[2026]** Election Commission of India v. Ashok Kumar (2000): Affirmed that the ECI has plenary powers to ensure error-free rolls, provided it follows natural justice. 3. Association for Democratic Reforms v. ECI (2026) ([View Mains Source Page 151](pages/mains/mains_page_151.pdf))"
-    },
-    {
-      "question_id": "MAINS_P154_Q11",
-      "year": 2018,
-      "marks": null,
-      "question_text": "Pravasi Bhalai Sangathan (2014): Urged the Law Commission to define hate speech to avoid judicial overreach. 4. Tehseen Poonawalla v. UoI (2018)",
-      "related_articles": [],
-      "source_pdf": "06_X-Factor_INDIAN_POLITY_for Mains 2027_CD.pdf",
-      "source_page_number": 154,
-      "source_page_image": "pages/mains/mains_page_154.pdf",
-      "markdown_formatted": "- **[2018]** Pravasi Bhalai Sangathan (2014): Urged the Law Commission to define hate speech to avoid judicial overreach. 4. Tehseen Poonawalla v. UoI (2018) ([View Mains Source Page 154](pages/mains/mains_page_154.pdf))"
+      "source_page_pdf": "pages/mains/mains_page_140.pdf",
+      "source_page_md": "notes/pages/mains_page_140.md"
     }
-  ],
-  "prelims_notes_markdown_path": "Ch11_Sub01_Election_Machinery_RPA_1950_1951_Electoral_Reforms.prelims.md",
-  "smash_mains_notes_markdown_path": "Ch11_Sub01_Election_Machinery_RPA_1950_1951_Electoral_Reforms.mains.md"
+  ]
 }
