@@ -49,17 +49,21 @@ These two files are included at the root of the dataset as standalone JSON datas
 1. `topics`: Array of all 14 chapters with `chapter_json`, `prelims_pages_folder`, `mains_pages_folder`, `diagrams_folder`, and `subtopics`.
 2. `article_and_subtopic_lookup`: Direct dictionary keyed by Article or theme (e.g., `"Article 21"`, `"Article 14"`, `"Article 368"`, `"Article 200"`, `"Panchayat"`).
 
+Chapter entries and their nested subtopic entries include `prelims_notes_markdown_path` and `smash_mains_notes_markdown_path`. Direct lookup entries include those fields for the subtopic notes and `chapter_prelims_notes_markdown_path` / `chapter_smash_mains_notes_markdown_path` for the chapter notes. These master-index paths are relative to the repository root.
+
 ### Step B: Look Up Any Article or Topic (Example: `Article 21`)
 1. Query `master_index.article_and_subtopic_lookup["Article 21"]`:
    - `chapter_json_path`: `"chapters/Ch05_Fundamental_Rights/Ch05_Fundamental_Rights.json"`
    - `subtopic_json_path`: `"chapters/Ch05_Fundamental_Rights/subtopics/Art_21_Right_to_Life_Personal_Liberty_Privacy_Digital_Rights_Education.json"`
 2. Load `subtopic_json_path` (or find the matching item inside `chapter.subtopics_and_articles`):
-   - `prelims_notes_markdown`: Full Prelims notes in Markdown.
-   - `smash_mains_notes_markdown`: Full Smash Mains notes in Markdown.
+   - `prelims_notes_markdown_path`: Relative path to the Prelims Markdown notes.
+   - `smash_mains_notes_markdown_path`: Relative path to the Smash Mains Markdown notes.
    - `relevant_prelims_pyqs` & `relevant_mains_pyqs`: Tagged PYQs with `source_page_image` (pointing to `.pdf`).
    - `diagrams`: List of diagram objects (`diagram_image_path`, `title`, `source_page_image`).
    - `prelims_source_pages` & `mains_source_pages`: Exact relative paths to the single-page source PDFs.
 3. Optionally cross-reference `Coi.json` (filter `chunks` by `article_number`, e.g., `"21"`) for the bare constitutional text and `Laxmikant.json` for textbook coverage.
+
+The chapter JSON retains its topic and subtopic relationships. Notes are stored in adjacent `.prelims.md` and `.mains.md` files; the JSON path fields point to those files. Resolve each note path relative to the directory containing the JSON that supplied it. Chapter JSON subtopic entries point into `subtopics/`, while standalone subtopic JSON paths point to sibling Markdown files.
 
 ### Step C: Resolve Relative Diagram & Source PDF Paths
 All diagram and page links inside a chapter JSON or subtopic JSON (such as `diagrams/pre_diag_art21_rights_table_p052.png` or `pages/prelims/prelims_page_052.pdf`) are **relative to that chapter folder** (`chapters/<topic_id>/`).
@@ -77,9 +81,11 @@ const pagePdfUrl = resolveAssetUrl(pyq.source_page_image);
 ```
 
 ### Step D: Rendering Markdown with High-Res Diagrams & PDF Links
-When rendering `prelims_notes_markdown` or `smash_mains_notes_markdown` in a Markdown component (e.g. `react-markdown`), rewrite `src` and `href` starting with `diagrams/` or `pages/` using `resolveAssetUrl(path)` so that:
+When rendering a Markdown notes file in a Markdown component (e.g. `react-markdown`), resolve links relative to the Markdown file's location so that:
 - `![Diagram](diagrams/...)` renders the high-resolution PNG diagram screenshot inline.
 - `[Prelims Source Page 52](pages/prelims/prelims_page_052.pdf)` opens the single-page source PDF in your PDF viewer/modal or a new browser tab.
+
+Subtopic notes are stored in `subtopics/` and use `../diagrams/` and `../pages/` links to reach chapter assets. Chapter notes are stored beside the chapter JSON and link directly to `diagrams/` and `pages/`.
 
 ## 4. Pushing the Unzipped Folder Structure to GitHub
 
